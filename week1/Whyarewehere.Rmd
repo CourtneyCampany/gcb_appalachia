@@ -6,16 +6,18 @@ output:
     widescreen: true
     smaller: true
 ---
-##
+<!-- ## -->
 
-<IMG STYLE="position:absolute; TOP:75px; LEFT:0px; WIDTH:1100px; HEIGHT:550px" SRC="images/whyhere2024.jpg">
+<!-- <IMG STYLE="position:absolute; TOP:75px; LEFT:0px; WIDTH:1100px; HEIGHT:550px" SRC="images/whyhere2024.jpg"> -->
 
 ## Why are we here?
 <hr>
 <br/>
 <font size="5">*Because...Big Bang?*</font>
  
-<IMG STYLE="position:absolute; TOP:220px; LEFT:0px; WIDTH:1100px; HEIGHT:400px" SRC="images/universe.png">
+<IMG STYLE="position:absolute; TOP:220px; LEFT:0px; WIDTH:700px; HEIGHT:400px" SRC="images/bigbang.png">
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:730px; WIDTH:345px; HEIGHT:475px" SRC="images/cosmiccalendar.png">
 
 ## Why are we here?
 <hr>
@@ -106,72 +108,79 @@ output:
 
 ## 
 
-<IMG STYLE="position:absolute; TOP:50px; LEFT:150px; WIDTH:800px; HEIGHT:600px" SRC="images/problem.png">
+<IMG STYLE="position:absolute; TOP:50px; LEFT:250px; WIDTH:600px; HEIGHT:600px" SRC="images/pew.png">
 
 ## 
 
-<IMG STYLE="position:absolute; TOP:50px; LEFT:200px; WIDTH:700px; HEIGHT:600px" SRC="images/pew.png">
+<IMG STYLE="position:absolute; TOP:50px; LEFT:275px; WIDTH:500px; HEIGHT:600px" SRC="images/pewclimate.png">
 
 ## 
 
-<IMG STYLE="position:absolute; TOP:50px; LEFT:200px; WIDTH:700px; HEIGHT:600px" SRC="images/trustscience.png">
+<IMG STYLE="position:absolute; TOP:50px; LEFT:50px; WIDTH:500px; HEIGHT:600px" SRC="images/pewclimatepolitics.png">
+
+<IMG STYLE="position:absolute; TOP:150px; LEFT:630px; WIDTH:445px; HEIGHT:425px" SRC="images/pewclimatepolitics2.png">
 
 ## 
 
 <IMG STYLE="position:absolute; TOP:50px; LEFT:200px; WIDTH:700px; HEIGHT:600px" SRC="images/doingenough.png">
 
+## 
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:250px; WIDTH:600px; HEIGHT:600px" SRC="images/trustscience.png">
+
 ## Scientists are traditionally not the best communicators
 <hr>
 
-<IMG STYLE="position:absolute; TOP:160px; LEFT:50px; WIDTH:520px; HEIGHT:500px" SRC="images/trust2.jpg">
+<IMG STYLE="position:absolute; TOP:160px; LEFT:50px; WIDTH:520px; HEIGHT:500px" SRC="images/trust5.png">
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:600px; WIDTH:450px; HEIGHT:400px" SRC="images/trust.jpg">
 
-## Trust in science is eroding, largely on party lines
+## Social Framentation: Trust in science is eroding, largely on party lines
 <hr>
 
-<IMG STYLE="position:absolute; TOP:160px; LEFT:50px; WIDTH:520px; HEIGHT:500px" SRC="images/trusterode.jpg">
+<IMG STYLE="position:absolute; TOP:160px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/trust6.png">
 
-<IMG STYLE="position:absolute; TOP:160px; LEFT:650px; WIDTH:350px; HEIGHT:500px" SRC="images/politics.jpg">
+<!-- <IMG STYLE="position:absolute; TOP:160px; LEFT:650px; WIDTH:350px; HEIGHT:500px" SRC="images/politics.jpg"> -->
 
-## We need each other, but is that even possible?
+## Social Framentation: We need each other, but is that even possible?
 <hr>
+https://www.pewresearch.org/2025/05/08/americans-trust-in-one-another/
 
-<IMG STYLE="position:absolute; TOP:160px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/trust3.png">
+<IMG STYLE="position:absolute; TOP:195px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/trustno.jpg">
 
-##  Why are we here?
-<hr>
-<br/>
- <font size="5">*Because...why?*</font>
+<!-- ##  Why are we here? -->
+<!-- <hr> -->
+<!-- <br/> -->
+<!--  <font size="5">*Because...why?*</font> -->
 
-<br/>
-<br/>
-<br/>
-<br/>
+<!-- <br/> -->
+<!-- <br/> -->
+<!-- <br/> -->
+<!-- <br/> -->
 
-**<span style="color:blue">Why did *you* sign up for this class?</span>**
+<!-- **<span style="color:blue">Why did *you* sign up for this class?</span>** -->
 
-<br/>
+<!-- <br/> -->
 
-**<span style="color:blue">What are *you* hoping to get out if it?</span>**
+<!-- **<span style="color:blue">What are *you* hoping to get out if it?</span>** -->
 
-## Next up: Friday open-discussion based on student survey
-<hr>
-<br/>
+<!-- ## Next up: Friday open-discussion based on student survey -->
+<!-- <hr> -->
+<!-- <br/> -->
 
-**Survey now available on Brightspace**
-<br/>
-**Due Thursday @ midnight**
+<!-- **Survey now available on Brightspace** -->
+<!-- <br/> -->
+<!-- **Due Thursday @ midnight** -->
 
-<br/>
+<!-- <br/> -->
 
-**<span style="color:green">THREE: </span>What three things about global change (that you believe so far) are the most important for a non-scientist to know?**
+<!-- **<span style="color:green">THREE: </span>What three things about global change (that you believe so far) are the most important for a non-scientist to know?** -->
 
-<br/>
+<!-- <br/> -->
 
-**<span style="color:green">TWO: </span>What two things about global change would you like to learn more about in this class?**
+<!-- **<span style="color:green">TWO: </span>What two things about global change would you like to learn more about in this class?** -->
 
-<br/>
+<!-- <br/> -->
 
-**<span style="color:green">ONE: </span>What controversy about global/climate change are you aware of?**
+<!-- **<span style="color:green">ONE: </span>What controversy about global/climate change are you aware of?** -->
 

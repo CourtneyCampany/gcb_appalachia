@@ -7,102 +7,423 @@ output:
     smaller: true
 ---
 
-## The Big Bang to the Blue Ridge
+## Why are we here? The Big Bang to the Blue Ridge
+<hr>
 
-- The universe began 13.8 billion years ago.
-
-- Appalchian Mtns: Formed over billion years ago
+- **Appalachian Mountains: Formed over billion years ago**
     + among Earth's oldest mountain ranges
     + formation from the collision of ancient landmasses
     + major uplift/folding occurred during Pangea (335mya)
+    
+<br/>
 
-- Erosion & Rejuvenation: Once as tall as the Alps, eroded to plains, then uplifted again in the Cenozoic
+- **Once as tall as the Alps, eroded to plains, then uplifted again in the Cenozoic**
     + Continues to be shaped by erosion, weathering, and geological forces
     
-<IMG STYLE="position:absolute; TOP:400px; LEFT:0px; WIDTH:1100px; HEIGHT:400px" SRC="images/southernapp.jpg">
+<IMG STYLE="position:absolute; TOP:400px; LEFT:100px; WIDTH:900px; HEIGHT:340px" SRC="images/southernapp.jpg">
 
----
 
-## Central Pangean Mountains
+## Central Pangean mountains
+<hr>
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:20px; WIDTH:500px; HEIGHT:500px" SRC="images/lapetus.jpg">
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:550px; WIDTH:500px; HEIGHT:5005px" SRC="images/pangeamtn.jpeg">
+<IMG STYLE="position:absolute; TOP:180px; LEFT:550px; WIDTH:500px; HEIGHT:500px" SRC="images/pangeamtn.jpeg">
 
----
+## Why are we here? Human presence in the mountains
+<hr>
 
-## Human presence in the mountains
-
-- Native peoples arrived in the Appalachian region during  the Paleoindian Period (10,000 to 14,000 years ago])
+- **Native peoples arrived in the Appalachian region during  the Paleoindian Period (10,000-14,000 ya)**
     + This initial settlement  occurred at the end of the last Ice Age
     + Settlers were highly mobile bands of foragers, hunters, and fishers
-    
-- Foraging, hunting, and fishing remained the subsistence for the Native peoples of Appalachia throughout the Archaic Period (3,000 to 10,000 years ago])
 
-<IMG STYLE="position:absolute; TOP:400px; LEFT:100px; WIDTH:900px; HEIGHT:400px" SRC="images/paleoindian.jpg">
+<br/>
 
----
-## Modern indengious peoples in the mountains
+- **Foraging, hunting, and fishing remained the subsistence for the Native peoples of Appalachia throughout the Archaic Period (3,000 to 10,000 ya)**
 
-- The Cherokee people are the original Appalachians, with evidence indicating a human presence in the current Cherokee territory in North Carolina for almost 12,000 years
+<IMG STYLE="position:absolute; TOP:375px; LEFT:250px; WIDTH:600px; HEIGHT:300px" SRC="images/paleoindian.jpg">
 
-- The Appalachian Trail runs through 22 Native Nations’ traditional territories and holds an abundant amount of Indigenous American history.
+## Why are we here? Modern indengious peoples in the mountains
+<hr>
+<br/>
 
-- The Appalachian Region includes 3 federally recognized and 5 state recognized Native American Tribal Communities
+<div style="float: left; width: 50%;">
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:550px; WIDTH:500px; HEIGHT:5005px" SRC="images/tribes.png">
+- **The Cherokee people are the original Appalachians, with evidence indicating a human presence in the current Cherokee territory in North Carolina for almost 12,000 years**
 
----
+<br/>
 
-## Indian Removal Act (1830)
+- **The Appalachian Trail runs through 22 Native Nations’ traditional territories and holds an abundant amount of Indigenous American history**
 
-- U.S. law that forced relocation of Native American tribes to lands west of the Mississippi River
+<br/>
+
+- **The Appalachian Region includes 3 federally recognized and 5 state recognized Native American Tribal Communities**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:560px; WIDTH:500px; HEIGHT:500px" SRC="images/tribes.png">
+
+
+## Why are we here? Indian Removal Act (1830)
+<hr>
+<br/>
+
+<div style="float: right; width: 50%;">
+
+- **U.S. law that forced relocation of Native American tribes west of the Mississippi River**
     + tribes in the Appalachian region included the Cherokee, Creek, Chickasaw, and others
-    + tribes were displaced from homelands they had inhabited for centuries
-    + coveted by white settlers for use as cotton plantations and gold mining
+    + lands coveted by white settlers for use as cotton plantations and gold mining
 
-- Trail of Tears: Thousands of Cherokee were forcibly marched west in 1838; thousands died from disease, exposure, and starvation
+<br/>
 
-- Cultural Disruption: Removal led to the breakdown of traditional social structures, languages, and spiritual practices
+- **Trail of Tears: Thousands of Cherokee were forcibly marched west in 1838; thousands died from disease, exposure, and starvation**
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:550px; WIDTH:500px; HEIGHT:5005px" SRC="images/ira.jpg">
+<br/>
 
----
+- **Cultural Disruption: Removal led to the breakdown of traditional social structures, languages, and spiritual practices**
 
-## Early European settlement of the mountains
+</div>
 
--17th–18th Century Settlement: English, Scotch-Irish, and German pioneers arrived seeking land and opportunity
+<IMG STYLE="position:absolute; TOP:180px; LEFT:10px; WIDTH:530px; HEIGHT:500px" SRC="images/ira.jpg">
 
--Migration Routes: Came from regions like Virginia, Pennsylvania, and the North Carolina Piedmont
 
--Economic Focus: Primarily farming and livestock in valleys and hillsides
+## Why are we here? Early European settlement of the mountains
+<hr>
 
--Major Challenges: Faced rugged terrain, limited transport, and conflict with Native populations
+- **17th–18th Century Settlement: English, Scotch-Irish, and German pioneers arrived seeking land and opportunity**
+    + In the late 1700's most of the population in the United States was found east of the Appalachian Mountains
 
--Cultural Legacy: Introduced traditions in music, crafts, and customs that shaped Appalachian culture
+<br/>
 
----
+- **Early pioneers and settlers traveled along the historic Wilderness Road west into the wilderness of Kentucky through Cumberland Gap**
 
-## Modern Appalchian cultural history
+<br/>
+<div style="float: right; width: 60%;">
 
--Industrial Revolution: Coal, timber, and iron extraction transformed the Appalachian economy and population
+- **Economic Focus: Primarily farming and livestock in valleys and hillsides**
 
--American Revolution: Served as a key defensive region; notable battle at Kings Mountain
+<br/>
 
--Federal Preservation: Creation of parks like Shenandoah and Great Smoky Mountains signaled increased federal land management
+- **Major Challenges: Faced rugged terrain, limited transport, and conflict with Native populations**
 
--Modern Appalachia: Region remains culturally rich, facing ongoing economic and environmental challenges
+<br/>
 
-## Cultural identity in Appalachia
+- **Cultural Legacy: Introduced traditions in music, crafts, and customs that shaped Appalachian culture**
 
--Early Adaptation: Indigenous peoples developed seasonal hunting, gathering, and farming techniques suited to mountainous terrain
+</div>
 
--Pioneer Ingenuity: Settlers built log cabins, terraced hillsides for farming, and used local materials for survival
 
--Resource Use: Communities adapted to isolation by relying on coal, timber, and small-scale farming
+<IMG STYLE="position:absolute; TOP:380px; LEFT:70px; WIDTH:350px; HEIGHT:300px" SRC="images/Wilderness_Road_Map.jpg">
 
--Cultural Resilience: Music, storytelling, and crafts evolved to reflect and preserve Appalachian identity
+## Why are we here? Modern Appalachian cultural history
+<hr>
+<br/>
 
--Modern Shifts: Residents continue adapting to economic shifts, environmental change, and rural depopulation
+- **Industrial Revolution: Coal, timber, and iron extraction transformed the economy and population**
 
----
+<br/>
+
+- **American Revolution: Served as a key defensive region; notable battle at Kings Mountain**
+
+<div style="float: left; width: 65%;">
+
+<br/>
+
+- **Federal Preservation: Creation of parks like Shenandoah, New River Gorge and Great Smoky Mountains signaled increased federal land management**
+
+<br/>
+
+- **Modern Appalachia: Region remains culturally rich, facing ongoing economic and environmental challenges**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:320px; LEFT:700px; WIDTH:340px; HEIGHT:390px" SRC="images/nrg.png">
+
+## Why are we here? Cultural identity in Appalachia
+<hr>
+<br/>
+
+- **Early Adaptation: Indigenous peoples developed seasonal hunting, gathering, and farming techniques suited to mountainous terrain**
+
+<br/>
+
+- **Pioneer Ingenuity: Settlers built log cabins, terraced hillsides for farming, and used local materials for survival**
+
+<br/>
+
+- **Resource Use: Communities adapted to isolation by relying on coal, timber, and small-scale farming**
+
+<br/>
+
+- **Cultural Resilience: Music, storytelling, and crafts reflect and preserve Appalachian identity**
+
+<br/>
+
+- **Modern Shifts: Residents face economic shifts, environmental change, and rural depopulation**
+
+
+## Why are we here? Impact of those cultural choices
+<hr>
+<br/>
+<br/>
+
+<div style="float: left; width: 40%;">
+
+- **Strip mining, mountaintop removal, and their environmental consequences**
+
+<br/>
+
+- **Economic dependency on single industries led to cycles of boom and bust**
+
+<br/>
+
+- **Cultural impacts: Displacement, community fragmentation, and revival efforts**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:450px; WIDTH:600px; HEIGHT:500px" SRC="images/ruralstats2.png">
+
+
+## Why are we here? Limiting stories in Appalachia
+<hr>
+<br/>
+
+- **Stereotypes: Poverty, ignorance, isolation**
+
+<br/>
+
+- **Counter-narratives: Rich traditions in music, storytelling, community solidarity, and activism**
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+- **<span style="color:blue">Question: How do these stories limit or empower regional identity and future policy?</span>**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:315px; LEFT:250px; WIDTH:600px; HEIGHT:300px" SRC="images/wrong.jpg">
+
+
+## Why are we here? The urgency for a new Appalachian story
+<hr>
+<br/>
+<br/>
+<br/>
+<div style="float: right; width: 50%;">
+
+- **Climate vulnerability: Floods, erosion, and economic uncertainty**
+
+<br/>
+
+- **Importance of cultural and ecological resilience**
+
+<br/>
+
+- **Embracing renewable energy, agroecology, ecotourism, and localism**
+    + reinvention of the economy
+</div>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/mtnstrong.jpg">
+
+
+##  Why are we here? Approaching ecological thresholds
+<hr>
+
+- **Ecological tipping points in central Appalachia: Deforestation, water pollution, biodiversity loss**
+    + Appalachian mountains are a vital migratory route and climate refuge
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:150px; WIDTH:800px; HEIGHT:400px" SRC="images/migration.jpg">
+
+##  Why are we here? Approaching societial thresholds
+<hr>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+<div style="float: right; width: 55%;">
+
+- **Socioeconomic thresholds: Outmigration, health crises (e.g., opiod epidemic), education gaps.**
+    + In 2023, nearly 41,000 people left West Virginia
+    + What happens if we don’t act?
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:75px; WIDTH:400px; HEIGHT:500px" SRC="images/popgrowth.jpeg">
+
+
+##  Why are we here? Shifting baselines in Appalachia
+<hr>
+<br/>
+
+- **Shift from dense forest and clean rivers to industrial scars and reclaimed lands**
+    + What is your firefly story?
+    
+<br/>
+
+- **Loss of traditional knowledge and oral history**
+
+
+<IMG STYLE="position:absolute; TOP:360px; LEFT:250px; WIDTH:600px; HEIGHT:300px" SRC="images/firefly.jpg">
+
+
+##  Why are we here? Telling a new hero'sstory
+<hr>
+<br/>
+
+- **Appalachia as a place of strength, creativity, and resilience**
+    + Reflect: What do *you* bring to this place?
+
+<br/>
+
+<div style="float: left; width: 60%;">
+
+- **Artists, scientists, and citizens reshaping the narrative**
+    + Act: How can *you* be a steward of Appalachian landscapes and cultures?
+
+<br/>
+
+- **How do we rewriting Appalachia's story moving forward?**
+    + Connect: How do *we* broaden the knowledge base of Appalachian past, present and future?
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:700px; WIDTH:300px; HEIGHT:500px" SRC="images/mtnsbook.jpg">
+
+
+## Science communication in Appalachia
+<hr>
+- **Barriers: Educational disparities, mistrust of institutions, digital divides**
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:200px; WIDTH:800px; HEIGHT:400px" SRC="images/flood.jpg">
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+- **Opportunities: Place-based science education, citizen science, ecotourism**
+
+## Rebuilding trust in science in this region...
+<hr>
+<br/>
+<br/>
+<br/>
+
+<div style="float: left; width: 50%;">
+
+- **Community-led research and partnerships with local universities**
+
+<br/>
+
+- **Grounding climate science in lived experience (e.g., flood damage, farming shifts)**
+
+<br/>
+
+- **Bridging tradition with innovation**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:600px; WIDTH:400px; HEIGHT:500px" SRC="images/pewlived.png">
+
+## Social Fragmentation: How can we mend the social fabric?
+<hr>
+
+- **Political polarization, economic decline, and outside exploitation.**
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+- **Yet also: inter-generational households, neighborly networks, and spiritual communities**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:800px; HEIGHT:400px" SRC="images/greenness.jpg">
+
+
+## Course Purpose in Context of 'Why are we here?'
+<hr>
+
+- **This course is not just about learning facts—it’s about place-based awareness and civic responsibility.**
+
+<br/>
+
+- **I will do my best to teach global change in an accessible manner. Our discussions, however, will be driven by the uniqueness of ideas, motivations, and concerns of you**
+    + You’re part of a living history. What chapter will you write?
+
+
+<IMG STYLE="position:absolute; TOP:350px; LEFT:300px; WIDTH:600px; HEIGHT:300px" SRC="images/youmtns.jpg">
+
+
+## Lab Today: Build your Appalachian caricature
+<hr>
+<br/>
+<br/>
+<br/>
+<br/>
+
+- **Why are you here—in this class, on this campus, in this region?**
+
+<br/>
+
+- **What do you hope to give and receive during your time in Appalachia?**
+
+<br/>
+
+- **Try to use AI to build a caricature of your Appalachian self**
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:775px; WIDTH:275px; HEIGHT:500px" SRC="images/ai_me.png">
+
+## Friday Discussion Assignment (posted on Brightspace)
+<hr>
+<br/>
+<br/>
+<br/>
+
+- **Reflect on what you've learned/know about Appalachia’s past and future AND your perceived knowledge of global change**
+
+<br/>
+
+- **Check your group assignment (by last name) for Friday's group discussion**
+    + Submit short answers to the questions (min 1/2 page, max 1 page)
+    + Submit a link/pdf to at least one article that relates to your group questions
+
