@@ -1,0 +1,376 @@
+---
+title: "Global Change Biology: Primer"
+output: 
+  ioslides_presentation:
+    css: custom.css
+    widescreen: true
+    smaller: true
+---
+
+## What's in a name: Evolution of terminology
+<hr>
+<br/>
+<br/>
+
+<div style="float: right; width: 50%;">
+
+- **1970s: "Inadvertent Climate Modification" (NAS, 1971)**
+
+<br/>
+
+- **1980s–1990s: "Global Warming"**
+
+<br/>
+
+- **2000s: "Climate Change"**
+
+<br/>
+
+- **Present: "Global Change" – includes climate change, land use, biodiversity, pollution, etc. **
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:25px; WIDTH:500px; HEIGHT:400px" SRC="images/climatesick.png">
+
+## What's in a name: What is Global Change Biology?
+<hr>
+<br/>
+<br/>
+
+<div style="float: right; width: 60%;">
+
+- **Study of how global environmental changes affect biological systems**
+
+<br/>
+
+- **Includes: climate change, land transformation, nutrient cycles, pollution, species introductions**
+
+<br/>
+
+- **Focus on human-driven causes**
+    + human impacts on the biosphere have ramped up at key times in our history
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:50px; WIDTH:400px; HEIGHT:500px" SRC="images/gcb_journal.jpg">
+
+## What's in a name: Anthropocene
+<hr>
+<br/>
+
+<div style="float: left; width: 50%;">
+
+- **Current period where human activities are the dominant force shaping the Earth's geology and ecosystems**
+     + appears in scientific and social discourse
+     
+<br/>
+
+- **Denotes current geological age - YET not an officially recognized geological epoch**
+    + coincides with Atomic-Age (post 1950)
+    + Crawford lake (Canada) selected as 'golden spike'
+
+<br/>
+
+- **Proposal rejected in 2024 after 15 years of deliberation**
+    + not enough data and not enough time has passes since start date
+    
+ </div>
+ 
+<IMG STYLE="position:absolute; TOP:200px; LEFT:590px; WIDTH:500px; HEIGHT:450px" SRC="images/craford.jpg">
+
+## Key drivers of global change and their consequences
+<hr>
+<br/>
+
+- **Climate change**
+
+<br/>
+
+- **Land transformation**
+
+<br/>
+
+- **Disruption of biogeochemical cycles**
+
+<br/>
+
+- **Pollution**
+
+<br/>
+
+- **Introduction of species outside their native ranges**
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:480px; WIDTH:550px; HEIGHT:450px" SRC="images/connections.png">
+
+## Key drivers: Climate Change – Causes
+<hr>
+
+<div style="float: left; width: 49%;">
+
+- **Greenhouse gas emissions (GHG's)**
+    + Carbon dioxide (CO~2~) from industry/transportation/energy production
+    + Methane (CH4) from agriculture/landfills/fossil fuels
+    + Nitrous Oxide (N~2~0) from agriculture/industry
+    + Water vapor (H~2~0) from evaporation
+
+ </div>
+
+<div style="float: right; width: 49%;">
+
+- **Deforestation - plants naturally take up (CO~2~)**
+
+<br/>
+
+- **Shifts in albedo (color = reflective) from urbanization**
+
+<br/>
+
+- **Non-human influences - Solar variability, volcanic activity, and ocean currents**
+ </div>
+ 
+<IMG STYLE="position:absolute; TOP:430px; LEFT:100px; WIDTH:900px; HEIGHT:300px" SRC="images/atmosphere.png">
+
+## Earth's Temperature is a Balancing Act
+<hr>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:1000px; HEIGHT:450px" SRC="images/radbudget2.jpg">
+
+## The Greenhouse Gas Effect is a natural process
+<hr>
+**GHG's play a critical role in maintaining Earth’s habitable temperature. Without GHG's, Earth would likely plunge into an ice age, as heat would escape back into space.**
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:50px; WIDTH:1000px; HEIGHT:450px" SRC="images/gge2.png">
+
+## Human have Modified the Existing Greenhouse Gas Effect
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/ggereview.png">
+
+## Climate Change – Effects on Natural Systems
+<hr>
+<br/>
+<br/>
+<br/>
+
+- **Species distribution shifts**
+
+<br/>
+
+- **Migration and breeding changes**
+
+<br/>
+
+- **Coral bleaching, ocean acidification**
+
+<br/>
+
+- **Extinctions**
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:500px; WIDTH:470px; HEIGHT:520px" SRC="images/migrate.png">
+
+## Climate Change – Effects on Our Species
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:50px; WIDTH:1000px; HEIGHT:500px" SRC="images/cc_humans4.png">
+
+## Land Transformation by Humans is a Global Phenonmenon
+<hr>
+
+- **Agriculture: Conversion of forests, grasslands, and wetlands into croplands and pastures**
+
+<br/>
+
+- **Urbanization: Expansion of cities, roads, and infrastructure fragments natural habitats**
+    + Increases impervious surfaces, disrupting water flow, urban heat islands, and pollution
+
+<br/>
+
+- **Deforestation: Logging for timber, agriculture, and fuel**
+    + removes carbon sinks, causes soil erosion, and loss of biodiversity
+
+<br/>
+
+- **Infrastructure Development: Construction of dams, highways, and mining operations**
+    + modifies/removes habitats, interrupts animal migration routes and river flows.
+
+<br/>
+
+- **Land Drainage: Conversion of wetlands, estuaries, and mangroves for development**
+    + Loss of ecosystems that buffer storms and filter pollutants.
+
+## Land Transformation: Habitat Loss
+<hr>
+<IMG STYLE="position:absolute; TOP:180px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/habitatloss.png">
+
+
+## Land Transformation: Biodiversity
+<hr>
+<IMG STYLE="position:absolute; TOP:180px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/biodiversity_usa.jpg">
+
+
+## Land Transformation: Altered Water Flows
+<hr>
+<IMG STYLE="position:absolute; TOP:180px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/waterflow.png">
+
+## Land Transformation: Expansion of Human-Wildland Interface
+<hr>
+<IMG STYLE="position:absolute; TOP:180px; LEFT:100px; WIDTH:900px; HEIGHT:400px" SRC="images/interface.png">
+
+## Land Transformation: Removal of Historic Fire Regimes
+<hr>
+<IMG STYLE="position:absolute; TOP:180px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/fire.jpg">
+
+## Land Transformation: Creation of Urban Heat Islands
+<hr>
+<IMG STYLE="position:absolute; TOP:180px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/heatislands.png">
+
+## Altered Biogeochemical Cycles – Overview
+<hr>
+* **Biogeochemical cycle: the movement and transformation of chemical elements/compounds between living organisms, the atmosphere, and the Earth's crust**
+
+<br/>
+
+* **Carbon Cycle - C is main element for building organic molecules essential for life**
+    + Fossil Fuel Combustion: Releases vast amounts of CO₂
+    + Deforestation: Reduces the Earth's capacity to absorb atmospheric carbon
+
+<br/>
+
+* **Nitrogen Cycle - N is used to build molecules like proteins, nucleic acids (DNA and RNA)**
+    + Synthetic Fertilizer: Adds nitrogen to soils and waterways, which escapes into aquatic ecosystems
+    + Fossil Fuel Combustion: Produces greenhouse gasses, contributes to smog, and acid rain, 
+    + Livestock Waste: Releases greenhouse gasses
+
+<br/>
+
+* **Phosphorus Cycle - building blocks like DNA and RNA, energy molecules, cell membranes**
+    + Agricultural Runoff: Excess phosphorus from fertilizers enters rivers and lakes
+    + Wastewater Discharge: Human sewage contributes to phosphorus overload in aquatic systems
+
+## Eutrophication - Excessive N & P in Aquatic Systems
+<hr>
+**Excessive nutrient levels lead to rapid algal growth. As these algal blooms decay, oxygen is depleted in the water, suffocating fish and other organisms**
+
+<IMG STYLE="position:absolute; TOP:205px; LEFT:50px; WIDTH:1000px; HEIGHT:450px" SRC="images/eutrop.png">
+
+## Ocean Acidification from CO~2~ emissions
+<hr>
+
+**Oceans absorb CO~2~. When CO~2~ dissolves in seawater, it forms carbonic acid, releasing hydrogen ions and increases ocean acidity. More acidification makes it harder for organisms to build/maintain shells**
+
+<IMG STYLE="position:absolute; TOP:225px; LEFT:200px; WIDTH:800px; HEIGHT:460px" SRC="images/acid.png">
+
+
+## Pollution from Humans is Vast
+<hr>
+<br/>
+
+- **Industrial Activities (factories) emit air pollutants**
+    + Chemical waste and heavy metals often contaminate soil and water.
+    + Plastic manufacturing also contributes to microplastic pollution.
+
+<br/>
+
+- **Vehicles release GHG's, volatile organic compounds (VOCs), and particulate matter**
+    + land and air transportation
+
+<br/>
+
+- **Agriculture fertilizer, pesticides and herbicides contaminate soil and water**
+    + harming non-target organisms
+
+<br/>
+
+- **Residential and Urban Waste includes household chemicals, plastic, and electronic waste** 
+    + dssege and wastewater discharge pollutes aquatic ecosystems
+
+<br/>
+
+- **Plastic waste, oil spills, and ballast water discharge pollute oceans and harm marine life**
+
+## Biological Effects of Pollution
+<hr>
+<br/>
+<br/>
+<br/>
+
+<div style="float: left; width: 49%;">
+
+- **Reproductive decline**
+
+<br/>
+
+- **Genetic mutations**
+
+<br/>
+
+- **Ecosystem degradation**
+
+<br/>
+
+- **Bioaccumulation**
+
+ </div>
+ 
+ <IMG STYLE="position:absolute; TOP:180px; LEFT:450px; WIDTH:400px; HEIGHT:500px" SRC="images/bioaccum.jpg">
+ 
+
+## Species Introductions – Why?
+<hr>
+
+- **An introduced species is a species that has been brough by human activity to an area where it does not naturally occur**
+
+<br/>
+
+<div style="float: left; width: 40%;">
+- **If specices becomes harmful to the environment = invasive**
+
+<br/>
+
+- **Intentional: agriculture, pets**
+    + many crop species = non-native
+    + species are sometimes introduced to fight an invasice species = biocontrol
+    
+<br/>
+
+- **Unintentional: ballast water, trade**
+
+<br/>
+
+- **Accelerated by globalization**
+ </div>
+ <IMG STYLE="position:absolute; TOP:205px; LEFT:475px; WIDTH:550px; HEIGHT:490px" SRC="images/invasiveforests.jpg">
+ 
+ 
+## Invasive Species – Impacts
+<hr>
+**Invasive species often lack natural predators/diseases in new locations, allowing them to grow rapidly and outcome native species**
+
+ <IMG STYLE="position:absolute; TOP:220px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/invasioncost.jpg">
+
+
+## Global Change Factors can be Interconnected
+<hr>
+
+ <IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:1000px; HEIGHT:450px" SRC="images/feedback.png">
+
+## Global Change Factors can be Interconnected – Coral Reefs
+<hr>
+<br/>
+<br/>
+<br/>
+<br/>
+
+<div style="float: left; width: 40%;">
+
+**When corals becomes stressed, the zooxanthellae (colorful algae) leave, causing coral 
+bleaching and potentially death of the corals** 
+
+<br/>
+
+**What causes corals to be stressed?**
+
+ </div>
+ 
+ <IMG STYLE="position:absolute; TOP:180px; LEFT:500px; WIDTH:500px; HEIGHT:500px" SRC="images/coralstress.png">
+
