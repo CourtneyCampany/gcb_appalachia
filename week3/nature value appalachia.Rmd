@@ -1,0 +1,435 @@
+---
+title: "The Value of Nature in Appalachia"
+output: 
+  ioslides_presentation:
+    css: custom.css
+    widescreen: true
+    smaller: true
+---
+
+## The Value of Nature at Regional Scales
+<hr>
+<br/>
+
+* **Understand the *unique* ecological, economic, and social benefits that a region's natural resources provide enables more effective conservation and sustainable development planning**
+
+<br/>
+
+* **By focusing on regional scales, we can identify:**
+    1. specific ecosystem services
+    2. economic dependencies
+    3. cultural values that are tied to local nature
+
+<br/>    
+    
+* **Leads to more tailored and impactful strategies**
+
+<IMG STYLE="position:absolute; TOP:280px; LEFT:625px; WIDTH:450px; HEIGHT:350px" SRC="images/region.jpg">
+
+## Why is Nature so Valuble in Appalachia?
+<hr>
+
+- **Rich in biodiversity with many *endemic* species**
+    + endemic species = 
+    
+<br/>
+
+- **Long cultural history of land connection, especially Indigenous and settler traditions**
+
+<br/>
+
+- **Economically tied to natural resources—forests, streams, wildlife**
+    + are coal/timber industries a 'resource curse'?
+
+<IMG STYLE="position:absolute; TOP:425px; LEFT:200px; WIDTH:700px; HEIGHT:250px" SRC="images/sala.jpg">
+
+## The value of biological diversity: Categories
+<hr>
+<br/>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:145px; LEFT:100px; WIDTH:850px; HEIGHT:60px" SRC="images/takealook.png">
+
+- **Scientific Value**: Factors that lead to gain or loss of species
+
+<br/>
+
+- **Value to Human Health**: We rely on natural systems for our persistance
+
+<br/>
+
+- **Economic Value**: Biodiversity has infinite commercial value
+
+<br/>
+
+- **Cultural Value**: Natural world anchors human culture
+
+<br/>
+
+- **Ethical Value**: Moral role in conservation and stewardship
+
+<br/>
+
+- **Intrinsic Value**: Value of life
+
+
+## Scientific Value in Appalachia
+<hr>
+<br/>
+
+<div style="float: left; width: 50%;">
+
+- **One of the most biodiverse temperate regions on Earth**
+    + ~50% of salamander species are endemic!
+    + high diversity areas are typically warm, close to the equator, and/or are *near mountain ranges*
+    
+<br/>
+
+- **Important research site for studying climate impacts and species resilience**
+    + Appalachian mountains are a *climate refuges*
+    
+<br/>
+
+- **Hosts long-term ecological research sites**
+    + https://www.neonscience.org/about
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:230px; LEFT:550px; WIDTH:520px; HEIGHT:390px" SRC="images/hotspots.jpg">
+
+## NEON and other monitoring sites in funding peril???
+<hr>
+**National Ecological Observatory Network (NSF NEON) provides high-quality, open and free data to enable research on the impacts of climate and land-use change, water availability and invasive species on the nation's living ecosystems**
+
+<IMG STYLE="position:absolute; TOP:230px; LEFT:150px; WIDTH:800px; HEIGHT:450px" SRC="images/neon.png">
+
+## Human Health Value in Appalachia
+<hr>
+<br/>
+
+- **Medicinal plants (e.g., black cohosh, ginseng) have long been used for healing**
+    + Dietary Supplement Health and Education Act (1994) creating a regulatory framework for  herbal medicines under the Food and Drug Administration
+    + folk 'herbalism', however, is not being passed on effectively
+    
+<br/>
+
+- **Appalachian streams serve as drinking water sources for millions**
+    + A recent meta analysis of >3,000 Appalachain studies over 20 years could not reach clear conclusions about the state of water quality, or its impacts on health, in any of Appalachia's subregions
+    
+
+<br/>
+
+- **Forests help filter air and mitigate respiratory issues in rural communities**
+    + Clean Air Act (Federal, 1970), Smokestacks Act (State, 2002)
+
+## Ginseng populations are a fraction of historical levels: WHY?
+<hr>
+**Ginseng grows in Appalachia and a region of China called Manchuria. Ginseng in thought to aid in immunity, blood sugar regulation , stress, cardiovascular health...**
+
+<br/>
+
+* **Is it overharvesting?**
+
+<br/>
+
+* **OR is it...**
+    + logging
+    + surface mining
+    + climate change
+    + deer overpopultions
+    + climate change
+    + housing developement
+
+<IMG STYLE="position:absolute; TOP:240px; LEFT:600px; WIDTH:400px; HEIGHT:400px" SRC="images/ginsengmap.png">
+
+## Air quality laws vs Deforestation
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:100px; WIDTH:1000px; HEIGHT:500px" SRC="images/smokestack.png">
+
+## Appalachia Economic Value – Timber & Tourism
+<hr>
+<br/>
+
+<div style="float: left; width: 48%;">
+
+- **Sustainable forestry and outdoor recreation are major contributors**
+
+<br/>
+
+- **Ecotourism and national park visitation**
+    + Great Smoky Mountains NP: 12 million visits (2024)
+    + New River Gorge NP; 1.8 million visits (2024)
+    + Shenandoah NP: 1.7 million visits (2024)
+
+<br/>
+
+- **Loss of biodiversity risks undermining long-term economic sustainability**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:170px; LEFT:520px; WIDTH:500px; HEIGHT:500px" SRC="images/forestvalue.png">
+
+## Appalachia Economic Value – Foraging & Hunting
+<hr>
+<br/>
+<br/>
+<br/>
+
+<div style="float: left; width: 50%;">
+
+- **Cultural and economic reliance on hunting, fishing, and foraging**
+
+<br/>
+
+- **Seasonal harvesting of ramps, mushrooms, and herbs**
+
+<br/>
+
+- **Wildlife declines impact local food security and livelihoods**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:170px; LEFT:500px; WIDTH:575px; HEIGHT:500px" SRC="images/trout2.jpg">
+
+## Appalachia Economic Value – Foraging & Ginseng
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:10px; WIDTH:1000px; HEIGHT:500px" SRC="images/ginseng.png">
+
+## Cultural Value of Appalachia
+<hr>
+<br/>
+<br/>
+<br/>
+
+<div style="float: left; width: 40%;">
+
+- **Deep place-based traditions tied to land: music, storytelling, herbalism**
+
+<br/>
+
+- **Indigenous ecological knowledge systems still practiced**
+
+<br/>
+
+- **Cultural identity rooted in mountains and nature**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:500px; WIDTH:600px; HEIGHT:450px" SRC="images/placemaking.png">
+
+## Ethical Value of Appalachia
+<hr>
+
+- **Stewardship rooted in faith and folklore (e.g., “God’s creation” ethics)**
+
+<br/>
+
+- **Rise of community land trusts and conservation easements**
+
+<br/>
+
+- **Balancing extraction history (e.g., coal) with ecological healing**
+
+<IMG STYLE="position:absolute; TOP:400px; LEFT:100px; WIDTH:900px; HEIGHT:300px" SRC="images/heritagefund.png">
+
+## Intrinsic Value of Appalachia
+<hr>
+<br/>
+<br/>
+
+<div style="float: right; width: 55%;">
+
+- **Nature has value beyond utility**
+    + while providing clean air and water, it also holds intrinsic worth, meaning it has value regardless of its usefulness to humans
+
+<br/>
+
+- **The Appalachian region sustains us economically but it's true value is much deeper to those that live here**
+    + Presence of sacred places (e.g., waterfalls, burial mounds)
+    + Storytelling that celebrates animals and forests as having spirit or “aliveness”
+        + Appalachian cryptids...
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:0px; WIDTH:500px; HEIGHT:450px" SRC="images/iceberg.png">
+
+## Case Study Species – Salamanders
+<hr>
+<br/>
+
+<div style="float: left; width: 55%;">
+
+- **Appalachians: Salamander capital of the world**
+    +  cool high-elevation environments represent ideal habitats
+
+<br/>
+
+- **Keystone species in forest ecosystems**
+    + both predator and prey
+    + role in insect population control, soil health, and food webs
+
+<br/>
+
+- **Sensitive to climate change and pollution**
+    + breath partially through their skin, which makes them sensitive to change
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:240px; LEFT:600px; WIDTH:460px; HEIGHT:400px" SRC="images/sala2.jpg">
+
+## Appalachian salamanders - Scientific Value
+<hr>
+<br/>
+
+<div style="float: left; width: 55%;">
+
+- **Biodiversity Indicators: The Appalachians host the highest diversity of salamanders in the world, particularly lungless salamanders**
+    + Critical group for studying evolutionary biology
+
+<br/>
+
+- **Ecological Research: Salamanders are used in studies on forest ecology, climate change sensitivity, and soil nutrient cycling**
+
+<br/>
+
+- **Model Organisms: Some species, like the Eastern red-backed salamander, are model organisms for studying territoriality, behavior, and microhabitat use**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:660px; WIDTH:400px; HEIGHT:500px" SRC="images/glow.jpg">
+
+## Appalachian salamanders - Value to Human Health
+<hr>
+<br/>
+
+
+
+- **Medical Research: Salamanders possess regenerative abilities (e.g., limb regeneration), which are being studied for advances in human medicine and tissue regeneration**
+    + *bioprospecting*
+
+<br/>
+
+<div style="float: left; width: 58%;">
+
+- **Environmental Health Indicators: Salamanders are bioindicators of ecosystem health because of their sensitivity to pollution, pH changes, and toxins**
+    + Monitoring them helps predict threats to water quality that affect human populations.
+    + e.g., Atrazine found in water sources—impacts amphibians and possibly humans
+</div>
+
+<IMG STYLE="position:absolute; TOP:280px; LEFT:600px; WIDTH:400px; HEIGHT:350px" SRC="images/canary.jpg">
+
+## Appalachian salamanders - Economic Value
+<hr>
+
+- **Ecosystem Services: By consuming vast numbers of insects, salamanders help regulate pest populations in forest ecosystems, reducing the need for chemical pest control**
+
+<br/>
+
+- **Ecotourism and Education: The biodiversity of salamanders, attracts ecotourists, naturalists, and researchers, supporting local economies through nature-based tourism and education programs**
+
+<br/>
+
+- **Scientific Funding: Research on Appalachian salamanders attracts grants and investment in regional universities and conservation organizations**
+
+<IMG STYLE="position:absolute; TOP:450px; LEFT:50px; WIDTH:1000px; HEIGHT:200px" SRC="images/education.png">
+
+## Appalachian salamanders - Cultural Value
+<hr>
+<br/>
+
+<div style="float: left; width: 55%;">
+
+- **Regional Identity: In the Appalachians, salamanders are featured in school/team mascots, art, and regional folklore**
+
+<br/>
+
+- **Storytelling and Education: Salamanders are used in environmental education as symbols of hidden biodiversity and conservation success**
+
+<br/>
+
+- **Connection to Nature: Their elusive, forest-dwelling lifestyle and variety of colors and patterns evoke a sense of mystery and wonder in visitors and locals alike**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:230px; LEFT:600px; WIDTH:450px; HEIGHT:400px" SRC="images/hellbender2.jpg">
+
+## Appalachian salamanders - Ethical and Intrinsic Value
+<hr>
+<br/>
+
+- **Moral Obligation: Salamanders have a right to exist, independent of their utility to humans**
+    + They play crucial roles in forest food webs, contributing to the natural balance of their habitats
+    
+<br/>
+<br/>
+
+<div style="float: left; width: 59%;">
+
+- **Stewardship: Humans have a responsibility to protect species like salamanders, which are vulnerable due to habitat loss and climate change**
+
+<br/>
+
+- **Existence Value: Their presence enhances the overall richness and integrity of Appalachian ecosystems**
+</div>
+
+<IMG STYLE="position:absolute; TOP:290px; LEFT:645px; WIDTH:375px; HEIGHT:400px" SRC="images/sala5.jpg">
+
+## America the Beautiful initiative and Appalachia?
+<hr>
+
+- **Conservation Goal: Conserve 30% of U.S. lands and waters by 2030 — includes Appalachia**
+
+<br/>
+
+- **Habitat Protection: Targets hotspots such as Red River Gorge (KY) and Cherokee National Forest (TN), home to rare salamanders and bats**
+
+<br/>
+
+- **Community Partnerships: Includes Coalfield Development (WV) and Highlands Biological Foundation (NC) for local stewardship and green jobs**
+
+<br/>
+
+- **Climate Resilience: Promoted by Southern Appalachian Highlands Conservancy and U.S. Forest Service to protect forests and watersheds**
+
+<br/>
+
+<span style="color:red"> **NOW: Executive order policy reversals by the new president have rescinded various environmental and climate-focused executive orders and issued new ones to focus on domestic energy production (e.g., coal) over conservation**</span>
+
+
+## False Dichotomy – Environment vs. Economy: Resource curse?
+<hr>
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:50px; WIDTH:1000px; HEIGHT:400px" SRC="images/curse.png">
+
+## False Dichotomy – Environment vs. Economy: Resource curse?
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/green.jpg">
+
+
+## Next up: Friday open-discussion on the 'value of nature'
+<hr>
+<br/>
+
+- **Which value resonates most with you personally? **
+
+<br/>
+
+- **Make a persuasive argument for which value aspect of biodiversity is the most important?**
+
+<br/>
+
+- **Prepare a 'legal brief' to present to a small group**
+    + summarize your argument into a few key points
+    + provide real tangible evidence
+    + submit your brief on Brightspace (can be rough)
+    
+<br/>
+ 
+- **Feel free to argue the path less traveled**
+
+<br/>
+
+- **Your small group will need to come to a decision based on everyone's briefs**
