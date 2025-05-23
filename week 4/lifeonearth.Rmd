@@ -59,6 +59,7 @@ output:
 ## The Earth is old...and it took a while for life to form.
 <hr>
 <br/>
+<br/>
 
 <div style="float: left; width: 64%;">
 
@@ -75,14 +76,15 @@ output:
 <br/>
 
 - **Lots of inorganic molecules but few organic molecules**
-    + early atmosphere was reducing (oxidation prevented by absence of oxygen)
-    + organic = compounds of carbon (basic building blocks of life)
+    + organic = carbon based compounds (basic building blocks of life)
+    
 </div>
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:680px; WIDTH:400px; HEIGHT:500px" SRC="images/earlyatmos.jpg">
 
 ## Can life begin with just chemicals?
 <hr>
+<br/>
 <br/>
 
 <div style="float: left; width: 60%;">
@@ -107,29 +109,28 @@ output:
 <hr>
 <br/>
 
-<div style="float: left; width: 60%;">
-
 - **Results: After a few days, they found amino acids—basic building blocks of proteins and life**
 
 <br/>
 
 - **Why It Matters: Showed that organic molecules (like those in living things) can form naturally from simple chemicals**
-    + the first step of creating life from non-living matter was possible
+    + the first step of creating life from non-living matter IS possible
 
 <br/>
+
+<div style="float: left; width: 48%;">
 
 - **Legacy: transformed a philosophical question—'Where did life come from?'—into a testable scientific one**
     + understanding how biology might come from chemistry is key for understanding life on other planets
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:550px; WIDTH:500px; HEIGHT:300px" SRC="images/volcano_amino.jpg">
+<IMG STYLE="position:absolute; TOP:370px; LEFT:550px; WIDTH:500px; HEIGHT:300px" SRC="images/volcano_amino.jpg">
 
 ## Origin of heredity was key for contempoary life
 <hr>
 
-* **RNA (molecule that could replicated itself) probably came first**
-    + ~3.8 billion years ago
+* **RNA World Hypothesis: Suggests RNA was the first hereditary molecule, capable of both storing information and catalyzing reactions**
 
 <br/>
 
@@ -143,8 +144,9 @@ output:
 
 <br/>
 
-* **Heredity likely took place in early 'protocells' with compartmentalized RNA**
-    + have not been re-created in the lab
+* **Heredity likely took place in primitive cells with compartmentalized RNA**
+    + research on synthesizing 'protocells' and hereditary control mechanisms is ongoing
+    + we can't yet fully replicate the spontaneous emergence of heredity yet.
   
 
 <IMG STYLE="position:absolute; TOP:300px; LEFT:700px; WIDTH:225px; HEIGHT:225px" SRC="images/protocel.jpg">
@@ -152,17 +154,38 @@ output:
 ## Cellular life begins ~3.5 billion years ago (key events)
 <hr>
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:20px; WIDTH:630px; HEIGHT:450px" SRC="images/timeline3.png">
+<IMG STYLE="position:absolute; TOP:180px; LEFT:50px; WIDTH:1000px; HEIGHT:300px" SRC="images/timeline4.png">
 
-<IMG STYLE="position:absolute; TOP:170px; LEFT:650px; WIDTH:400px; HEIGHT:470px" SRC="images/endo.png">
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
-## Single-celled organisms altered the evolutionary landscape
+- **LUCA: the Last Universal Common Ancestor — the most recent common ancestor of all current life on Earth.**
+    + formed shortly after stable oceans form, likely near a deep sea vent
+    + ~3.5-3.8 bya
+    + first organism was a prokaryote - single-celled with no organelles
+    
+<!-- <IMG STYLE="position:absolute; TOP:170px; LEFT:650px; WIDTH:400px; HEIGHT:470px" SRC="images/endo.png"> -->
+
+## Single-celled organisms ruled and changed the world
 <hr>
-**Changed atmosphere from negligible to 21% oxygen**
+**Key events: evolution of photosynthesis, oxygen revolution, endosymbiosis->Eukaryotes**
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/oxygen.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/singlecell.png">
 
-##
+## Early animal life and the Cambrain Explosion
 
 <IMG STYLE="position:absolute; TOP:50px; LEFT:150px; WIDTH:800px; HEIGHT:600px" SRC="images/cambrian.jpg">
 
@@ -181,8 +204,6 @@ output:
 ## Next rapid diversification occurred on land (400 MYA)
 <hr>
 <br/>
-<br/>
-<br/>
 
 <div style="float: left; width: 64%;">
 
@@ -200,11 +221,14 @@ output:
 
 **Animal life you are most familiar with are recent additions**
 
+<br/>
+
+**This time period also aligns with the formation of the Appalachian mountains**
 </div>
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:650px; WIDTH:400px; HEIGHT:400px" SRC="images/landplants.jpg">
 
-## The diversity of life on earth is shaped by evolution
+## The role of evolution in the tree of life...
 <hr>
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:1000px; HEIGHT:400px" SRC="images/natselect.png">
@@ -214,17 +238,35 @@ output:
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/speciation.png">
 
-## Speciation events (and thus diversification) can happen quickly
-<hr>
+<!-- ## Speciation events (and thus diversification) can happen quickly -->
+<!-- <hr> -->
 
-<IMG STYLE="position:absolute; TOP:160px; LEFT:35px; WIDTH:500px; HEIGHT:500px" SRC="images/flowering.jpg">
+<!-- <IMG STYLE="position:absolute; TOP:160px; LEFT:35px; WIDTH:500px; HEIGHT:500px" SRC="images/flowering.jpg"> -->
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:575px; WIDTH:500px; HEIGHT:400px" SRC="images/mammals.jpg">
+<!-- <IMG STYLE="position:absolute; TOP:200px; LEFT:575px; WIDTH:500px; HEIGHT:400px" SRC="images/mammals.jpg"> -->
 
 ## Large extinction events disrupt the progress of diversity
 <hr>
+<br/>
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/massextinct.png">
+
+## Appalachians played a role as both refuge and stage
+
+<div style="float: right; width: 55%;">
+
+- **During ice ages and extinction events, they sheltered species that would later repopulate the continent.**
+    + the last ice age, which covered much of North America, pushed many species southward
+    + Even today, they host relict species like the spruce-fir forests and lungless salamanders—living from that period
+
+<br/>
+
+**The very old region has experienced glaciations, tectonic shifts, and erosion—but never full obliteration—providing continuity for life**
+    + sets the stage for continuous evolution of living things
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:50px; WIDTH:400px; HEIGHT:500px" SRC="images/glacier.jpg">
 
 ## 
 
