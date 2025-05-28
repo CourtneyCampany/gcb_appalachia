@@ -7,23 +7,6 @@ output:
     smaller: true
 ---
 
-<!-- ## Chapter 2: Group Consensus -->
-<!-- <hr> -->
-<!-- <br/> -->
-<!-- <br/> -->
-
-<!-- - **What are the key chapter elements (take home messages) that I should test you on?** -->
-
-<!-- <br/> -->
-<!-- <br/> -->
-
-<!-- - **What new things are you curious about and/or did not fully understand** -->
-
-<!-- <br/> -->
-<!-- <br/> -->
-
-<!-- - **What is the coolest thing you learned?** -->
-
 ## We are on leading edge of the space time continuum
 <hr>
 
@@ -252,6 +235,8 @@ output:
 <IMG STYLE="position:absolute; TOP:180px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/massextinct.png">
 
 ## Appalachians played a role as both refuge and stage
+<hr>
+<br/>
 
 <div style="float: right; width: 55%;">
 
@@ -261,7 +246,7 @@ output:
 
 <br/>
 
-**The very old region has experienced glaciations, tectonic shifts, and erosion—but never full obliteration—providing continuity for life**
+- **The very old region has experienced glaciations, tectonic shifts, and erosion—but never full obliteration—providing continuity for life**
     + sets the stage for continuous evolution of living things
 
 </div>
@@ -272,41 +257,41 @@ output:
 
 <IMG STYLE="position:absolute; TOP:0px; LEFT:0px; WIDTH:1100px; HEIGHT:700px" SRC="images/cosmic.png">
 
-## Telling the story of life on Earth: Your inclusive identity
+## In a period of rapid change,  your identity matters
 <hr>
 **<span style="color:darkred">draw aspects of your current identity</span>**
 
 <IMG STYLE="position:absolute; TOP:220px; LEFT:300px; WIDTH:500px; HEIGHT:400px" SRC="images/circle.png">
 
-## Telling the story of life on Earth: Your inclusive identity
+## In a period of rapid change,  your identity matters
 <hr>
 
 **<span style="color:darkred">Expand outward from your identity</span>**
 
 <IMG STYLE="position:absolute; TOP:220px; LEFT:300px; WIDTH:550px; HEIGHT:400px" SRC="images/circle2.png">
 
-## Telling the story of life on Earth: Your inclusive identity
+## In a period of rapid change,  your identity matters
 <hr>
 
 **<span style="color:darkred">Identity as...</span>**
 
 <IMG STYLE="position:absolute; TOP:220px; LEFT:250px; WIDTH:600px; HEIGHT:400px" SRC="images/circle3.png">
 
-## Telling the story of life on Earth: Your inclusive identity
+## In a period of rapid change,  your identity matters
 <hr>
 
 **<span style="color:darkred">Identity as...</span>**
 
 <IMG STYLE="position:absolute; TOP:220px; LEFT:250px; WIDTH:600px; HEIGHT:400px" SRC="images/circle4.png">
 
-## Telling the story of life on Earth: Your inclusive identity
+## In a period of rapid change,  your identity matters
 <hr>
 
 **<span style="color:darkred">Identity as...</span>**
 
 <IMG STYLE="position:absolute; TOP:220px; LEFT:300px; WIDTH:500px; HEIGHT:400px" SRC="images/circle5.png">
 
-## Telling the story of life on Earth: Your inclusive identity
+## In a period of rapid change,  your identity matters
 <hr>
 
 **<span style="color:darkred">Identity as...</span>**
