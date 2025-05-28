@@ -1,5 +1,5 @@
 ---
-title: "Biological Levels of Change (Chapter 2)"
+title: "Biological Levels of Change"
 output: 
   ioslides_presentation:
     css: custom2.css
@@ -7,7 +7,7 @@ output:
     smaller: true
 ---
 
-## Chapter 2: Taking a closer look
+## Taking a closer look
 <hr>
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:50px; WIDTH:1000px; HEIGHT:500px" SRC="images/phytlotree.jpg">
@@ -63,13 +63,21 @@ output:
 <br/>
 <br/>
 
-**Unique history (divergence or speciation) represents key molecular change**
+**Unique history (divergence or speciation) represents key genetic change**
 
 <br/>
 
-**Often represented as morphological (structural) trait in a fossil-based phylogeny**
+**Sometimes represented as morphological (structural) trait in a phylogeny**
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:900px; HEIGHT:350px" SRC="images/cladogram.jpeg">
+
+##
+
+<IMG STYLE="position:absolute; TOP:100px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/treeexample.png">
+
+##
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:150px; WIDTH:800px; HEIGHT:600px" SRC="images/vampirebats.png">
 
 
 ## The molecular story of life
@@ -85,21 +93,37 @@ output:
 ## Evolution keep rolling, so species are not fixed in a hierarchy
 <hr>
 
-<IMG STYLE="position:absolute; TOP:150px; LEFT:75px; WIDTH:375px; HEIGHT:500px" SRC="images/scala.jpg">
+<IMG STYLE="position:absolute; TOP:150px; LEFT:5px; WIDTH:375px; HEIGHT:500px" SRC="images/scala.jpg">
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:500px; WIDTH:550px; HEIGHT:450px" SRC="images/ladder.jpg">
+<IMG STYLE="position:absolute; TOP:180px; LEFT:425px; WIDTH:650px; HEIGHT:450px" SRC="images/ladder.jpg">
 
 ## Evolution keep rolling, so species are not fixed in a hierarchy
 <hr>
+<br/>
+<br/>
+<br/>
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:25px; WIDTH:500px; HEIGHT:400px" SRC="images/bird.png">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:25px; WIDTH:500px; HEIGHT:400px" SRC="images/bird.png">
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:550px; WIDTH:550px; HEIGHT:450px" SRC="images/treeoflife2.jpg">
 
-## Change occurs across biological scales
+<div style="float: right; width: 50%;">
+
+- **Species do change (within populations), species go extinct, new species arise**
+
+<br/>
+
+- **Appalachian Mountain Examples:**
+    + rainbow and brook trout populations in Linville caves (NC) are blind
+    + Eastern elk and Eastern bison are extinct
+    + Appalachian tiger swallowtail butterfly evolved from interbreeding of the Eastern and Canadian tiger swallowtail species (a successfull hybrid!)
+    
+</div>
+<!-- <IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:550px; HEIGHT:450px" SRC="images/treeoflife2.jpg"> -->
+
+## Change occurs across all biological scales
 <hr>
 
-- **Genes - Organisms - Populations - Species - Communities - Ecosystem - Biosphere**
+- **Genes - Organisms - Populations - Species - Communities - Ecosystems - Biosphere**
 
 <br/>
 
@@ -109,19 +133,42 @@ output:
 
 <IMG STYLE="position:absolute; TOP:300px; LEFT:600px; WIDTH:400px; HEIGHT:350px" SRC="images/mutationrate2.png">
 
-## 
+##
 
 <IMG STYLE="position:absolute; TOP:0px; LEFT:0px; WIDTH:1100px; HEIGHT:700px" SRC="images/change.png">
+
+## Mountains (e.g., Appalachia) and changing climates
+<hr>
+<br/>
+<br/>
+
+<div style="float: right; width: 50%;">
+
+- **Since animals are adapted to a range of climate, what happens on mountains?**
+
+<br/>
+
+- **Climate change is likely to reduce the range size of amphibians and mammals in Appalachian forests**
+    + will endemic species go extinct?
+
+<br/>
+
+- **Birds and reptiles are more likely to expand their range size under long-term climate scenarios in Appalachian forests**
+    + which species will they replace?
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:0px; WIDTH:500px; HEIGHT:400px" SRC="images/mountain.jpg">
 
 ## Change occurs at molecular level
 <hr>
 
 - **Once there is variation, there are two main processes that can work on that variation and lead to long term evolution**
-    - *Natural Selection*
-    - *Genetic Drift*
+    - <span style="color:blue">*Natural Selection*</span>
+    - <span style="color:blue">*Genetic Drift*</span>
 
 
-<IMG STYLE="position:absolute; TOP:280px; LEFT:50px; WIDTH:1000px; HEIGHT:400px" SRC="images/survival.png">
+<IMG STYLE="position:absolute; TOP:290px; LEFT:50px; WIDTH:1000px; HEIGHT:400px" SRC="images/survival.png">
 
 ## Natural selection in the wild
 <hr>
@@ -211,24 +258,3 @@ output:
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:525px; WIDTH:550px; HEIGHT:500px" SRC="images/extinction.png">
 
-## Friday Discussion: Does my project idea have JUICE?!?
-<hr>
-<br/>
-
-**Bring a shareable version of your topic selection to class**
-
-<br/>
-
-**In small groups, you will present your topic and collect feedback**
-
-<br/>
-
-**Groups will also review your writing (length should be ~1/2 page**)
-
-<br/>
-
-**If you can't convince your peers, you wont convince me!**
-
-<br/>
-
-**Use your peers wonderful advice to clean up your submission (due Sunday)**
