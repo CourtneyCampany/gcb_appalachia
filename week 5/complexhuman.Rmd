@@ -1,0 +1,398 @@
+---
+title: "The Complexity of Being Human"
+output: 
+  ioslides_presentation:
+    css: custom2.css
+    widescreen: true
+    smaller: true
+---
+
+## Review: What is wrong with this representation?
+<hr>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:20px; WIDTH:400px; HEIGHT:350px" SRC="images/march.jpg">
+
+- **The “March of Progress” is one of the most iconic — and most misleading — images in science communication.**
+
+<br/>
+
+<div style="float: right; width: 60%;">
+
+- **Reality: Evolution is not a straight line; it's a branching tree**
+
+<br/>
+
+- **Reality: Evolution has no goal or direction**
+    + evolution is not creating modern humans as an 'end goal'
+
+<br/>
+
+- **Reality: There were many species of hominins with varied adaptations**
+
+<br/>
+
+- **It reinforces misleading (racists/ablesit) hierarchies from primitive to advanced humans**
+
+</div>
+
+## The complexity of being human
+<hr>
+<br/>
+
+- **In addition to other harmful fallacies this cartoon propagates, it makes “being human” seem very simple, very separate, and very independent**
+    + As we evaluate the role of humans in global change, are any of these things true?
+
+<IMG STYLE="position:absolute; TOP:280px; LEFT:150px; WIDTH:800px; HEIGHT:400px" SRC="images/humanevolv3.png">
+
+## Human Independence Revisited
+<hr>
+<br/>
+
+***Homo sapiens* wouldn’t exist without our complex evolutionary, ecological, and societal associations**
+
+<IMG STYLE="position:absolute; TOP:260px; LEFT:50px; WIDTH:1000px; HEIGHT:400px" SRC="images/notalone.png">
+
+## Is independence just another human fallacy?
+<hr>
+
+<div style="float: left; width: 45%;">
+
+- **This isn’t only “external” but also internal**
+
+<br/>
+
+- **<span style="color:blue">Example 1: your microbiome</span>**
+    + >10,000 species occupy human body
+    + 80-100 genera
+
+<br/>
+
+- **39 trillion microbial cells including bacteria, viruses and fungi live on-in us**
+    + 'cell-wise' the human body is 43% human
+    
+<br/>
+
+- **Human microbiome has 500x more genes than human**
+    
+</div>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:500px; WIDTH:600px; HEIGHT:400px" SRC="images/microbiome.png">
+
+## How independent are we?
+<hr>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/microbiome2.gif">
+
+## What does it mean to be *Homo sapiens*?
+<hr>
+<br/>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:50px; WIDTH:400px; HEIGHT:400px" SRC="images/virus.jpg">
+
+<div style="float: right; width: 55%;">
+
+- **<span style="color:blue">Example 2: (barely) hidden in your DNA</span>**
+
+<br/>
+
+- **~8% of human genome is viral DNA**
+
+<br/>
+
+- **~40% human genome is repetitive DNA which also likely has a viral origin**
+
+<br/>
+
+- **100,000 pieces of ancient viral DNA live among our genes**
+    + function, if any, has long been unclear
+    
+</div>
+    
+## What does it mean to be *Homo sapiens*?
+<hr>
+<br/>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:50px; WIDTH:325px; HEIGHT:500px" SRC="images/neand.png">
+
+<div style="float: right; width: 65%;">
+
+- **<span style="color:blue">Example 2: (barely) hidden in your DNA</span>**
+
+<br/>
+
+- **Most humans have 2% Neanderthal DNA**
+    + remember - both species co-existed and sometimes mated 
+
+<br/>
+
+- **Neanderthal allele variants range in diverse expression of skin and hair color to immune function and neuropsychiatric disease**
+    + may have left us prone to allergies!
+    + may have caused some to have higher risks from Covid!
+    + possible genetic links to depression and addiction
+
+</div>
+
+## What does it mean to be *Homo sapiens*?
+<hr>
+
+
+<IMG STYLE="position:absolute; TOP:275px; LEFT:20px; WIDTH:325px; HEIGHT:350px" SRC="images/denis.jpg">
+
+<div style="float: right; width: 65%;">
+
+- **<span style="color:blue">Example 2: (barely) hidden in your DNA</span>**
+
+<br/>
+
+- **Denisovans left genetic traces in oceanic and Asian regions**
+    + genomes of Australian aborigines, New Guineans and Pacific Islanders ~5% Denisovan
+    + East and South Asians up to .5%
+
+<br/>
+
+- **Denisovan allele variants range in diverse expression of immunity, metabolism and neurology**
+    + gene variants in Tibetans regulates hemoglobin levels and allowing survival at high altitudes
+    + alleles may allow better pathogen recognition and defense in Asian populations
+    + variant in zinc transporter gene associated with predisposition to depression
+ 
+ </div>
+ 
+## Review: We are not 'independent' because we persisted
+<hr>
+<br/>
+<br/>
+<br/>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:15px; WIDTH:600px; HEIGHT:450px" SRC="images/denis2.png">
+
+<div style="float: right; width: 43%;">
+
+- **How separate or independent our we?**
+    + perhaps.....just enough.....
+    + 87 specific genes in modern humans are different from related genes in Neanderthals and Denisovans
+    + <span style="color:blue">Potential clues for our survival?</span>
+
+</div>
+
+
+## Why did humans win the survival race?
+<hr>
+<div style="float: left; width: 55%;">
+- **Was it key 'human' traits?**
+    + many of these were shared (bi-pedalism, tools)
+
+<br/>
+
+- **Was it evolution of larger brains?**
+    + Neanderthals were slightly larger!
+
+<br/>
+
+- **Was it fire?**
+    + H.erectus may have used fire before we evolved
+
+<br/>
+
+- **Was is related to social aspects**
+    + survival of the friendliest
+
+<br/>
+
+- **Was it related to our adaptability**?
+    + climate was unpredictable
+    
+<br/>
+
+- **Was it something non-human?**
+    + superior microbiome
+
+ </div>
+ 
+<div style="float: right; width: 45%;">
+ 
+- **Was it luck?**
+    + were we 'independent' enough?
+ </div>   
+ 
+<IMG STYLE="position:absolute; TOP:250px; LEFT:600px; WIDTH:500px; HEIGHT:430px" SRC="images/race.jpg">
+
+
+## Independent or not, *Homo sapiens" have left our mark...
+<hr>
+<br/>
+
+- **Human evolution → migration → agriculture → industrialization → Anthropocene**
+
+<br/>
+
+- **What are the key milestones in human impact on Earth**
+    + how far back do you think we need to go?
+
+<br/>
+
+- **When did humans start impacting Appalachian ecosystems?**    
+    + early indigenous agriculture, coal mining era, ecological restoration efforts
+
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:600px; WIDTH:400px; HEIGHT:500px" SRC="images/impact.jpg">
+
+## The beginning: Review
+<hr>
+<br/>
+
+<div style="float: left; width: 45%;">
+
+- **Genus Homo: ~2.5 million years ago**
+
+<br/>
+
+- **Homo sapiens: ~300,000 years ago**
+
+<br/>
+
+- **Coexistence with Neanderthals, Denisovans**
+    + Homo sapiens 'alone' 40,000 ya
+
+<br/>
+<br/>
+
+- **Appalachia: Indigenous presence ~12,000 years ago**
+ </div> 
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:500px; WIDTH:600px; HEIGHT:450px" SRC="images/overlap2.png">
+
+## Humans on the move
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:500px; WIDTH:600px; HEIGHT:450px" SRC="images/migrate.png">
+
+## Human migration and megafauna impact
+<hr>
+
+- **Human expansion linked to extinction of large mammals**
+    + During migration, >150 megafauna went extinct
+    + sheep to mammoth sized
+    + America's and Australia most notable
+
+<br/>
+
+<div style="float: left; width: 45%;">
+
+- **Evidence in Eastern USA suggests hunting of megafauna**
+    + clovis points (stone tools) found alongside megafauna remains
+    + direct evidence in Appalachia is lacking
+
+<br/>
+
+- **Climate change combined with overhunting may have accelerated extinctions**
+
+ </div> 
+ 
+<IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:400px; HEIGHT:450px" SRC="images/clovis.png">
+
+##
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:50px; WIDTH:1000px; HEIGHT:600px" SRC="images/mega.jpg">
+
+
+## The agricultural revolution was a game changer..
+<hr>
+
+- **The end of the last Ice Age brought about warmer and more stable climates**
+    + ~10,000 BCE
+    + favorable conditions supported experimentation with plant cultivation
+
+<br/>
+
+- **Humans domesticated plants and animals**     
+    + more predictable food supplies and the ability to store surplus
+    + transition from nomadic hunting and gathering to settled farming communities.
+
+<br/>
+
+- **Impact: Laid the foundation for the rise of permanent civilizations**
+
+## Human population grew steadily following agricultural revolution
+<hr>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/humanpop.jpg">
+
+Slide 7: Why Agriculture Matters
+
+Increased impact on landscapes and biodiversity
+
+Start of land ownership and class divisions
+
+Shift from nomadic to sedentary societies
+
+Case study: Hopewell culture in Ohio River Valley
+
+Image suggestion: Aerial photo of Serpent Mound; farming tools from Appalachian indigenous sites
+
+## Biodiversity Loss and Land Alteration
+
+Tree-to-human ratio now 443:1
+
+Deforestation and loss of native species
+
+Case study: American chestnut blight—once dominant tree in Appalachia, nearly wiped out by fungal pathogen
+
+Image suggestion: Historical vs. current Appalachian forest canopy comparison
+
+## Industrialization and the Human Footprint
+
+Shift to fossil fuels, urbanization
+
+## Industrialization and the Human Footprint
+
+Appalachia: rise of coal towns, environmental degradation
+
+Case study: Mountaintop removal mining in West Virginia—ecological and social consequences
+
+Image suggestion: Before/after satellite images of mountaintop removal
+
+Slide 10: Water and Soil Systems
+
+Human activities pollute and deplete essential natural resources
+
+Appalachia: acid mine drainage turns streams orange, harms aquatic life
+
+Case study: Mud River, West Virginia
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:400px; HEIGHT:450px" SRC="images/orangewater.jpg">
+
+Image suggestion: Photos of healthy vs. polluted Appalachian streams
+
+## Whats left: Domestic vs. Wild Life
+
+Wild biomass replaced by humans and domestic animals (e.g., cows, chickens)
+
+Appalachia: rise of pastoral landscapes, reduction of wild game
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:400px; HEIGHT:450px" SRC="images/mammals.jpg">
+
+Image suggestion: Chart of mammalian biomass (humans/livestock vs. wild animals); Appalachian pastureland
+
+## Why does this matter for global change?
+<hr>
+   
+<IMG STYLE="position:absolute; TOP:250px; LEFT:600px; WIDTH:500px; HEIGHT:300px" SRC="images/now.png">
+
+<div style="float: left; width: 50%;">
+
+- **Over human history...**
+    + **Biomass of terrestrial vegetation has halved**
+        + <span style="color:red">443 trees per human</span>
+    + **More than 20% reduction in biodiversity**
+        + <span style="color:red">terrestrial and aquatic</span>
+    + **At least one million species threatened with extinction**
+        + <span style="color:red">new discussions of an emerging mass extinction event</span>
+    + **More than 70% of the Earths land surface has been altered by humans**
+        + <span style="color:red">only 5% is left as 'pristine'</span>
+    + **Total global biomass of wild animals today is < 25% of what it was during the Late Pleistocene**
+    + **Terrestrial vertebrates biomass today is represented by livestock (59%) and living human beings (36%)**.
+</div>
