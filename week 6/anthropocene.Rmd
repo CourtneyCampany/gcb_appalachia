@@ -1,5 +1,5 @@
 ---
-title: "The Anthropocene"
+title: "The Anthropocene and the Great Acceleration"
 output: 
   ioslides_presentation:
     css: custom.css
@@ -10,7 +10,7 @@ output:
 ## The Geologic Time Scale
 <hr>
 
-- **Humans subdivide time into useable units such as our calendar year, months, weeks, and days** 
+- **Humans subdivide time into useable units, such as our calendar year, months, weeks, and days** 
 
 <br/>
 
@@ -40,12 +40,11 @@ output:
 
 - **On geologic times scales humans have existed in the Cenozoic era**
     + our evolutionary trajectory takes us through the Pleistocene and Holocene
-    + we are unofficially in a new epoch: *Anthropocene*
+    + and at some point a new epoch: *Anthropocene*
 
 <br/>
 
-- **Understanding human impacts requires historical knowledge of each time period**
-    + what we tried to do on Friday!
+- **Understanding the pace of human impacts requires knowledge geologic time scales**
     
 </div>
 
@@ -80,6 +79,30 @@ output:
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:700px; WIDTH:360px; HEIGHT:500px" SRC="images/megafauna.png">
 
+## Appalachian Mountains During the Pleistocene 
+<hr>
+- **Laurentide Ice Sheet covered much of North America but did not extend into the southern Appalachians**
+
+<br/>
+
+<div style="float: right; width: 55%;">
+
+- **Mountains were a major climatic refuge for species displaced by glaciers**
+    + preserved ancient lineages of *temperature* plants and animals
+    + endemic specie of Appalachia survived this period
+
+<br/>
+
+- **Large mammals (mastodons, mammoths) migrated through Appalachian valleys**
+
+<br/>
+
+- **Post-glacial meltwater created river valleys (e.g., Tennessee and New River basins)**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:240px; LEFT:30px; WIDTH:450px; HEIGHT:400px" SRC="images/icesheet.jpg">
+
 
 ## Holocene (12,000 -)
 <hr>
@@ -106,7 +129,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:560px; WIDTH:500px; HEIGHT:500px" SRC="images/cartoon.jpg">
 
-## Holocene (12,000 -)
+## Holocene: Stable/warm climate benefited humans
 <hr>
 
 - **Significant advancements in technology and 'urbanization'**
@@ -115,7 +138,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:220px; LEFT:250px; WIDTH:620px; HEIGHT:450px" SRC="images/change.png">
 
-## Holocene (12,000 -) Were humans lucky?
+## Holocene: Were humans lucky?
 <hr>
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:300px; WIDTH:500px; HEIGHT:500px" SRC="images/plants2.gif">
@@ -148,13 +171,6 @@ output:
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:600px; WIDTH:550px; HEIGHT:400px" SRC="images/fertile.jpg">
 
-## Neolithic period: Humans transitioned to permanent settlements
-<hr>
-
-<IMG STYLE="position:absolute; TOP:160px; LEFT:75px; WIDTH:350px; HEIGHT:500px" SRC="images/irrigation.jpg">
-
-<IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/settle.jpg">
-
 ## Neolithic period: Urbanization and Population growth 
 <hr>
 
@@ -162,28 +178,60 @@ output:
 
 <IMG STYLE="position:absolute; TOP:220px; LEFT:620px; WIDTH:450px; HEIGHT:350px" SRC="images/rome.jpg">
 
-
-## Neolithic period: Consequences of Urbanization
-<hr>
-
-<IMG STYLE="position:absolute; TOP:240px; LEFT:25px; WIDTH:450px; HEIGHT:300px" SRC="images/sick.png">
-
-<IMG STYLE="position:absolute; TOP:160px; LEFT:500px; WIDTH:650px; HEIGHT:500px" SRC="images/sick2.jpg">
-
-## Neolithic period: Consequences of Urbanization
+## Health consequences of agriculture...
 <hr>
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/microbiome.png">
 
-
-## Industrial Age (1760 -)
+## Appalachian Mountains During the Holocene/Neolithic 
 <hr>
+
+<div style="float: left; width: 53%;">
+
+- **Earliest indigenous peoples arrived as hunter/gathers**
+    + relied on foraging, hunting, and fishing
+    + shifted to cultivating native crops
+
+<br/>
+
+- **Eastern Agricultural Complex: woodlands of eastern North America was 1 of 10 independent centers of plant domestication**
+    + sunflower, goosefoot, squash, and maygrass
+    + disappeared after maize was introduced
+
+<br/>
+
+- **Increased sedentism and larger semi-permanent villages along rivers and fertile valleys**
+    + regional-scale transition to landscape manipulation and resource intensification.
+</div>
+
+<IMG STYLE="position:absolute; TOP:240px; LEFT:570px; WIDTH:500px; HEIGHT:400px" SRC="images/complex.png">
+
+
+<!-- ## Neolithic period: Humans transitioned to permanent settlements -->
+<!-- <hr> -->
+
+<!-- <IMG STYLE="position:absolute; TOP:160px; LEFT:75px; WIDTH:350px; HEIGHT:500px" SRC="images/irrigation.jpg"> -->
+
+<!-- <IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/settle.jpg"> -->
+
+
+<!-- ## Neolithic period: Consequences of Urbanization -->
+<!-- <hr> -->
+
+<!-- <IMG STYLE="position:absolute; TOP:240px; LEFT:25px; WIDTH:450px; HEIGHT:300px" SRC="images/sick.png"> -->
+
+<!-- <IMG STYLE="position:absolute; TOP:160px; LEFT:500px; WIDTH:650px; HEIGHT:500px" SRC="images/sick2.jpg"> -->
+
+
+## Late Holocene: Review - Industrial Age (1760 -)
+<hr>
+<br/>
 <br/>
 
 <div style="float: left; width: 50%;">
 
 - **Economic and social organization that began around 1760 in Great Britain** 
-    + factors of production (trade, farming, natural resources) allowed it to happen
+    + factory's of production (trade, farming, natural resources) allowed it to happen
     
 <br/>
 
@@ -192,16 +240,14 @@ output:
 
 <br/>
 
-- **Concentration of industry in large establishments**
-    + fueled by coal mining
-    + creation of 'factories'
+- **Appalachian Context: The region became a center for coal mining, fueling industrial growth at the cost of environmental health.**
  
  </div>
  
-<IMG STYLE="position:absolute; TOP:220px; LEFT:560px; WIDTH:500px; HEIGHT:375px" SRC="images/factory.jpeg">
+<IMG STYLE="position:absolute; TOP:240px; LEFT:560px; WIDTH:500px; HEIGHT:400px" SRC="images/coal.png">
 
 
-## Industrial Revolution marks a major turning point in history
+## Late Holocene: Review - Industrial Age (1760 -)
 <hr>
 <br/>
 <br/>
@@ -225,6 +271,30 @@ output:
  
 <IMG STYLE="position:absolute; TOP:220px; LEFT:530px; WIDTH:600px; HEIGHT:400px" SRC="images/airpoll.jpg">
 
+## NOW: The Great Acceleration
+<hr>
+
+- **Period of rapid socio-economic and environmental following World War II (>1950)**
+    + Coincided with the Atomic Age and the Cold War tech race
+    + non-official start of the Anthropocene
+
+<br/>
+
+- **Key drivers: Population boom, industrial expansion, globalization, rise of consumer economies**
+    + global population has tripled in just 75 years
+    
+<br/>
+
+- **Introduction of synthetic chemicals, plastics, fertilizers, and global supply chains**
+
+<br/>
+
+- **Technological growth: Cars, highways, electronics, suburban sprawl**
+
+<br/>
+
+- **Appalachian context: Infrastructure expansion, coal demand spikes, and federal investments for energy**
+
 ## Key Periods of Human History: The Anthropocene Epoch
 <hr>
 <div style="float: left; width: 50%;">
@@ -247,7 +317,6 @@ output:
 
  </div>
 <IMG STYLE="position:absolute; TOP:390px; LEFT:250px; WIDTH:600px; HEIGHT:300px" SRC="images/epoch.png">
-
 
 ## Does the Anthropocene begin in the Industrial Age?
 <hr>
@@ -289,11 +358,6 @@ output:
  
 <IMG STYLE="position:absolute; TOP:180px; LEFT:600px; WIDTH:550px; HEIGHT:450px" SRC="images/box.png">
 
-
-## 
-
-<IMG STYLE="position:absolute; TOP:50px; LEFT:50px; WIDTH:1000px; HEIGHT:600px" SRC="images/great.png">
-
 ## What happended? Haber Bosch happened!
 <hr>
 <br/>
@@ -306,3 +370,59 @@ output:
 <hr>
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:0px; WIDTH:1100px; HEIGHT:450px" SRC="images/landuse.png">
+
+## 
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:50px; WIDTH:1000px; HEIGHT:600px" SRC="images/great.png">
+
+## Appalachia in the Anthropocene: Enviromental
+<hr>
+<br/>
+
+<div style="float: left; width: 48%;">
+
+- **Remains a major U.S. coal producer**
+    + mountaintop removal flattened 500+ peaks
+    + now includes fracking (oil/natural gas) in Marcellus shale
+
+<br/>
+
+- **Continued land transformation**
+    + clear-cutting removed old-growth forests
+    + erosion, stream pollution from mining/logging
+
+<br/>
+
+- **Climate Trends include warmer winters, heavier spring rainfall**
+
+ </div>
+    
+<IMG STYLE="position:absolute; TOP:200px; LEFT:525px; WIDTH:500px; HEIGHT:450px" SRC="images/mining.jpg">
+
+## Appalachia in the Anthropocene: Soceital
+<hr>
+<br/>
+
+<div style="float: left; width: 55%;">
+
+- **Boom-Bust Economy: Jobs rose with coal, fell with automation/global shift**
+    + Persistent poverty, youth outmigration
+
+<br/>
+
+- **Health & Justice: Higher rates of cancer, respiratory illness near mining sites**
+    + Poor & rural communities hit hardest
+
+<br/>
+
+- **Resistance Movements: Groups like Appalachian Voices fight for justice**
+
+<br/>
+
+- **Cultural Resilience:Local stewardship rooted in lived experience**
+    + Strong land ties, storytelling, music traditions
+    
+ </div>
+    
+<IMG STYLE="position:absolute; TOP:200px; LEFT:600px; WIDTH:450px; HEIGHT:450px" SRC="images/stopremoval.jpg">
+    

@@ -452,37 +452,6 @@ output:
  
 <IMG STYLE="position:absolute; TOP:220px; LEFT:500px; WIDTH:600px; HEIGHT:400px" SRC="images/treeperson.png">
 
-## NOW: The Great Acceleration
-<hr>
-
-- **Period of rapid socio-economic and environmental following World War II (>1950)**
-    + Coincided with the Atomic Age and the Cold War tech race
-    + non-official start of the Anthropocene
-
-<br/>
-
-- **Key drivers: Population boom, industrial expansion, globalization, rise of consumer economies**
-    + global population has tripled in just 75 years
-    
-<br/>
-
-- **Introduction of synthetic chemicals, plastics, fertilizers, and global supply chains**
-
-<br/>
-
-- **Technological growth: Cars, highways, electronics, suburban sprawl**
-
-<br/>
-
-- **Appalachian context: Infrastructure expansion, coal demand spikes, and federal investments (e.g., TVA projects)**
-    + mechanization reduced jobs but increased extraction.
-
-
-## The Great Acceleration – Environmental and Societal Impacts
-<hr>
-
-<IMG STYLE="position:absolute; TOP:180px; LEFT:0px; WIDTH:1100px; HEIGHT:450px" SRC="images/greataccel.png">
-
 ## Why does this matter for global change?
 <hr>
 <br/>
@@ -503,3 +472,8 @@ output:
     + **Total global biomass of wild animals today is < 25% of what it was during the Late Pleistocene**
     <!-- + **Terrestrial vertebrates biomass today is represented by livestock (59%) and living human beings (36%)**. -->
 </div>
+
+## Next Time: The Anthropocene
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:900px; HEIGHT:500px" SRC="images/anthropop.jpg">
