@@ -366,14 +366,14 @@ output:
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:500px; WIDTH:450px; HEIGHT:450px" SRC="images/nitrohaber.png">
     
-## Exponential human growth puts pressures on Earth's systems
-<hr>
+<!-- ## Exponential human growth puts pressures on Earth's systems -->
+<!-- <hr> -->
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:0px; WIDTH:1100px; HEIGHT:450px" SRC="images/landuse.png">
+<!-- <IMG STYLE="position:absolute; TOP:180px; LEFT:0px; WIDTH:1100px; HEIGHT:450px" SRC="images/landuse.png"> -->
 
-## 
+<!-- ##  -->
 
-<IMG STYLE="position:absolute; TOP:50px; LEFT:50px; WIDTH:1000px; HEIGHT:600px" SRC="images/great.png">
+<!-- <IMG STYLE="position:absolute; TOP:50px; LEFT:50px; WIDTH:1000px; HEIGHT:600px" SRC="images/great.png"> -->
 
 ## Appalachia in the Anthropocene: Enviromental
 <hr>
