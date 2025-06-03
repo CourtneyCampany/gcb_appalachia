@@ -15,11 +15,10 @@ output:
 
 <IMG STYLE="position:absolute; TOP:240px; LEFT:200px; WIDTH:700px; HEIGHT:400px" SRC="images/connect.jpg">
 
-## Range changes
+## Species *Range* changes
 <hr>
-<br/>
 
-**<span style="color:green">Geographic range</span>= total spatial area in which a species is found**
+**<span style="color:green">Geographic range</span>= total spatial area in which a species can exist**
 
 <br/>
 
@@ -34,6 +33,11 @@ output:
 <br/>
 
 **Can occur (1) naturally (competition) or (2) via move response or (3) changes in survival rate**
+
+<br/>
+
+**Changes impact a <span style="color:green">species' distribution</span> = where individuals are actually found at a given time**
+
 </div>
 
 <IMG STYLE="position:absolute; TOP:240px; LEFT:575px; WIDTH:500px; HEIGHT:400px" SRC="images/birdsmigrate.jpg">
@@ -55,57 +59,207 @@ output:
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:125px; WIDTH:850px; HEIGHT:500px" SRC="images/birdsextinct.png">
 
-<!-- ## Adaptations are very complex -->
-<!-- <hr> -->
+## Adaptations are very complex
+<hr>
 
-<!-- <IMG STYLE="position:absolute; TOP:160px; LEFT:150px; WIDTH:750px; HEIGHT:500px" SRC="images/owl2.jpg"> -->
+<IMG STYLE="position:absolute; TOP:160px; LEFT:150px; WIDTH:750px; HEIGHT:500px" SRC="images/owl2.png">
 
 <!-- ## Adaptations are complex and took a long time time to develop -->
 <!-- <hr> -->
 
 <!-- <IMG STYLE="position:absolute; TOP:25px; LEFT:0px; WIDTH:1100px; HEIGHT:650px" SRC="images/downslope.jpg"> -->
 
-##
+<!-- ## -->
 
-<IMG STYLE="position:absolute; TOP:50px; LEFT:25px; WIDTH:400px; HEIGHT:600px" SRC="images/owl.jpg">
+<!-- <IMG STYLE="position:absolute; TOP:50px; LEFT:25px; WIDTH:400px; HEIGHT:600px" SRC="images/owl.jpg"> -->
 
-<IMG STYLE="position:absolute; TOP:100px; LEFT:430px; WIDTH:650px; HEIGHT:500px" SRC="images/owl2.png">
+<!-- <IMG STYLE="position:absolute; TOP:100px; LEFT:430px; WIDTH:650px; HEIGHT:500px" SRC="images/owl2.png"> -->
 
-## Koality not Quantity
+<!-- ## Koality not Quantity -->
+<!-- <hr> -->
+
+<!-- <IMG STYLE="position:absolute; TOP:160px; LEFT:200px; WIDTH:650px; HEIGHT:500px" SRC="images/koala.png"> -->
+
+## Broad move trends: Poleward, upslope, deeper
+<hr>
+**With climate warming, species are moving to higher latitudes, higher elevation, and deeper (aquatic)**
+<br/>
+*Not every species is on the move, showing the complexity and importance of other factors*
+
+<IMG STYLE="position:absolute; TOP:240px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/shifts.png">
+
+## Bird species in the Appalachian mtns (Deluca & King, 2017)
 <hr>
 
-<IMG STYLE="position:absolute; TOP:160px; LEFT:200px; WIDTH:650px; HEIGHT:500px" SRC="images/koala.png">
+- **9 out of 16 low-elevation species in the White Mountains of New Hampshire moved upslope by an average of 99 meters over a study period from 1993 to 2009**
+
+<br/>
+
+<div style="float: left; width: 55%;">
+
+- **Only one high elevation species, Magnolia Warbler, exhibited evidence of an upslope shift**
+    + WHY?
+ 
+ <br/>
+ 
+- **Several of the high elevation species shifted ranges downslope**
+    + HUH?
+
+<br/>
+
+- **What other species/community level factors could be at play??**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:300px; LEFT:660px; WIDTH:400px; HEIGHT:300px" SRC="images/bird3.jpg">
+
+## Tree species in the Appalachian mtns (Deluca & King, 2017)
+<hr>
+<br/>
+
+- **Northwestward Shift: Scarlet oak is appearing more frequently in areas northwest of the Appalachians.**
+
+<br/>
+
+<div style="float: left; width: 55%;">
+
+- **Decrease in Southeast: a decrease in its presence in the Southeast, a region experiencing drier conditions**
+
+<br/>
+
+- **Studies indicate a substantial shift of over 100 miles to the northwest from the Appalachians over 30 years**
+
+<br/>
+
+- **Natural colonization of these northern areas might be limited within a 100-year timeframe**
+    + what limits tree movement?
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:240px; LEFT:660px; WIDTH:300px; HEIGHT:400px" SRC="images/scarlet.png">
+
+## Constraints to movement trends...
+<hr>
+<br/>
+
+- **Brook trout are highly adapted to cold, oxygen-rich streams**
+    + high sensitivity to small thermal changes
+
+<div style="float: left; width: 50%;">
+
+<br/>
+
+- **Warming temperatures reduce habitat suitability**
+<br/>
+- **Drought lowers flows, which also makes water warmer**
+
+<br/>
+
+- **High-elevation populations in the Southern Appalachians are particularly vulnerable**
+    + *climate pinching* at southern edge and upward elevation limit
+    + brook trout are unable to disperse long distances
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:550px; WIDTH:550px; HEIGHT:400px" SRC="images/trout.png">
+
+## Constraints to movement trends...
+<hr>
+<br/>
+
+- **Range migration of hardwood trees (scarlet maple) is at the expense of conifer forests**
+
+<br/>
+
+<div style="float: left; width: 60%;">
+
+- **Northern flying squirrel depends on mature red spruce forests**
+    + thus, climate and logging threaten reduce their habitat
+
+<br/>
+
+- **Southern flying squirrel ranges are expanding**
+    + survive in mix forests and eat nuts (hardwood)
+    + carry a parasite that is lethal to Northern flying squirrel
+
+<br/>
+
+- **Community interdependence matters!**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:240px; LEFT:670px; WIDTH:350px; HEIGHT:450px" SRC="images/squirrel.jpg">
+
+## Constraints to movement trends...
+<hr>
+<br/>
+
+<div style="float: left; width: 60%;">
+
+- **High elevation Appalachian mountain tops are 'sky islands**
+    + glacial relic endemic species adapted to cold
+
+<br/>
+
+- **Elevation limits reduce total available habitat and increase interspecies competition as other species move upslope**
+
+<br/>
+
+- **Mountaintop endemics like the Appalachian grizzled skipper (Pyrgus centaureae wyandot) face extinction from competition** 
+
+<br/>
+
+- **Fraser fir forests shrinking due to loss of cool temperatures and increased stress from invasive insects (balsam woolly adelgid)**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:690px; WIDTH:350px; HEIGHT:450px" SRC="images/moth.jpg">
 
 ##
 
-<IMG STYLE="position:absolute; TOP:25px; LEFT:0px; WIDTH:1100px; HEIGHT:650px" SRC="images/upslope.jpg">
+<IMG STYLE="position:absolute; TOP:25px; LEFT:0px; WIDTH:1100px; HEIGHT:650px" SRC="images/elevation.jpg">
 
-## 
-
-<IMG STYLE="position:absolute; TOP:25px; LEFT:25px; WIDTH:500px; HEIGHT:300px" SRC="images/migrate2.jpeg">
-
-<IMG STYLE="position:absolute; TOP:25px; LEFT:600px; WIDTH:500px; HEIGHT:300px" SRC="images/boreal.png">
-
-<IMG STYLE="position:absolute; TOP:355px; LEFT:250px; WIDTH:650px; HEIGHT:325px" SRC="images/flee2.jpg">
-
-## Natural movement can be disrupted: Monarch
+## Natural movement can also be disrupted: Monarch
 <hr>
 <IMG STYLE="position:absolute; TOP:180px; LEFT:15px; WIDTH:550px; HEIGHT:450px" SRC="images/monarch.jpg">
 
 <IMG STYLE="position:absolute; TOP:280px; LEFT:600px; WIDTH:470px; HEIGHT:350px" SRC="images/monarch2.jpg">
 
-## Natural movement can be disrupted: Monarch
+## Natural movement can also be disrupted: Monarch
 <hr>
 <IMG STYLE="position:absolute; TOP:180px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/monarch3.png">
 
-## Broadly, where are species marching?
+## Appalachian Mountains as a Migratory Corridor
 <hr>
 
-<IMG STYLE="position:absolute; TOP:160px; LEFT:200px; WIDTH:750px; HEIGHT:500px" SRC="images/march.png">
+- **Appalachian range provides a continuous forested pathway, rich in food and shelter**
+    + 'green highway' for migration (N-S) for birds, insects and mammals
+ 
+<br/>
+ 
+**Wood Thrush migrates from Central America to Appalachia to breed**
+<br/>
+**Monarch Butterfly uses the Appalachians during its long-distance migration**
+<br/>
+**Eastern Red Bat migrates along forested ridgelines**
+<br/>
+**Black-throated Green Warbler  depends on high-elevation spruce-fir forests as stop-overs**    
+  
+<br/>
+
+- **Habitat fragmentation (e.g., roadways, development) disrupts continuous forest cover**
+
+<br/>
+
+- **Climate-driven phenological mismatch – food resources (insects, berries) peak earlier, out of sync with arrival times**
+
+<br/>
+
+- **Invasive species like garlic mustard reduce the quality of understory stopover habitat**
 
 ##
 
-<IMG STYLE="position:absolute; TOP:25px; LEFT:0px; WIDTH:1100px; HEIGHT:650px" SRC="images/elevation.jpg">
+<IMG STYLE="position:absolute; TOP:0px; LEFT:0px; WIDTH:1100px; HEIGHT:800px" SRC="images/movementmap.jpg">
 
 ## In order to persist, species range changes are predictable
 <hr>
@@ -136,13 +290,13 @@ output:
 <hr>
 
 **Many species are limited in a move response by gamete dispersal**
-
+    + Appalachian understory plants have limited seed dispersal
 <br/>
 
-**Plants are excellent disperses across many generations, however..**
+**Trees are excellent disperses across many generations, however..TIME MATTERS**
 
 
-<IMG STYLE="position:absolute; TOP:300px; LEFT:200px; WIDTH:650px; HEIGHT:350px" SRC="images/tree.jpg">
+<IMG STYLE="position:absolute; TOP:320px; LEFT:200px; WIDTH:650px; HEIGHT:350px" SRC="images/tree.jpg">
 
 <!-- ## In order to persist, species range changes are predictable -->
 <!-- <hr> -->
@@ -152,18 +306,19 @@ output:
 ## Factors that influence the move response
 <hr>
 
-**Whether or not species can “move” as a response to global change stressors depends on many things…**
+**Whether species can “move” as a response to global change stressors depends on many things…**
 
 <br/>
 
-**<span style="color:green">Organismal traits</span>: Ability to move in response to changing conditions can be affected by many intrinsic traits like dispersal ability, generation time, etc.**
-
+- **<span style="color:green">Organismal traits</span>: Ability to move in response to changing conditions can be affected by many intrinsic traits like dispersal ability, generation time, etc.**
+    + Appalachian salamanders are highly site-faithful
+    
 <IMG STYLE="position:absolute; TOP:360px; LEFT:50px; WIDTH:1000px; HEIGHT:300px" SRC="images/animalmove.png">
 
 ## Factors that influence the move response
 <hr>
 
-**Whether or not species can “move” as a response to global change stressors depends on many things…**
+**Whether species can “move” as a response to global change stressors depends on many things…**
 
 <br/>
 
@@ -174,12 +329,13 @@ output:
 ## Factors that influence the move response
 <hr>
 
-**Whether or not species can “move” as a response to global change stressors depends on many things…**
+**Whether species can “move” as a response to global change stressors depends on many things…**
 
 <br/>
 
-**<span style="color:green">Dynamics of change</span>: Ability to move in response to changing conditions can be affected by many *global change stressors* like pace of change. Can they keep up?**
-
+- **<span style="color:green">Dynamics of change</span>: Ability to move in response to changing conditions can be affected by many *global change stressors* like pace of change. Can they keep up?**
+    + Appalachian mollusks have low vagility, can they ever move fast/far enough?
+    
 <!-- <IMG STYLE="position:absolute; TOP:380px; LEFT:50px; WIDTH:1000px; HEIGHT:300px" SRC="images/landscape.png"> -->
 
 <IMG STYLE="position:absolute; TOP:360px; LEFT:100px; WIDTH:300px; HEIGHT:300px" SRC="images/vagile.png">
@@ -190,7 +346,7 @@ output:
 ## Factors that influence the move response
 <hr>
 
-**Whether or not species can “move” as a response to global change stressors depends on many things…**
+**Whether species can “move” as a response to global change stressors depends on many things…**
 
 <br/>
 
@@ -202,7 +358,6 @@ output:
 <hr>
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:0px; WIDTH:1100px; HEIGHT:400px" SRC="images/invasion.jpg">
-
 
 ## Projecting the move response into the future...
 <hr>
@@ -225,28 +380,28 @@ output:
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:650px; WIDTH:350px; HEIGHT:500px" SRC="images/pending.png">
 
-## Friday: Open discussion - Humans and the 'move response'
-<hr>
+<!-- ## Friday: Open discussion - Humans and the 'move response' -->
+<!-- <hr> -->
 
-* **Investigate how/when/if humans may have to move due to global change factors**
+<!-- * **Investigate how/when/if humans may have to move due to global change factors** -->
 
-<div style="float: left; width: 45%;">
+<!-- <div style="float: left; width: 45%;"> -->
 
-<br/>
+<!-- <br/> -->
 
-* **Utilize any form of communication you want**
-    + Be creative! 
-    
-<br/>
+<!-- * **Utilize any form of communication you want** -->
+<!--     + Be creative!  -->
 
-* **Submit an article on Brightspace**
-    + as proof of your work 
+<!-- <br/> -->
 
-<br/>
+<!-- * **Submit an article on Brightspace** -->
+<!--     + as proof of your work  -->
 
-* **Be prepared to discuss what you found as well as your opinion on if it is possible**
+<!-- <br/> -->
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:500px; WIDTH:600px; HEIGHT:400px" SRC="images/florida.png">
+<!-- * **Be prepared to discuss what you found as well as your opinion on if it is possible** -->
+
+<!-- <IMG STYLE="position:absolute; TOP:200px; LEFT:500px; WIDTH:600px; HEIGHT:400px" SRC="images/florida.png"> -->
 
 <!-- ##  -->
 

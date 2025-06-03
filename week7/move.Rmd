@@ -344,7 +344,7 @@ output:
 <span style="color:darkorange">**QUESTION</span>: How would you categorize different types of movement?**
 <IMG STYLE="position:absolute; TOP:210px; LEFT:150px; WIDTH:800px; HEIGHT:475px" SRC="images/moving.png">
 
-## The adjacent possible for the move response
+## The adjacent possible for the move response: Example
 <hr>
 
 <IMG STYLE="position:absolute; TOP:240px; LEFT:100px; WIDTH:300px; HEIGHT:300px" SRC="images/leaf.png">
@@ -353,9 +353,6 @@ output:
 
 ## Considerations for the move response...
 <hr>
-<br/>
-<br/>
-<br/>
 <br/>
 <br/>
 
@@ -371,6 +368,116 @@ output:
 
 **What is the role of interactions with species and the environment?**
 
+<br/>
+<br/>
+
+**<span style="color:darkorange">The move response is probably more complicated than you originally thought!**</span>
 </div>
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:650px; WIDTH:350px; HEIGHT:500px" SRC="images/distribution.png">
+
+## Move response: Immdediate
+<hr>
+
+**Goal: Escape acute, short-lived stressors (e.g., heatwaves, fires, invasive predators)**
+
+<br/>
+
+<div style="float: left; width: 50%;">
+
+- **Microhabitat Shifts: Movement to a nearby, more tolerable area (e.g., shade, deeper water)**
+    + Example: escaping a wildfire or flood 
+
+<br/>
+
+- **Behavioral Avoidance: Short-term relocation based on sensory cues**
+    + Example: Fish swimming away from a pollution plume
+
+<br/>
+
+- **Diurnal/Nocturnal Shifts: Changing activity times to avoid unfavorable conditions**
+    + Example: Insects shifting foraging times during heat waves
+    
+</div>
+
+<IMG STYLE="position:absolute; TOP:275px; LEFT:600px; WIDTH:450px; HEIGHT:300px" SRC="images/fire.jpg">
+
+## Move response: Short-term (days-seasons)
+<hr>
+
+**Goal: Track temporary favorable conditions or complete life cycle needs.**
+
+<br/>
+
+<div style="float: left; width: 54%;">
+
+- **Seasonal Migration: Regular, predictable movements to exploit seasonal resources**
+    + Example: Monarch butterfly migration tied to seasonal temperature cues
+
+<br/>
+
+- **Nomadic Movement: Less predictable, resource-driven relocations**
+    + Example: Desert animals tracking rainfall and food pulses
+
+<br/>
+
+- **Dispersal of Juveniles/Subadults: Movement away from natal sites**
+    + Example: Young wolves leaving a pack to find a new territory
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:275px; LEFT:650px; WIDTH:400px; HEIGHT:275px" SRC="images/waterhole.jpg">
+
+## Move response: Long-term (generations to centuries)
+<hr>
+
+**Goal: Track shifting climate envelopes or suitable habitat due to persistent global change**
+
+<br/>
+
+<div style="float: left; width: 64%;">
+
+- **Latitudinal Shifts: Moving poleward in response to warming**
+    + Example: tree species expanding ranges northward
+
+<br/>
+
+- **Altitudinal Shifts: Moving upslope to maintain temperature niches**
+    + Example: Alpine species shifting to higher elevations
+
+<br/>
+
+- **Range Shifts: Species may lose parts of their range or colonize new areas**
+
+<br/>
+
+- **Assisted Migration: Humans relocate species to more suitable habitats**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:240px; LEFT:725px; WIDTH:300px; HEIGHT:400px" SRC="images/koala2.jpg">
+
+## To move or not to move.....
+<hr>
+<br/>
+
+<div style="float: left; width: 55%;">
+
+- **Dispersal Ability: Not all species can move equally well (plants vs. birds)**
+
+<br/>
+
+- **Habitat Connectivity: Fragmented landscapes limit movement**
+
+<br/>
+
+- **Barriers: Urban areas, oceans, or mountain ranges may block movement**
+
+<br/>
+
+- **Biotic Interactions: New locations may lack mutualists or include novel predators/competitors**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:670px; WIDTH:350px; HEIGHT:425px" SRC="images/frament.jpg">
+
