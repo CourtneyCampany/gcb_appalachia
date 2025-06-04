@@ -1,5 +1,5 @@
 ---
-title: "Organismal Responses to Change: Adjust"
+title: "Adjusting to Global Change: Phenotypic Plasticity"
 output: 
   ioslides_presentation:
     css: custom2.css
@@ -7,7 +7,32 @@ output:
     smaller: true
 ---
 
-## How does phenotypic plasticity happen?
+## Quick Recap - What is Phenotypic Plasticity?
+<hr>
+<br/>
+
+- <span style="color:blue">**Definition: One genotype can produce multiple phenotypes depending on the environment**</span>
+
+<br/>
+
+<div style="float: left; width: 50%;">
+
+**Example (Plant): Trees develops thicker leaves in full sun vs. shade**
+
+<br/>
+
+**Example (Animal): Birds adjust migration timing based on temperature**
+
+<br/>
+
+- **It’s not evolution per se—the genetic code stays the same**
+    + existing genes contain the capacity to be expressed differently
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:240px; LEFT:620px; WIDTH:400px; HEIGHT:350px" SRC="images/leaf.png">
+
+## Techincal details: How does phenotypic plasticity happen?
 <hr>
 
 <div style="float: left; width: 50%;">
@@ -19,71 +44,215 @@ output:
 
 * **Gene expression responses**
     + *process by which the information encoded in a gene is turned into a function*
-    + increased or decreased production of RNA/proteins
+    + gene activation/repression
 
 <br/>
 
 * **Epigenetic responses**
     + *structural changes to DNA that change how your body reads a DNA sequence*
-    + mechanisms where DNA is not accessible for transcription
-    + DNA nucleotide sequence does not change
-    + possibly inherited
-
+    + can occur from environmental cues
+    + alters steps of gene expression
 
 </div>
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:620px; WIDTH:400px; HEIGHT:400px" SRC="images/puzzle.jpg">
 
-## Different types of genetic changes
+## Why Plasticity Matters for Global Change
 <hr>
 
-<IMG STYLE="position:absolute; TOP:160px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/dna.png">
+<div style="float: left; width: 55%;">
 
-## Changes to DNA sequence underlie adaptation
+- **Speed matters—waiting for genetic adaption may occur to slowly**
+
+<br/>
+
+- **Plasticity helps organisms survive in unstable or fast-changing environments**
+
+<br/>
+
+- **In Appalachia, temperature and precipitation already vary with elevation—plasticity helps species cope with this gradient**
+    + species with broader ranges could have more flexibility to 'adjust'
+    
+<br/>
+
+- **Species that lack plasticity may face other 'adjacent possibles'**
+    + local extinction or range shifts
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:650px; WIDTH:325px; HEIGHT:500px" SRC="images/junco.png">
+    
+## Case Study: Plasticity (or not) in bird breeding behavior
 <hr>
 
-<IMG STYLE="position:absolute; TOP:160px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/dna2.png">
+<IMG STYLE="position:absolute; TOP:160px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/bird.jpg">
 
-## Changes to gene expression underlie plasticity
+## Techincal details: How does phenotypic plasticity happen?
 <hr>
+<br/>
 
-<IMG STYLE="position:absolute; TOP:160px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/dna3.png">
+<div style="float: left; width: 60%;">
 
-## Changes to gene expression underlie plasticity (epigenetic)
+- **Genes contain the information to produce proteins**
+    + proteins do just about everything in the body (build tissues, drive metabolism, support immunity, transport molecules, serve as messengers, etc., etc., etc., etc., )
+
+<br/>
+
+- **Environment may alter the expression of those genes (on, off, more, less) altering the production of proteins that have some key function**
+    + shifts in environmental cues (eg. temperature) detected by bodies/cells as a signal
+
+</div>
+
+<div style="float: left; width: 90%;">
+
+<br/>
+
+- **Great tit (case study): production of specific proteins regulate the brain function and behavior that are specific to breeding**
+    + more plasticity (↑ capacity to adjust) in UK populations compared to Dutch populations
+ 
+ </div>
+ 
+<IMG STYLE="position:absolute; TOP:180px; LEFT:700px; WIDTH:225px; HEIGHT:250px" SRC="images/tit.jpg">
+
+## Environmental sensing by organisms
 <hr>
+<br/>
 
-<IMG STYLE="position:absolute; TOP:160px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/dna4.png">
+<div style="float: right; width: 50%;">
+
+**Monarch butterflies detect day length, temperature, sun angle and magnetic fields for migration**
+
+<br/>
+
+**Amphibians like salamanders sense soil temperature and moisture for breeding.**
+
+<br/>
+
+**Trees like red Oak respond to day length cues for bud break (flowering), leaf production, or removing nutrients from leaves before they fall off**
+
+<br/>
+
+**Day length and temperature drive development and emergence of insects**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:400px; HEIGHT:400px" SRC="images/fallcolor.jpg">
 
 ## Phenotypic plasticity: Instantaneous / instinctual response
 <hr>
-**Noise pollution impacts communication, mating, predator-prey, etc.**
+<br/>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:75px; WIDTH:1000px; HEIGHT:450px" SRC="images/frequency.jpg">
+- **Some responses occur within minutes to hours of an environmental cues**
 
-## Noise pollution is prevalent in marine systems too
+<div style="float: left; width: 50%;">
+
+<br/>
+
+- **Wood thrush adjust singing behavior during sudden weather shifts**
+
+<br/>
+
+- **Eastern chipmunks retreat to burrows or shaded logs during sudden high-temperature events—a behavioral response to heat waves, which are more frequent due to climate change**
+
+<br/>
+
+- **Appalachian fireflies reduce or cease courtship flashes in response to artificial light at night**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:575px; WIDTH:400px; HEIGHT:350px" SRC="images/chipmunk.jpg">
+
+## Phenotypic plasticity: Timing (phenology)
 <hr>
-<IMG STYLE="position:absolute; TOP:180px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/noiseaqua.jpg">
+<br/>
+<br/>
+<br/>
+<br/>
 
-<!-- <IMG STYLE="position:absolute; TOP:50px; LEFT:50px; WIDTH:400px; HEIGHT:600px" SRC="images/frog.jpg"> -->
+<div style="float: left; width: 45%;">
 
-<!-- <IMG STYLE="position:absolute; TOP:50px; LEFT:600px; WIDTH:400px; HEIGHT:600px" SRC="images/birdinstant3.png"> -->
+**Phenology is the study of seasonal life cycle events (blooming, migration, emergence)**
 
-## Phenotypic plasticity: Instantaneous / instinctual response
+<br/>
+
+**Many species life cycles are synced to each other (insect emergence + flowering)**
+
+<br/>
+
+**Climate change can cause <span style="color:darkorange">phenological mismatches</span> of organisms do not ADJUST in the same way**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:500px; HEIGHT:450px" SRC="images/mismattch2.png">
+
+## Phenotypic plasticity: Timing (phenology)
 <hr>
-**Natural light cycles are drive function for many organisms**
-<IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:1000px; HEIGHT:450px" SRC="images/light3.png">
+<br/>
+
+<div style="float: left; width: 50%;">
+
+- **Appalachian species are shifting their phenology due to warming springs**
+    + understory plant species with shorter life cycles are more affected
+
+<br/>
+
+- **Example: *Claytonia virginica* (understory plant) blooms 1-2 weeks earlier now than 40 years ago**
+    + *Claytonia virginica* has a specific pollinator: the Spring Beauty Bee
+
+</div>
+
+<div style="float: left; width: 90%;">
+
+<br/>
+
+- **Both species are shifting their phenology in response to warmer springs, but not necessarily in perfect synchrony**
+    + plant flowering seems to be more plastic to warmer temperatures than bee activity
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:600px; WIDTH:350px; HEIGHT:350px" SRC="images/claytonia.png">
 
 ## Phenotypic plasticity: Gene expression responses
 <hr>
-**Larval bees have identical DNA sequences. Changes in gene expression, likely from an enzyme in royal jelly, alter the development of the larva.**
+**Larval bees have identical DNA sequences. Changes in gene expression, likely from an enzyme (a protein in royal jelly, alter the development of the larva.**
 
 <IMG STYLE="position:absolute; TOP:220px; LEFT:50px; WIDTH:1000px; HEIGHT:400px" SRC="images/gene.png">
 
-## Phenotypic plasticity: Gene expression responses
+## Gene expression and leaf traits in Appalachian trees
 <hr>
-**Changes in gene expression from drought exposure can alter the # of stomata produced, where the are located and how fast the open/close**
 
-<IMG STYLE="position:absolute; TOP:240px; LEFT:100px; WIDTH:900px; HEIGHT:400px" SRC="images/stomata3.png">
+In trees environmental cues regulate the expression of genes that influence leaf thickness, size, and density of stomatal
+
+<br/>
+
+Gene expression is triggered by signals such as light, temperature, and soil moisture.
+
+<br/>
+
+These changes alter protein production, influencing development of tougher leaves or fewer stomata in dry or high-altitude conditions.
+
+<br/>
+
+Plastic gene expression helps trees balance water conservation with carbon gain.
+
+<IMG STYLE="position:absolute; TOP:240px; LEFT:100px; WIDTH:900px; HEIGHT:400px" SRC="images/stomata4.png">
+
+## Climate change and leaf traits in Appalachian trees
+<hr>
+
+Warming trends and droughts in Appalachian regions have altered seasonal moisture availability.
+
+<br/>
+
+In sugar maples, gene expression linked to ABA synthesis (hormone=protein) increases under drought, leading to smaller, thicker leaves and conservative stomata (stay open less)
+
+<br/>
+
+Red Oaks upregulate wax production genes during drought, thickening the water proof outher leaf layer, which reduces water loss
+
+<br/>
+
+In both cases, plasticity in gene-regulated leaf traits help hardwoods adjust to water stress 
 
 ## Phenotypic plasticity: Epigenetic response
 <hr>
