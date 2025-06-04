@@ -57,8 +57,8 @@ output:
 
 <br/>
 
-* **Can a trait adjust?** 
-
+* **Can a trait be adjusted?** 
+    + reminder: traits can be morphological, structural, or physiological
 </div>
 
 <IMG STYLE="position:absolute; TOP:230px; LEFT:15px; WIDTH:600px; HEIGHT:400px" SRC="images/lizards.jpg">
@@ -71,25 +71,25 @@ output:
 <hr>
 
 * **Adjust: non-genetic shifts in organismal traits in different environments**
-    + *phenotypic plasticity*, acclimation, acclimitization
+    + <span style="color:red">*phenotypic plasticity*</span>, acclimation, acclimitization
 
 <br/>
 
 * **Adjust response happens at the *individual* level and within a *single* generation**
     + What does this mean?
 
-<IMG STYLE="position:absolute; TOP:360px; LEFT:0px; WIDTH:1100px; HEIGHT:300px" SRC="images/wings.png">
+<IMG STYLE="position:absolute; TOP:360px; LEFT:50px; WIDTH:1000px; HEIGHT:330px" SRC="images/artic.jpg">
 
 ## Organismal responses to change: Adjust
 <hr>
 <br/>
 
 
-**Genotype: inherited genetic information **
+<span style="color:darkorange">**Genotype: inherited genetic information**</span>
 
 <br/>
 
-**Phenotype: observable traits or characteristics**
+<span style="color:darkblue">**Phenotype: observable traits or characteristics**</span>
 
 <br/>
 <br/>
@@ -115,7 +115,7 @@ output:
 <hr>
 <br/>
 
-**When a single genotype can produce multiple phenotypes depending on environmental conditions**
+<span style="color:blue">**When a single genotype can produce multiple phenotypes depending on environmental conditions**</span>
 
 <br/>
 <br/>
@@ -123,19 +123,19 @@ output:
 
 <div style="float: left; width: 50%;">
 
-* **Inducible defenses are classic example**
+* **Inducible defenses are classic examples**
     + animals and plants
     + often fast
-    + stabilize population dynamics
+    + not needed when predators are absent
     + dedicated sensory systems to interpret the environment
 
 <br/>
 
-**Daphnia produce horns and neck teeth in presence of predators**
+* **Daphnia (small crustacean) produce horns and neck teeth in presence of predators**
+    + Why not just express horns all the time?
 </div>
 
 <IMG STYLE="position:absolute; TOP:250px; LEFT:600px; WIDTH:450px; HEIGHT:400px" SRC="images/daphnia2.png">
-
 
 ## Density-induced grasshopper plasticity
 <hr>
@@ -145,7 +145,7 @@ output:
 **Grasshopper camoflauge and behavior is influenced by 'crowdedness'**
 <IMG STYLE="position:absolute; TOP:270px; LEFT:0px; WIDTH:1100px; HEIGHT:300px" SRC="images/grasshopper3.png">
 
-## Some shore crabs shift colors diurnally!
+## Some shore crabs change colors during the day!
 <hr>
 <br/>
 <br/>
@@ -158,7 +158,7 @@ output:
 
 <br/>
 
-**Thermoregulation**
+**Temperature regulation**
 
 <br/>
 
@@ -171,7 +171,7 @@ output:
 ## What is phenotypic plasticity?
 <hr>
 <br/>
-**When a single genotype can produce multiple phenotypes depending on environmental conditions**
+<span style="color:blue">**When a single genotype can produce multiple phenotypes depending on environmental conditions**</span>
 
 <div style="float: left; width: 55%;">
 
@@ -195,10 +195,15 @@ output:
 
 <IMG STYLE="position:absolute; TOP:210px; LEFT:625px; WIDTH:400px; HEIGHT:450px" SRC="images/behavior.png">
 
+## Bird songs vs river and ocean surf noise
+<hr>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/birdsong.png">
+
 ## What is phenotypic plasticity?
 <hr>
 <br/>
-**When a single genotype can produce multiple phenotypes depending on environmental conditions**
+<span style="color:blue">**When a single genotype can produce multiple phenotypes depending on environmental conditions**</span>
 
 <br/>
 <br/>
@@ -270,4 +275,9 @@ output:
 ## Are global change and the adjust response compatible?
 <hr>
 
-<IMG STYLE="position:absolute; TOP:160px; LEFT:300px; WIDTH:500px; HEIGHT:500px" SRC="images/nextup.png">
+<IMG STYLE="position:absolute; TOP:160px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/plastic_concept.jpg">
+
+## Are global change and the adjust response compatible?
+<hr>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:100px; WIDTH:900px; HEIGHT:340px" SRC="images/plasticdemo.jpg">
