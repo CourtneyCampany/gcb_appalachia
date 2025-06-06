@@ -81,13 +81,13 @@ output:
 
 * **He intended "fittest" to mean the members of the species best suited for the *immediate* environment**
     + individual needs the most favorable traits to survive in the environment
-    + environments can change at any time
+    + <span style="color:red">environments can change at any time
     
 <br/>
 
 * **Those lacking the favorable traits—the "unfit"—most likely won't live long enough to pass down their unfavorable traits**
     + those traits will be breed out of the population
-    + 'breeding out' traits can take a long time
+    + 'breeding out' traits can take a long time</span>
 
 </div>
 
@@ -96,12 +96,13 @@ output:
 ## Conditions necessary for natural selection
 <hr>
 <br/>
+<br/>
 
-* **<span style="color:darkred">Variation</span>: Individuals in a population vary **
+* **<span style="color:darkred">Variation</span>: Individuals in a population (of 1 species) vary**
     + *mutation* as ultimate source of variation
-    + *migration* -> gene flow within species 
-    + *introgression* -> genetics crosses species boundaries
-
+    + *migration* -> gene flow among populations of a species 
+    
+<br/>
 <br/>
 <br/>
 
@@ -114,7 +115,7 @@ output:
 * **<span style="color:darkred">Differential survival or reproduction</span>: Not all individuals survive, those with favorable traits survive and reproduce**
 
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:6000px; WIDTH:400px; HEIGHT:250px" SRC="images/ladybug.png">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:655px; WIDTH:400px; HEIGHT:250px" SRC="images/ladybug.png">
 
 ## Ways of studying adaptation (experimental evolution)
 <hr>
@@ -197,7 +198,7 @@ output:
 
 ## Color traits selected differently across variable landscapes
 <hr>
-
+**Natural Selection = Microevolution (changes within a population, not a new species)**
 <IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:1000px; HEIGHT:400px" SRC="images/lizardbird.png">
 
 ##
