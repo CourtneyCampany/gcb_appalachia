@@ -7,29 +7,183 @@ output:
     smaller: true
 ---
 
-## Other approaches to study natural selection
+## Are organisms 'shape-shifting' to climate change?
+<hr>
+
+- **Animals are altering their morphology—especially body size and extremity proportions—as a response to climate change.**
+  + This phenomenon is consistent with two complementary ecogeographical rules:**
+
+<br/>
+
+**<span style="color:blue">Bergmann’s Rule</span>: body sizes adapt differently to climate**
+<br/>
+**<span style="color:blue">Allen’s Rule</span>: body part sizes adapt differently to climate**
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+**These changes may represent phenotypic plasticity, evolutionary adaptation, or both**
+
+<IMG STYLE="position:absolute; TOP:350px; LEFT:150px; WIDTH:800px; HEIGHT:300px" SRC="images/shapeshift.png">
+
+## Bergmann’s Rule and body size
+<hr>
+
+- **Bergmann’s Rule = individuals of a species tend to be larger in colder environments and smaller in warmer environments**
+
+<br/>
+
+<div style="float: left; width: 53%;">
+
+- **An organism's surface area-to-volume ratio (size) affects how body heat**
+    + ↓ surface area helps retain body heat
+        + larger animals in cold climates
+    + ↑ surface area helps remove body heat
+        + smaller animals in warm climates
+
+<br/>
+
+- **Works for animals that regulate their body temperature (endotherm) and even for those that do not (ectotherm)**
+    + Polar bears are larger than American black bears to better conserve heat in their Arctic habitat
+    + Some species of turtles in colder regions are larger compared to those in warmer climates
+
+ </div> 
+ 
+<IMG STYLE="position:absolute; TOP:260px; LEFT:625px; WIDTH:450px; HEIGHT:350px" SRC="images/penguin2.png">
+
+## Allens’s Rule and body size
+<hr>
+<br/>
+
+- **Within endothermic animals, species in colder climates tend to have shorter extremities compared to their counterparts in warmer climates**
+    
+<br/>
+
+<div style="float: left; width: 53%;">
+
+- **Shorter length reduces surface area, minimizing heat loss, which is important in cold environments**    
+    + shorter ears, tails, and limbs are common
+
+<br/>
+
+- **Arctic foxes have shorter ears and legs compared to desert foxes**
+
+<br/>
+
+- **Birds in hot, tropical northern Australia have longer bills than birds in temperate, southern Australia**
+
+ </div> 
+ 
+<IMG STYLE="position:absolute; TOP:260px; LEFT:625px; WIDTH:450px; HEIGHT:350px" SRC="images/allen.png">
+
+## Non-animal species shift morphology too, just differently
+<hr>
+<br/>
+
+<div style="float: right; width: 59%;">
+
+**Some plants have shifted leaf size, shape, thickness for water conservation**
+    + shifts in leaf traits has long evolutionary history
+    
+<br/>
+
+**Some plants have altered root distributions and branching in response to drought/flooding**
+
+<br/>
+
+**Cell size for bacteria/protists (single-celled organisms) reduced with ↑ temperatures**
+
+<br/>
+
+**These changes also may represent phenotypic plasticity, evolutionary adaptation, or both**
+
+ </div> 
+ 
+<IMG STYLE="position:absolute; TOP:180px; LEFT:20px; WIDTH:400px; HEIGHT:500px" SRC="images/leafsize.png">
+
+## Evolution can be fast (but not usually)
+<hr>
+<br/>
+<br/>
+
+- **The rate of adaptation is influenced by a combination of biological and ecological factors:**
+    + *Generation Time*: Short generations (e.g., insects, bacteria) allow more opportunities for selection
+    + *Genetic Variation*: Evolution requires existing variation
+    + *Mutation Rate*: High mutation rates can introduce new traits
+    + *Population Size*: Larger populations have more variation
+    
+<br/>
+
+<div style="float: left; width: 40%;">
+
+- **Another thing to consider: How powerful is the environmental selection?**
+
+ </div> 
+ 
+<IMG STYLE="position:absolute; TOP:360px; LEFT:500px; WIDTH:600px; HEIGHT:300px" SRC="images/generation.png">
+
+## Evolution can be fast (but not usually)
 <hr>
 <br/>
 <br/>
 <br/>
 
-<div style="float: left; width: 60%;">
+<div style="float: left; width: 55%;">
 
-**Museum specimens provide resource for comparisons over time, but many traits cannot be measured from specimens**
+- **Case Study (Eastern Red-backed Salamander)**
+    + Color morphs (red-backed vs. lead-backed) show variation across elevation, forest cover, and temperature gradients
+    + Lead-backed morph more frequent in warmer, fragmented forests
+    + Could be natural selection favoring heat-tolerant morphs as forests warm
 
 <br/>
 
-**What if researchers could have access live animals from a historical time point that had frozen in time?**
+- **Not all populations show the same shift**
+    + suggests local adaptation or constraints
+
+ </div> 
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:650px; WIDTH:400px; HEIGHT:500px" SRC="images/salamander.jpg">
+
+## Is rapid-evolution occurring in Elephants due to poaching?
+<hr>
+<br/>
+<br/>
+ 
+<div style="float: left; width: 55%;">
+
+- **Intense ivory poaching pressure (human-driven selection) of Savannah elephants has reduced populations**
+    + poachers prefer elephants with large tusks
+    
+ <br/>
+ 
+- **Some females are born without tusks, likely due to mutations on several genes**
+    + similar genes to teeth traits in humans
 
 <br/>
 
-**For some species, seeds, eggs, cysts, spores can be preserved in soil or ice and revived years or even centuries later**
+- **Ivory poaching disproportionately removes tusked individuals from the breeding population**
+    + Removing tusks without killing the animal is nearly impossible 
+    
+ </div> 
+ 
+<IMG STYLE="position:absolute; TOP:220px; LEFT:600px; WIDTH:450px; HEIGHT:450px" SRC="images/elephants2.png">
 
-</div>
+## Microevolution: Rapid selection of tuskless female elephants
+<hr>
+ **The survival of tuskless females across this 28-year period was estimated to five times that of tusked individuals in Gorongosa National Park (Campbell-Station et al. 2021)**
 
-<IMG STYLE="position:absolute; TOP:160px; LEFT:650px; WIDTH:400px; HEIGHT:500px" SRC="images/museum.png">
+<IMG STYLE="position:absolute; TOP:220px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/elephants.png">
 
-## Case study: *Daphnia*
+## Measuring rapid evolution in water fleas
 <hr>
 <br/>
 <br/>
@@ -53,21 +207,21 @@ output:
 
  <br/>
  
-**CTmax - upper threshold of temperature that an organism can function normally**
+**<span style="color:red">CTmax - upper threshold of temperature that an organism can function normally</span>**
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:20px; WIDTH:700px; HEIGHT:250px" SRC="images/daphnia2.png">
 
 <IMG STYLE="position:absolute; TOP:150px; LEFT:800px; WIDTH:200px; HEIGHT:500px" SRC="images/daphnia.png">
 
-## Case study: *Daphnia*
-<hr>
+## Measuring rapid evolution in water fleas
+<hr> 
 <br/>
 
 **Approach 1: <span style="color:blue">Experimental evolution</span> - Evolved *Daphnia* under control and warmed conditions for 2 years**
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:200px; WIDTH:600px; HEIGHT:400px" SRC="images/daphniabar.png">
 
-## Case study: *Daphnia*
+## Measuring rapid evolution in water fleas
 <hr>
 <br/>
 
@@ -90,36 +244,76 @@ output:
 <br/>
 <br/>
 
-
 **Conclusion: Thermal tolerance in *Daphnia* can evolve over short time scales in response to global warming**
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:200px; WIDTH:600px; HEIGHT:400px" SRC="images/daphniabar2.png">
 
-## Case study: *Daphnia* can evolve....so what?
+## Urban evolution in real time?
 <hr>
 <br/>
+<br/>
 
-**Daphnia not only interact strongly with its phytoplankton food resource, but also with other components of marine food webs**
+<div style="float: left; width: 68%;">
 
-<IMG STYLE="position:absolute; TOP:260px; LEFT:250px; WIDTH:600px; HEIGHT:400px" SRC="images/daphnia3.png">
+- **White-footed mouse thrive in both Appalachian forests and urban areas in the eastern US**
 
-## Current climate change threaten 16% of species with extinction
+<br/>
+
+- **In urban areas, populations have evolved genetic changes to detoxify pollutants and enable metabolism of high-fat human foods**
+
+<br/>
+
+- **Studies show evolutionary divergence in less than 100 generations**
+
+<br/>
+
+- **Which adjacent possible to has occurred in urban popuations?**
+
+ </div> 
+ 
+<IMG STYLE="position:absolute; TOP:180px; LEFT:750px; WIDTH:250px; HEIGHT:500px" SRC="images/mice.jpg">
+
+## Measure it: Urban eolution in real time?
+<hr>
+<br/>
+<br/>
+
+<div style="float: right; width: 55%;">
+
+**Is the urban mouse population genetically adapted or just exhibiting phenotypic plasticity?**
+
+<br/>
+
+**Could a common garden experiment (raising forest and urban mice in the same conditions) help isolate genetic effects?**
+
+<br/>
+
+**<span style="color:darkorange">What outcomes would suggest plasticity?</span>**
+<br/>
+
+**<span style="color:darkorange">What outcomes would suggest evolution by natural selection?</span>**
+
+ </div> 
+ 
+<IMG STYLE="position:absolute; TOP:180px; LEFT:25px; WIDTH:450px; HEIGHT:450px" SRC="images/mice2.png">
+
+## BIG QUESTION: Can adaptation prevent extinction?
 <hr>
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/risk.png">
 
-## Can adaptation prevent extinction?
+## BIG QUESTION: Can adaptation prevent extinction?
 <hr>
+<br/>
+
+* **<span style="color:blue">Evolutionary rescue = process by which a population—that would have gone extinct in the absence of evolution—persists due to natural selection</span>**
+
 <br/>
 
 <div style="float: right; width: 62%;">
 
-* **Evolutionary rescue? = process by which a population—that would have gone extinct in the absence of evolution—persists due to natural selection**
-
-<br/>
-
 * **So far, not been shown to be common in nature**
-    + cricket versus fly parasitoid
+    + cricket versus invasive fly parasitoid
     
 <br/>
 
@@ -128,205 +322,158 @@ output:
 
 <br/>
 
-* **Can strong selection have risks?**
-    + can species adapt to multiple global change stressors?
+* **Can species adapt to multiple global change stressors?**
+
  </div>   
  
-<IMG STYLE="position:absolute; TOP:250px; LEFT:10px; WIDTH:400px; HEIGHT:300px" SRC="images/rescue2.jpeg">
+<IMG STYLE="position:absolute; TOP:290px; LEFT:10px; WIDTH:400px; HEIGHT:300px" SRC="images/rescue2.jpeg">
 
-## Are there limits to adaptation?
-<hr>
-<br/>
-<br/>
-<br/>
-<br/>
-
-<div style="float: left; width: 51%;">
-
-**Some organisms can adapt rapidly, but not always rapidly enough**
-
-<br/>
-
-**What happens when the rate of environmental change exceeds the ability of populations to adapt?**
-
-</div>
-
-<IMG STYLE="position:absolute; TOP:160px; LEFT:575px; WIDTH:500px; HEIGHT:500px" SRC="images/lizards3.png">
-
-## Are there limits to adaptation?
+## Assisted evolutionary rescue...
 <hr>
 <br/>
 
-<div style="float: left; width: 65%;">
-
-**Some organisms can adapt rapidly, but not always rapidly enough**
-
-<br/>
-
-**<span style="color:blue">For example, some populations do not have enough genetic variation to track forecast changes in climate</span>**
-
-<br/>
-
-**A 2°C rise in the next 60 years (12 birch generations) is predicted to advance budburst by 40 days**
+<div style="float: right; width: 68%;">
+- **Spreading Avens is an Appalachian endangered plant, found only on high-elevation peaks**
+    + found in western NC and eastern Tennessee
+ 
+ <br/>
+ 
+- **Vulnerable to extinction due to climate change, land development and outdoor recreation (climbing)**
 
 <br/>
 
-**Billington & Pelham (1991) predicted how much change would need to occur per generation versus current population variation**
+- **Researchers have breed the small isolated populations of Spreading Avens with more diverse populations to create hybrids**
+    + hybrids may gain traits (↑ adaptive potential) to allow them to survive 
 
 <br/>
 
-**Predicted change would be impossible**
+- **To speed up evolutionary rescue, what should our role be?**
+ </div>   
+ 
+<IMG STYLE="position:absolute; TOP:180px; LEFT:25px; WIDTH:325px; HEIGHT:500px" SRC="images/avens.jpg">
 
-</div>
+## What are there limits to adaptation?
+<hr>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:750px; WIDTH:300px; HEIGHT:400px" SRC="images/birch.png">
+- <span style="color:darkorange">**Standing genetic variation</span> is the existing pool of traits in a population**
+    + Natural selection can only act on traits that already exist
+    + Species with high standing variation are more likely to adapt quickly to global change
 
-## Traits that facilitate adaptation
+<IMG STYLE="position:absolute; TOP:280px; LEFT:100px; WIDTH:900px; HEIGHT:400px" SRC="images/exist.png">
+
+## What are there limits to adaptation?
+<hr>
+
+- **Species with low variation may have no evolutionary "tools" available to respond**
+    + Long-lived species or reduced populations often have reduced variation
+    + environmental change may occur to quickly before a beneficial mutation arises
+    
+<IMG STYLE="position:absolute; TOP:280px; LEFT:100px; WIDTH:900px; HEIGHT:400px" SRC="images/exist2.png">
+
+## Evolution Case study: American chestnut
+<hr>
+
+**Chestnut blight (fungus) was introduced to North America from Asia in the early 1900s.**
+
+<br/>
+
+<div style="float: left; width: 54%;">
+
+- **American chestnuts were once widespread and dominant in eastern forests—including Appalachia**
+    + had no prior exposure to this pathogen
+    + lacked genetic resistance to the fungus
+
+<br/>
+
+- **Despite being genetically diverse overall, they had no existing resistance alleles**
+    + standing variation for the trait under selection = 0
+
+<br/>
+
+- **The entire population was uniformly vulnerable, and blight wiped out ~4 billion trees within decades**
+    + trees reproduce to slowly for mutations to create an adaptive solution
+
+ </div>  
+ 
+<IMG STYLE="position:absolute; TOP:200px; LEFT:650px; WIDTH:400px; HEIGHT:450px" SRC="images/blight.jpg">
+
+## Can Species Adapt to More Than One Challenge?
+<hr>
+
+- **Adapting to multiple stressors often requires multiple traits**
+    + Species rarely face just one threat—global change is multi-factorial:
+      + Climate warming, habitat loss, invasive species, pollution, harvesting
+
+<br/>
+
+<div style="float: left; width: 59%;">
+
+- **Many species have limited standing variation—not enough to evolve all needed traits at once**
+
+<br/>
+
+- **Appalachian Brook Trout may need to adapt thermal tolerance, disease resistance, altered spawning timing**
+    + Even if variation exists for one trait, adaptation can fail if other traits can’t respond
+    + iolated headwater populations tend to have low genetic variation
+
+ </div>  
+
+<IMG STYLE="position:absolute; TOP:270px; LEFT:650px; WIDTH:350px; HEIGHT:400px" SRC="images/trout.jpg">
+
+## Gene Flow: A Lifeline for Adaptation...
 <hr>
 <br/>
 
-**Why can some species evolve quickly enough to cope with global warming while others can’t?**
+<div style="float: left; width: 63%;">
+
+- **Gene flow is the movement of genes between *connected* populations through migration and reproduction**
+    + introduces new alleles into a population
+    + alternative to local mutations or standing variation
 
 <br/>
 
-**What traits make a species more likely to exhibit the adapt response?**
+- **But only works if populations are connected (via corridors, dispersal, etc.)**
 
 <br/>
 
-**BRAINSTORM: All else being equal, we expect higher likelihood of adaptation in organisms with…**
+- **Appalachian Brook Trout populations are fragmented from roads, habitat loss, warming, drought**
+    + gene flow could be restored through through conservation
 
+ </div> 
+ 
+<IMG STYLE="position:absolute; TOP:160px; LEFT:675px; WIDTH:300px; HEIGHT:500px" SRC="images/streams.jpg">
 
-## Traits that facilitate adaptation
+## Not All Evolutionary Change is Adaptive
 <hr>
-<br/>
-<br/>
-<br/>
-<br/>
 
-<div style="float: right; width: 51%;">
-
-**Higher trait heritability (for the relevant traits)**
+- **<span style="color:blue">Genetic drift</span> is random change in allele frequencies over time, unrelated to fitness or selection**
+    + reminder: alleles = alternate versions of a gene
+    + usually results in alleles being lost
 
 <br/>
 
-**Adaptation cannot occur if a trait is not inherited**
+- **Powerful evolutionary in small populations, where chance events can quickly shift genetic makeup**
+    + habitat loss and fragmentation can severely reduce population sizes
+    + reduces adaptive potential, makes populations more vulnerable to change
+
+<div style="float: left; width: 50%;">
 
 <br/>
 
-**Heritability varies by trait**
-
-</div>
-
-<IMG STYLE="position:absolute; TOP:200px; LEFT:25px; WIDTH:450px; HEIGHT:450px" SRC="images/inherit.jpg">
-
-## Traits that facilitate adaptation
+- **Brook trout in fragmented isolated Appalachian streams may lose rare alleles just by chance**
+    + any deaths may mean a helpful trait disappears
+    
+ </div> 
+ 
+ <IMG STYLE="position:absolute; TOP:370px; LEFT:550px; WIDTH:450px; HEIGHT:300px" SRC="images/drift2.png">
+ 
+ 
+## Genetic drift can interfere with natural selection
 <hr>
-<br/>
 
-**More existing genetic variation (in relevant traits)**
+**Global change can reshape the gene pool randomly, without improving fitness**
 
-<br/>
-
-**Adaptation from existing or “standing” genetic variation can be fast because the population does not have to “wait” for new mutations to occur.**
-
-<IMG STYLE="position:absolute; TOP:400px; LEFT:200px; WIDTH:600px; HEIGHT:300px" SRC="images/trait.jpg">
-
-## Traits that facilitate adaptation
-<hr>
-<br/>
-
-**More existing genetic variation (in relevant traits)**
-
-<IMG STYLE="position:absolute; TOP:240px; LEFT:100px; WIDTH:900px; HEIGHT:400px" SRC="images/exist.png">
-
-## Traits that facilitate adaptation
-<hr>
-<br/>
-
-**<span style="color:red">Contrast that with waiting for a new mutation</span>**
-
-<IMG STYLE="position:absolute; TOP:240px; LEFT:100px; WIDTH:900px; HEIGHT:400px" SRC="images/exist2.png">
-
-## Traits that facilitate adaptation
-<hr>
-<br/>
-
-**Higher mutation rates**
-
-<br/>
-
-**Faster mutation rates generate more variation on which selection can act**
+<IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:1000px; HEIGHT:450px" SRC="images/drift.jpg">
 
 
-<IMG STYLE="position:absolute; TOP:330px; LEFT:50px; WIDTH:1000px; HEIGHT:300px" SRC="images/rates.png">
 
-## Traits that facilitate adaptation
-<hr>
-<br/>
-
-**Faster generation times**
-
-<br/>
-
-**The *relative* velocity of environmental change is slower for organisms that can go through many generations each year**
-
-<IMG STYLE="position:absolute; TOP:320px; LEFT:250px; WIDTH:600px; HEIGHT:300px" SRC="images/generation.png">
-
-## Traits that facilitate adaptation
-<hr>
-<br/>
-
-**Larger population sizes**
-
-<br/>
-
-**Larger populations are more likely to have standing variation and are less likely to be decimated by chance events **
-
-
-<IMG STYLE="position:absolute; TOP:320px; LEFT:200px; WIDTH:700px; HEIGHT:370px" SRC="images/drift.jpg">
-
-## Traits that facilitate adaptation
-<hr>
-<br/>
-
-**Other factors like amount of gene flow and how traits are linked to each other in the genome also matter**
-
-<IMG STYLE="position:absolute; TOP:280px; LEFT:50px; WIDTH:1000px; HEIGHT:400px" SRC="images/flow.png">
-
-## Microevolution: Rapid selection of tuskless female elephants
-<hr>
- **The survival of tuskless females across this 28-year period was estimated to five times that of tusked individuals in Gorongosa National Park (Campbell-Station et al. 2021)**
-
-<IMG STYLE="position:absolute; TOP:220px; LEFT:20px; WIDTH:500px; HEIGHT:450px" SRC="images/elephants.png">
-
-<IMG STYLE="position:absolute; TOP:220px; LEFT:600px; WIDTH:450px; HEIGHT:450px" SRC="images/elephants2.png">
-
-<!-- ## Microevolution: Rapid plumage colouration change in tawny owls  -->
-<!-- <hr> -->
-<!--  **Strong selection against the brown morph occurs under snow-rich winters. As winter conditions became milder in the last decades, selection against the brown morph diminished (Karell et al. 2011).** -->
-
-<!-- <IMG STYLE="position:absolute; TOP:180px; LEFT:500px; WIDTH:450px; HEIGHT:4550px" SRC="images/elephants.png"> -->
-
-<!-- <IMG STYLE="position:absolute; TOP:180px; LEFT:600px; WIDTH:450px; HEIGHT:450px" SRC="images/elephants2.png"> -->
-
-## Friday Discussion: Can Humans *Adaptt* to Global Change?
-<hr>
-<br/>
-
-* **Do Humans have high adaptive capacity..**
-
-<br/>
-
-* **What evidence exists? Past, present and/or future**
-    + What adaptations have already occurred?
-    + Do humans adapt easily?
-    + Can/How/Will human adapt to 3-4C warming?
-
-<br/>
-
-* **Be prepared to discuss what you found as well as your opinion on if it is possible**
-
-<br/>
-
-* **Submit an article/link on Brightspace for participation**
-    + Add a sentence or 2 about what you found
