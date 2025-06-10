@@ -10,7 +10,6 @@ output:
 ## Death is an inevitable part of life
 <hr>
 <br/>
-<br/>
 
 <div style="float: right; width: 60%;">
 
@@ -18,7 +17,7 @@ output:
 
 <br/>
 
-**Is extinction actually a response?**
+**Is extinction actually an adjacent possible response?**
 
 <br/>
 
@@ -26,7 +25,11 @@ output:
 
 <br/>
 
-**But patterns of extinction are so important that we need to treat it as a core category**
+**But patterns of extinction are so important (Since Industraial Revolution)that we need to treat it as a core category**
+
+<br/>
+
+**Appalachia as a biodiversity 'hot spot' and climate refuge is a key area of concern**
 
 </div>
 
@@ -41,6 +44,13 @@ output:
 
 **Modern day biodiversity reflects billions of years of <span style="color:blue">speciation</span>**
 
+<br/>
+
+**For example: Formation of mountain ranges (Appalachia) over geologic time are significant drivers of speciation due to their ability to isolate populations and create unique environmental pressures (elevation and climate gradients, diverse habitats)**
+
+<br/>
+
+**The fossil record shows us that the creation of species (via evolution) occurs at different rates through time**
 </div>
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:20px; WIDTH:450px; HEIGHT:500px" SRC="images/treelife.png">
@@ -60,10 +70,20 @@ output:
 
 <br/>
 
+**Speciation and extinction should not be considered a equally balanced yin and yang**
+
+<br/>
+
 **<span style="color:darkorange">What is different about today?</span>**
 
 </div>
+
 <IMG STYLE="position:absolute; TOP:180px; LEFT:20px; WIDTH:450px; HEIGHT:500px" SRC="images/treelife2.png">
+
+## Mass extinction history
+<hr>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/mass.png">
 
 ## Extinction during our time
 <hr>
@@ -83,11 +103,12 @@ output:
 <br/>
 <br/>
 
-**2011, cited 3964 times**
+**2011, cited ~6000 times**
 
 <br/>
-
 **<span style="color:red">Never before has a large extinction event been caused by a single species at such high velocity</span>**
+<br/>
+**This "event" is evident in Appalachian forests and waterways, where unique species are threatened by human activities**
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:150px; WIDTH:800px; HEIGHT:350px" SRC="images/paper.png">
 
@@ -108,6 +129,10 @@ output:
 <div style="float: left; width: 70%;">
 
 **“The analysis we present here avoids using assumptions … which can suggest very high extinction rates, and which have raised the possibility that scientists are “alarmists” seeking to exaggerate the impact of humans on the biosphere”.**
+
+<br/>
+
+**Ceballos and colleagues objectively compared current extinction rates to the background rate derived from the fossil record, providing insight into contemporary extinction trends versus the past**
 </div>
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:0px; WIDTH:1100px; HEIGHT:200px" SRC="images/paper2.png">
@@ -205,12 +230,37 @@ output:
     + recently expanded in geography or host range
     + recently evolved in virulence
 
-## Emerging Infectious Diseases
+## Emerging Infectious Diseases in Appalachia
 <hr>
+<br/>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:75px; WIDTH:400px; HEIGHT:200px" SRC="images/quote.png">
+<div style="float: left; width: 50%;">
 
-<IMG STYLE="position:absolute; TOP:160px; LEFT:550px; WIDTH:400px; HEIGHT:300px" SRC="images/graph.png">
+**White-Nose Syndrome in bats is caused by a fungus**
+<br/>
+
+**Appeared in New York in 2006 and has spread rapidly through Appalachian species**
+<br/>
+
+**Population declines of >90% have been observed in Appalachian bat colonies**
+
+</div>
+
+<div style="float: right; width: 50%;">
+
+**Sudden ash death is caused by the invasive emerald ash borer**
+<br/>
+
+**Appeared in Michigan in 2002 and has spread rapidly through Appalachia**
+<br/>
+
+**In areas with severe infestations, most ash trees are killed**
+
+</div>
+
+<!-- <IMG STYLE="position:absolute; TOP:200px; LEFT:75px; WIDTH:400px; HEIGHT:200px" SRC="images/quote.png"> -->
+
+<!-- <IMG STYLE="position:absolute; TOP:160px; LEFT:650px; WIDTH:400px; HEIGHT:300px" SRC="images/graph.png"> -->
 
 <IMG STYLE="position:absolute; TOP:450px; LEFT:0px; WIDTH:1100px; HEIGHT:250px" SRC="images/disease.png">
 
@@ -336,8 +386,6 @@ output:
 
 ## 
 <br/>
-<br/>
-<br/>
 
 <div style="float: left; width: 45%;">
 
@@ -356,9 +404,14 @@ output:
 
 **?Spread around the world in African clawed frogs used for human pregnancy tests?**
 
+
+<br/>
+
+**<span style="color:blue">Appalachian connection</span>: How might human activity in Appalachia contributed to the spread of white nose syndrome in bats?**
+
 </div>
 
-<IMG STYLE="position:absolute; TOP:0px; LEFT:500px; WIDTH:600px; HEIGHT:670px" SRC="images/bdphylo.png">
+<IMG STYLE="position:absolute; TOP:0px; LEFT:500px; WIDTH:600px; HEIGHT:670px" SRC="images/bdphylo2.png">
 
 <!-- ##  -->
 <!-- <br/> -->
@@ -391,12 +444,14 @@ output:
 <br/>
 <br/>
 <br/>
-<br/>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:0px; WIDTH:1100px; HEIGHT:200px" SRC="images/bdtable.png">
+
+**<span style="color:red">Genetic evidence of virulence</span>: these gene families serve as virulence factors in other fungi that infect vertebrate skin**
+
 <br/>
 
-<IMG STYLE="position:absolute; TOP:240px; LEFT:0px; WIDTH:1100px; HEIGHT:200px" SRC="images/bdtable.png">
-
-**<span style="color:red">Genetic evidence of virulence</span>: some of these gene families serve as virulence factors in other fungi that infect vertebrate skin**
+**<span style="color:blue">Appalachian connection</span>: Research on white nose syndrome has identified genes in the fungus that contribute to its cold-tolerance and ability to thrive on bats in hibernation, making Appalachian caves ideal environments for its spread**
 
 ## Differences between the winner and the losers
 <hr>
@@ -422,18 +477,40 @@ output:
 <br/>
 <br/>
 
-**Resistant frogs mount a more robust immune response (via <span style="color:blue">plasticity</span>)**
+**Resistant frogs mount a more robust immune response (via <span style="color:blue">phenotypic plasticity</span>)**
 
 <IMG STYLE="position:absolute; TOP:210px; LEFT:250px; WIDTH:650px; HEIGHT:400px" SRC="images/resistant.png">
 
 ## Field studies reveal the heartbreaks?
 <hr>
 
-**500 species of amphibians have declined significantly because of the outbreak — including at least 90 species presumed to have gone extinct (2019)**
+**>500 species of amphibians have declined significantly because of the outbreak — including at least 90 species presumed to have gone extinct (2019)**
 
 <IMG STYLE="position:absolute; TOP:220px; LEFT:20px; WIDTH:1050px; HEIGHT:400px" SRC="images/everywehre.jpeg">
 
+## Appalachian amphibians: Chytrid Impacts
+<hr>
+<br/>
 
+<div style="float: left; width: 60%;">
+
+**Spotted Salamander: Bd detected in Southern Appalachians, with one study showing 10% positive**
+
+<br/>
+
+**Green Salamander: Identified with Bd infection in Southern Appalachia, though at lower prevalence (around 7.7%)**
+
+<br/>
+
+**Lungless Salamanders: show low historical Bd prevalence, but experiments indicate susceptibility and death from infection in lab settings.**
+
+<br/>
+
+**Field surveys have detected Bd on frogs and toads in the southern Appalachians but not a lot of mortality**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:240px; LEFT:705px; WIDTH:350px; HEIGHT:300px" SRC="images/green.jpg">
 
 <!-- ## What are the glimmers of hope? -->
 <!-- <hr> -->
@@ -443,7 +520,7 @@ output:
 
 ## What are the glimmers of hope?
 <hr>
-**<span style="color:darkorange">Tracking population recoveries</span>**
+**<span style="color:darkgreen">Tracking population recoveries through the adjust response (immune plasticity) and the adapt response (new antibacterial skin secretions in bullfrogs) </span>**
 
 <IMG STYLE="position:absolute; TOP:220px; LEFT:50px; WIDTH:1000px; HEIGHT:450px" SRC="images/hopes.png">
 
@@ -472,11 +549,11 @@ output:
 
 <IMG STYLE="position:absolute; TOP:220px; LEFT:35px; WIDTH:350px; HEIGHT:450px" SRC="images/pinnacles.jpg">
 
-## What are the glimmers of hope?
+## What are the glimmers of hope? Targeted conservation
 <hr>
-**<span style="color:darkorange">Contributions to conservation more broadly</span>**
+**<span style="color:darkred">Contributions to conservation more broadly. Knowledge gained from studies aids in preparedness for the next emergent disease. Bsal is another chytrid fungi in Europe. Studies indicates great invasion risk in the Appalachians</span>**
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:50px; WIDTH:1000px; HEIGHT:450px" SRC="images/turtle.png">
+<IMG STYLE="position:absolute; TOP:240px; LEFT:00px; WIDTH:1100px; HEIGHT:450px" SRC="images/bsal.png">
 
 ## What are the complexities?
 <hr>
@@ -503,6 +580,24 @@ output:
 <span style="color:red">**Effects on humans may be clear but what about the broader community?**</span>
 
 </div>
+
+## Sixth mass extinction in Appalachia...
+<hr>
+<br/>
+
+**Mammals & Birds: Many large mammals (Bison, Elk, Timber Wolf, Eastern Cougar) and iconic birds (Carolina Parakeet, Passenger Pigeon) extirpated or went extinct due to overhunting and habitat loss**
+
+<br/>
+
+**Aquatic Species: Significant declines and extinctions of freshwater mussels and fish due to pollution (mining), deforestation, and damming**
+
+<br/>
+
+**Overall Trend: While precise numbers are elusive, the Anthropocene has seen accelerated extinction rates in Appalachia, driven by human activities like habitat destruction, pollution, and climate change, impacting its rich biodiversity**
+
+<br/>
+
+**Over 1,800 species are currently classified as endangered, threatened or rare in the Appalachian region**
 
 ## Next Time: Sixth Mass Extinction Open Discussion
 <hr>
