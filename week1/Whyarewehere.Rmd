@@ -135,14 +135,14 @@ output:
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:600px; WIDTH:450px; HEIGHT:400px" SRC="images/trust.jpg">
 
-## Social Framentation: Trust in science is eroding, largely on party lines
+## Social Framentation: Trust in science is eroding along party lines
 <hr>
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/trust6.png">
 
 <!-- <IMG STYLE="position:absolute; TOP:160px; LEFT:650px; WIDTH:350px; HEIGHT:500px" SRC="images/politics.jpg"> -->
 
-## Social Framentation: We need each other, but is that even possible?
+## We need each other, but is that even possible?
 <hr>
 https://www.pewresearch.org/2025/05/08/americans-trust-in-one-another/
 

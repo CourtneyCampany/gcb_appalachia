@@ -409,7 +409,7 @@ output:
 
 <br/>
 
-- **Try to use AI to build a caricature of your Appalachian self**
+- **Try to use AI (let me help) to build a caricature of your Appalachian self**
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:775px; WIDTH:275px; HEIGHT:500px" SRC="images/ai_me.png">
 
@@ -426,4 +426,9 @@ output:
 - **Check your group assignment (by last name) for Friday's group discussion**
     + Submit short answers to the questions (min 1/2 page, max 1 page)
     + Submit a link/pdf to at least one article that relates to your group questions
+    
+<br/>
+
+* **Work on this while you complete your caricature**
+    + be ready to present both on Friday
 
