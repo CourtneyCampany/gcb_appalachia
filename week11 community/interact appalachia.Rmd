@@ -1,0 +1,407 @@
+---
+title: "Organismal Responses Interact: Appalachia"
+output: 
+  ioslides_presentation:
+    css: custom3.css
+    widescreen: true
+    smaller: true
+---
+
+## Organismal Responses in Appalachia
+<hr>
+<br/>
+
+<div style="float: left; width: 53%;">
+
+* **Review: Appalachia as a biodiversity hotspot with high endemism and habitat specialization**
+
+<br/>
+
+* **Global change factors in Appalachia: climate shifts, invasive species, land use change, pollution**
+    + multiple stressors are likely co-occurring
+    
+<br/>
+
+* **Native organisms can Move, Adjust, Adapt, Die — but responses interact**
+    + organisms are adapted to *ecoregions* withing the Appalachian region
+    + ecoregion = large geographic area with distinct features (climate, geology, soil)
+    + ecoregions may constrain the move, adjust, adapt response...
+
+<br/>
+
+* **Appalachia’s biodiversity and varied microclimates make it an ideal case study for complex response interactions**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:650px; WIDTH:400px; HEIGHT:500px" SRC="images/ecoregions.png">
+
+## Review: Change Factors in Appalachian Ecosystems
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/tempchange.jpg">
+
+## Review: Change Factors in Appalachian Ecosystems
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/invasionintensity.png">
+
+## Review: Change Factors in Appalachian Ecosystems
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:50px; WIDTH:500px; HEIGHT:500px" SRC="images/surfacemining.jpg">
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:500px; HEIGHT:450px" SRC="images/mine.jpg">
+
+## Review: Change Factors in Appalachian Ecosystems
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/airpollution.jpg">
+
+## Nested Responses: From Individual to Ecosystem
+<hr>
+<br/>
+
+<div style="float: left; width: 53%;">
+
+* **Individuals influence populations → communities → ecosystems**
+    + red pruce decline → Owl habitats → small mammal populations → plant herbivory
+    
+<br/>
+
+* **Responses rarely happen in isolation — multiple mechanisms may operate at once**
+
+    + invasion of Tree of Heaven → Invasion of Spotted Lantern Fly → native trees????  
+<br/>
+
+* **Appalachian forests: species interactions shape overall resilience**
+    + high biodiversity = high resilience
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:550px; WIDTH:550px; HEIGHT:450px" SRC="images/treeheaven.png">
+
+## Appalachian Reslience to Change, Why Biodiversty Matters
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:150px; WIDTH:900px; HEIGHT:500px" SRC="images/ballcup.png">
+
+## MOVE + DIE: Elevation Escalator in Appalachia
+<hr>
+
+* **Climate warming pushes cold-adapted endemic species upslope (MOVE)**
+    + high elevation habitats are limited in habitat area
+
+<br/>
+
+* **Competition increases at the summit, leading to local extinctions (DIE)**
+
+<br/>
+
+<div style="float: left; width: 64%;">
+
+* **Example: Balsam fir trees are glacial retreat relics that survive on a handful of high elevation Appalachian mountaintops**
+    + Move response to any stressor is non-existent
+    + Balsam woolly adelgid (BWA) is a sap-feeding invasive insect that attacks fir species
+    + Cold winter temperatures can affect BWA survival/reproduction at higher elevations
+    + Warming winters allow larger populations of BWA to survive longer
+    + Christmas tree farms (frasier fir) can also transport BWA
+
+</div>    
+
+<IMG STYLE="position:absolute; TOP:300px; LEFT:740px; WIDTH:300px; HEIGHT:380px" SRC="images/frasierfir.png">
+
+## MOVE Limitations in Appalachia = DIE?
+<hr>
+<br/>
+
+* **Adaptations of native/endemic species to unique microclimates can result in “No place to go” scenarios**
+
+<br/>
+
+* **Appalachian salamanders depend on moist microhabits AND have low dispersal (move slowly)**
+    + inability to cross dry/open ground in natural behavior/movement
+
+<br/>
+<br/>
+
+<div style="float: right; width: 65%;">
+
+* **Habitat fragmentation also creates more 'edges', exposing the species (MOVE) to predators/contaminants on outside the suitable habitat**
+    + key issue for bird species
+
+</div>  
+
+<IMG STYLE="position:absolute; TOP:380px; LEFT:75px; WIDTH:325px; HEIGHT:300px" SRC="images/removal.png">
+
+## MOVE Limitations in Appalachia = DIE?
+<hr>
+<br/>
+
+* **Another key constraint of the MOVE response is co-dependent species**
+    + do symbionts, mutualists, pollinators, specific prey all move at the same rate?
+
+<br/>
+<br/>
+
+<div style="float: left; width: 55%;">
+
+* **Rhododendron is a showy Appalachian shrub that blooms in late spring at mid-to-high elevations**
+    + relies heavily on bees for pollination
+    + if climate change pushes azaleas upslope, they may bloom later (warm temperature cue)
+    + if bees do not also MOVE or ADJUST their emergence/foraging times, a pollination gap will occur
+
+</div>  
+
+<IMG STYLE="position:absolute; TOP:320px; LEFT:650px; WIDTH:350px; HEIGHT:350px" SRC="images/rhodo.jpeg">
+
+## MOVE Limitations in Appalachia = DIE?
+<hr>
+<br/>
+
+* **Another key constraint of the MOVE response is co-dependent species**
+    + do symbionts, mutualists, pollinators, specific prey all move at the same rate?
+
+<br/>
+<br/>
+
+<div style="float: left; width: 55%;">
+
+* **Brook trout depend on cold, well-oxygenated Appalachian streams and feed heavily on aquatic insect larvae (mayflies, caddisflies, stoneflies)**
+    + warming water may force brook trout into higher-elevation headwaters.
+    + some aquatic insects may not be able to colonize these headwaters due to lack of suitable substrate or flow conditions
+    + Even if trout find refuge, food availability could collapse, impacting survival
+
+</div>  
+
+<IMG STYLE="position:absolute; TOP:320px; LEFT:650px; WIDTH:350px; HEIGHT:350px" SRC="images/trout.jpg">
+
+## MOVE response coupled to ADJUST/ADAPT to new conditions
+<hr>
+
+* **Movement to new habitats ≠ identical conditions — temperature, oxygen, moisture, soil chemistry all differ**
+    + elevation profiles of Appalachia exaggerate these differences
+    + species moving upslope face colder nights, lower oxygen, shallower soil
+    + species shifting northward encounter new photoperiods, competitors, and pathogens
+
+<br/>
+
+<div style="float: left; width: 55%;">
+
+* **Survival often depends on phenotypic plasticity (short-term adjustment) or rapid adaptation (genetic change)**
+
+<br/>
+
+* **In Appalachia, narrow-range endemics are at high risk because they may have evolved in stable microclimates with little selection for tolerance ranges**
+
+</div> 
+
+<IMG STYLE="position:absolute; TOP:320px; LEFT:650px; WIDTH:375px; HEIGHT:375px" SRC="images/wvrain.png">
+
+## Constraints on Plasticity & Adaptation in Appalachia
+<hr>
+
+* **Low genetic diversity in isolated mountaintop or stream populations limits adaptive potential**
+    + endangered and threatened species (e.g., Indiana bat) tend to exhibit low genetic diversity
+
+<br/>
+
+* **Widespread species (e.g., white oak) maintain more genetic variation, increasing adaptive capacity**
+
+<br/>
+
+* **Short-lived species may adapt faster due to more generations per time**
+    + allow for beneficial mutations to occur
+    + *may* keep pace with environmental change
+
+<br/>
+
+* **Long-lived species (e.g., trees) adapt slowly — rely heavily on existing plasticity**
+
+<br/>
+
+* **Endemic species may have key physiological genes 'fixed' for narrow ranges**
+    + may constrain the move response (no phenotypic plasticity)
+    + flexible gene expression more common in species with larger ranges/larger populations
+
+## ADAPT or DIE: Evolutionary Rescue in Appalachia
+<hr>
+<br/>
+
+* **Can adaptation through evolution by natural selection occur fast enough?**
+
+<br/>
+<br/>
+
+<div style="float: left; width: 48%;">
+
+* **Case Study: Hemlock woolly adelgid (HWA) resistance in Eastern hemlock (Tsuga canadensis)**
+    + Eastern Hemlock highly susceptible to HWA
+    + ~50% of Hemlock populations have been affected
+    + HWA has killed 95% of Hemlocks in Shenandoah National Park 
+    
+<IMG STYLE="position:absolute; TOP:250px; LEFT:530px; WIDTH:550px; HEIGHT:400px" SRC="images/hwa3.png">
+
+</div> 
+
+## ADAPT or DIE: Evolutionary Rescue in Appalachia
+<hr>
+<br/>
+
+* **Some eastern hemlock trees in areas with HWA infestations show signs of resistance, despite surrounding trees dying**
+    + resistance mechanisms unknown but could be higher amounts of terpenes created through genes/gene expression
+    
+<br/>
+
+<div style="float: left; width: 68%;">
+
+* **Although resistance exists, can it keep up?**
+    + HWA kills trees within 2-4 years
+    + will beneficial mutations in non-resistant trees occur?
+    + can scientists culture resistance trees fast enought (usually 30 years to produce pollen/cones)?
+    + can breeding programs (Eastern + Chinese hemlock) produce resistance hybrid fast enough>
+
+</div> 
+
+<IMG STYLE="position:absolute; TOP:290px; LEFT:720px; WIDTH:300px; HEIGHT:400px" SRC="images/hemlock2.jpg">
+
+## ADAPT or DIE: Evolutionary Rescue in Appalachia
+<hr>
+<br/>
+
+* **Although resistance breeding and natural selection are ongoing — climate change adds stress**
+    + drought events and warming reduce plant fitness and ability to defend against pests
+    + warmer winters makes it easier for HWA to spread farther north into new hemlock ranges
+
+<br/>
+
+<div style="float: left; width: 60%;">
+
+* **Do conservation breeding programs cause genetic drift?**
+    + culturing programs select a small # of individuals with only key traits (HWA resistance)
+    + artificial bottlenecks can be created when out-planting
+    + genetic breeding programs must pay close attention to long-term genetic diversity
+
+</div>
+
+<br/>
+
+<div style="float: left; width: 99%;">
+
+<br/>
+
+* **Remember: Natural selection is a moving target**
+    + ↓ genetic diversity (bottlenecked survivors, breeding) can limit future stresses responses
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:300px; LEFT:670px; WIDTH:350px; HEIGHT:275px" SRC="images/hemlock.jpg">
+
+
+## Phenotypic Plasticity as a Filter to Adaptation
+<hr>
+<br/>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:700px; WIDTH:370px; HEIGHT:280px" SRC="images/trout2.jpg">
+
+
+* **Plasticity allows persistence under new conditions**
+    + remember: plasticity = existing flexibility in gene expression
+    + creates flexible in traits (physiology, behavior, etc)
+
+<br/>
+<br/>
+
+* **Case Study: Appalachian brook trout thermal tolerance**
+    + Brook trout have an optimal temperature of around 58°F 
+    + more sensitive to high temperature stress
+    + experience stress and reduced feeding at water temperatures exceeding 60°F 
+    + lethal effects > 69°F 
+
+<br/>
+
+* **Brook trout typically inhabit waters ranging from 44-68°F**
+
+## Phenotypic Plasticity as a Filter to Adaptation
+<hr>
+<br/>
+
+* **Brook trout activate genes related to heat-shock proteins (HSPs) which help protect cells during warmer conditions**
+    + even at temperatures below their upper tolerance limit
+
+<br/>
+
+* **Exposure to daily temperature oscillations also triggers increased expression of HSPs**
+
+<br/>
+
+* **Brook trout show some capacity for acclimation to warmer temperatures**
+    + individuals with more flexibility in HSP production, will allo more reproduction during change
+
+<br/> 
+
+* **Brook trout currently have reduced capacity to adapt to temperatures consistently exceeding 68°F**
+    + gene expression differences are heredity, giving future generations more time to evolve tolerance to higher temperatures
+    
+## Human-Mediated Movement in Appalachia
+<hr>
+
+* **Managed relocation involves intentionally moving species to new locations better suited to their survival under changing climatic conditions**
+    + approach is still largely theoretical and debated among conservationists.
+
+<br/> 
+
+* **Reintroduction of extinct/locally extinct species (MOVE) occurs in Appalachia**
+    + Elk, river otters, peregrine falcons
+    + forest-assisted migration are underway to plant tree species from warmer areas further north
+
+<IMG STYLE="position:absolute; TOP:400px; LEFT:50px; WIDTH:1000px; HEIGHT:300px" SRC="images/assisttree.jpg">
+
+
+## Human-Mediated Movement in Appalachia
+<hr>
+
+* **Success depends on more than just climate matching**
+    + risks of mismatches with dependent species
+    
+<br/> 
+
+<div style="float: left; width: 55%;">
+
+* **Success depends on trees ADJUST to new environmental conditions & ADAPT over generations**
+
+<br/>
+
+* **Forest-assisted migration requires short-term adjustment**
+    + day length light cues for phenology, physiology
+
+<br/>
+
+* **Forest-assisted migration long-term adaptation**
+    + changes in nutrient regimes, species interactions, etc. 
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:240px; LEFT:600px; WIDTH:450px; HEIGHT:400px" SRC="images/daylight.jpg">
+
+## Wrapping Up the Adjacent Possible
+<hr>
+<br/>
+
+* **Appalachian species responses mirror global patterns but are intensified by endemism**
+
+<br/>
+<br/>
+
+<div style="float: left; width: 55%;">
+
+* **Move, Adjust, Adapt, Die responses often interact — creating complex outcomes**
+
+<br/>
+
+* **Understanding these dynamics is essential for regional conservation**
+    + many Appalachia endangered species face complicated recoveries
+    + DIE response (extinction) is always waiting
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:620px; WIDTH:350px; HEIGHT:400px" SRC="images/birds3.jpg">
