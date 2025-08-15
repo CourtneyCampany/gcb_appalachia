@@ -57,34 +57,6 @@ output:
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/airpollution.jpg">
 
-## Nested Responses: From Individual to Ecosystem
-<hr>
-<br/>
-
-<div style="float: left; width: 53%;">
-
-* **Individuals influence populations → communities → ecosystems**
-    + red pruce decline → Owl habitats → small mammal populations → plant herbivory
-    
-<br/>
-
-* **Responses rarely happen in isolation — multiple mechanisms may operate at once**
-
-    + invasion of Tree of Heaven → Invasion of Spotted Lantern Fly → native trees????  
-<br/>
-
-* **Appalachian forests: species interactions shape overall resilience**
-    + high biodiversity = high resilience
-
-</div>
-
-<IMG STYLE="position:absolute; TOP:180px; LEFT:550px; WIDTH:550px; HEIGHT:450px" SRC="images/treeheaven.png">
-
-## Appalachian Reslience to Change, Why Biodiversty Matters
-<hr>
-
-<IMG STYLE="position:absolute; TOP:180px; LEFT:150px; WIDTH:900px; HEIGHT:500px" SRC="images/ballcup.png">
-
 ## MOVE + DIE: Elevation Escalator in Appalachia
 <hr>
 
