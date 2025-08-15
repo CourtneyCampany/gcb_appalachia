@@ -1,5 +1,5 @@
 ---
-title: "Ecosystem and Biome-Level Responses II"
+title: "Ecosystem Responses II"
 output: 
   ioslides_presentation:
     css: custom2.css
@@ -7,34 +7,45 @@ output:
     smaller: true
 ---
 
-## Large-scale earth system impacts
+## Larger-scale global change impacts
 <hr>
-**<span style="color:red">Changes across levels are all happening at the same time</span>**
-
 <br/>
 
-**<span style="color:blue">Ecosystem structure</span>: abundance & distribution of species & resources**
-
-<IMG STYLE="position:absolute; TOP:260px; LEFT:100px; WIDTH:900px; HEIGHT:400px" SRC="images/structure.jpeg">
-
-## Large-scale earth system impacts
-<hr>
 
 **<span style="color:red">Changes across levels are all happening at the same time</span>**
 
 <br/>
+**<span style="color:blue">Ecosystem structure</span>: abundance & distribution of species & resources (the players)**
 
-**<span style="color:blue">Ecosystem structure</span>: abundance & distribution of species & resources**
+<div style="float: left; width: 45%;">
+
+<br/>
+<br/>
+
+**<span style="color:green">Appalachian ecosystems</span>: unique topography, climate gradients, and species interactions of the Appalachians result in many distinct ecosystems, all interacting with global change factors.**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:290px; LEFT:500px; WIDTH:500px; HEIGHT:400px" SRC="images/structure.jpg">
+
+## Larger-scale global change impactss
+<hr>
+
+**<span style="color:red">Changes across levels are all happening at the same time</span>**
+
+<br/>
+
+**<span style="color:blue">Ecosystem structure</span>: abundance & distribution of species & resources (the players)**
 
 <div style="float: left; width: 52%;">
 
 <br/>
 
-**<span style="color:blue">Ecosystem function</span>: physical, chemical, & biological processes**
+**<span style="color:blue">Ecosystem function</span>: physical, chemical, & biological processes (the plays)**
 
 <br/>
 
-**<span style="color:blue">Ecosystem services</span>: processes & products that benefit humans**
+**<span style="color:blue">Ecosystem services</span>: processes & products that benefit humans (the rewards)**
 
 <br/>
 
@@ -42,6 +53,11 @@ output:
 </div>
 
 <IMG STYLE="position:absolute; TOP:300px; LEFT:560px; WIDTH:550px; HEIGHT:300px" SRC="images/functions.png">
+
+## Appalachain region is rich in ecosystem services
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/servicesmtn.png">
 
 ## Feedbacks: when a process/system is modified by its own effects
 <hr>
@@ -69,7 +85,7 @@ output:
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:160px; LEFT:550px; WIDTH:500px; HEIGHT:500px" SRC="images/feedback.png"> 
+<IMG STYLE="position:absolute; TOP:160px; LEFT:550px; WIDTH:520px; HEIGHT:500px" SRC="images/feedback.png"> 
 
 ## Feedbacks: when a process/system is modified by its own effects
 <hr>
@@ -128,7 +144,7 @@ output:
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:240px; LEFT:50px; WIDTH:500px; HEIGHT:350px" SRC="images/forestfire.png"> 
+<IMG STYLE="position:absolute; TOP:240px; LEFT:50px; WIDTH:500px; HEIGHT:350px" SRC="images/remove.jpg"> 
 
 ## Feedbacks: when a process/system is modified by its own effects
 <hr>
@@ -164,16 +180,16 @@ output:
 
 </div>
 
-## 
-
-<IMG STYLE="position:absolute; TOP:50px; LEFT:50px; WIDTH:1000px; HEIGHT:600px" SRC="images/logging2.png">
-
 ## Feedbacks: when a process/system is modified by its own effects
 <hr>
 
 **<span style="color:red">Positive feedback loops</span>: Abiotic and <span style="color:darkorange">biotic</span> feedbacks from deforestation** 
 
 <IMG STYLE="position:absolute; TOP:240px; LEFT:50px; WIDTH:1000px; HEIGHT:400px" SRC="images/habitatfrag.png">
+
+## 
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:50px; WIDTH:1000px; HEIGHT:600px" SRC="images/logging2.png">
 
 ## Feedbacks: when a process/system is modified by its own effects
 <hr>

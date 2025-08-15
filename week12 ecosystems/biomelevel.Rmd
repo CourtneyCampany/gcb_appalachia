@@ -1,5 +1,5 @@
 ---
-title: "Ecosystem and Biome-Level Responses I"
+title: "Ecosystem-Level Responses I"
 output: 
   ioslides_presentation:
     css: custom.css
