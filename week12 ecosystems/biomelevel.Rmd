@@ -7,12 +7,6 @@ output:
     smaller: true
 ---
 
-<!-- ## Session Objective -->
-<!-- <hr> -->
-
-<!-- **Continue with understanding complex systemic responses to global change pressures** -->
-
-<!-- <IMG STYLE="position:absolute; TOP:220px; LEFT:125px; WIDTH:850px; HEIGHT:450px" SRC="images/model3.png"> -->
 
 ## Global change impacts Earth's systems
 <hr>
@@ -22,11 +16,11 @@ output:
 
 <div style="float: left; width: 50%;">
 
-**Many of Earth's system's interact at the ecosystem level**
+**Earth's system's interact at the ecosystem level**
 
 <br/>
 
-**Ecosystem = **
+<span style="color:darkred">**Ecosystem</span> = A community of living things interacting with each other and with the nonliving environment (like air, water, and soil).**
 
 <br/>
 
@@ -38,9 +32,8 @@ output:
 
 ## In ecosystems, abiotic and biotic processes interact
 <hr>
-<br/>
 
-<div style="float: left; width: 50%;">
+<div style="float: left; width: 48%;">
 
 **Ecosystems (and higher levels) are regulated by the <span style="color:darkred">flow of energy</span> and the <span style="color:darkred">cycling of nutrients</span>**
 
@@ -51,20 +44,20 @@ output:
 <br/>
 
 - **Energy from the sun powers communities, ecosystems, biomes, etc**
-    + Second Law of Thermodynamics
-    + energy goes on a one-way trip
+    + energy in nature isn’t recycled — it flows one way
     
 <br/>
 
 - **Matter, including the chemical building blocks of life, cycles around the biosphere**
-    + Law of Conservation of Mass
+    + matter can’t be created or destroyed — it just changes form
 
 </div>
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:575px; WIDTH:500px; HEIGHT:450px" SRC="images/energymatter.jpg">
 
-## Energy from the sun flows through food webs
+## Energy from the sun flows through Appalachian food webs
 <hr>
+**The flow of energy through food webs is very inefficient**
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:25px; WIDTH:600px; HEIGHT:450px" SRC="images/foodweb.png">
 
@@ -77,28 +70,122 @@ output:
 
 ## Energy flow and efficiency is partially temperature dependent!
 <hr>
-<span style="color:red">**Projected decrease in transfer efficiency is expected to lead to a 21.3% decrease in abundance of predators in marine ecosystems**</span>
+<span style="color:red">**Projected decrease in transfer efficiency is expected to lead to a ~20% decrease in abundance of predators in marine ecosystems (↓ energy available at top of food web)**</span>
 
 <IMG STYLE="position:absolute; TOP:220px; LEFT:150px; WIDTH:800px; HEIGHT:450px" SRC="images/tempflow.jpg">
 
-## Energy and matter movement are goverened by global cycles
+## Matter recycling: Water
 <hr>
-<span style="color:blue">**WATER**</span>
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/watercycle.png">
+* **<span style="color:blue">Evaporation & Transpiration</span>: Water moves from land and plants into the atmosphere**
+<br/>
+* **<span style="color:blue">Precipitation</span>: Rain, snow, sleet, or hail falls to Earth**
+<br/>
+* **<span style="color:blue">Condensation</span>: Water vapor forms clouds**
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+* **<span style="color:blue">Infiltration & Runoff</span>: Water soaks into soils, feeds groundwater, or flows into rivers and streams**
+<br/>
+* **<span style="color:blue">Storage</span>: Water is stored in ice, snowpack, soils, wetlands, lakes, groundwater, and oceans until it re-enters the cycle**
+
+    
+</div>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:500px; WIDTH:550px; HEIGHT:375px" SRC="images/watercycle2.png">
+
+## Matter recycling: Water
+<hr>
+<br/>
+<br/>
+<br/>
+<br/>
+
+<div style="float: right; width: 48%;">
+
+* **Role of mountain ecosystems in water cycle:**
+    + Mountains store water in snowpack, bogs, soils, and forests
+    + Mountain vegetation releases water vapor into the atmosphere
+    + Moist air cools as it rises over mountains, increasing condensation
+    
+</div>
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:30px; WIDTH:550px; HEIGHT:375px" SRC="images/watercycle2.png">
 
 ## Global change will alter most parts of the water cycle
 <hr>
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/waterchange.png">
 
-## Energy and matter movement are goverened by global cycles
+## Matter recycling: Nutrients
 <hr>
-<span style="color:green">**NITROGEN**</span>
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/nitrogenbiogeo.png">
+<span style="color:green">**Main Components of Nutrient Cycles (e.g., nitrogen, carbon, phosphorus, sulfur):**</span>
 
-<!-- <IMG STYLE="position:absolute; TOP:260px; LEFT:550px; WIDTH:550px; HEIGHT:250px" SRC="images/fixation.jpeg"> -->
+<div style="float: left; width: 48%;">
+
+<br/>
+
+**<span style="color:green">Inputs</span>: Nutrients enter ecosystems from weathering rocks, atmospheric deposits or biological capture**
+
+<br/>
+
+**<span style="color:green">Uptake</span>: Plants and microbes absorb nutrients to build living tissue**
+
+<br/>
+
+**<span style="color:green">Transfer</span>: Nutrients move through food webs as organisms eat and are eaten**
+
+<br/>
+
+**<span style="color:green">Decomposition & Recycling</span>: Dead matter and waste are broken down, returning nutrients to soil and water**
+
+<br/>
+
+**<span style="color:green">Storage</span>: Nutrients can be held long-term in soils, sediments, biomass, or rock until re-mobilized**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:600px; WIDTH:500px; HEIGHT:450px" SRC="images/nutrient.jpg">
+
+## Matter recycling: Nutrients
+<hr>
+
+<div style="float: left; width: 50%;">
+
+<span style="color:green">**Role of Mountain Ecosystems:**</span>
+
+<br/>
+
+**<span style="color:green">Sources</span>: Bedrock and soils release nutrients through weathering, feeding streams and forests**
+
+<br/>
+
+**<span style="color:green">Storage</span>: Soils, wetlands, and living biomass serve as major nutrient storage pools.**
+
+<br/>
+
+**<span style="color:green">Transfer</span>: Aquatic systems are often "throughput systems" where nutrients pass through quickly rather than being significantly retained**
+
+<br/>
+
+**<span style="color:green">Decomposition & Recycling</span>: Generally slower than in warmer lowland or tropical systems, meaning nutrients cycle gradually and can become limiting for growth**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:600px; WIDTH:500px; HEIGHT:450px" SRC="images/nutrient.jpg">
 
 ## Why care about Nitrogen?
 <hr>
@@ -112,17 +199,21 @@ output:
 <br/>
 
 - **Nitrogen is the limiting factor in how productive plant growth can be**
-    + via chlorophyll and Rubisco enzyme (15%)
     + producers at bottom of food webs
     + human food security
 
 <br/>
 
-- **Nitrogen is a primary ingredient in fertilizers**
+- **Thus, Nitrogen is a primary ingredient in fertilizers**
 
 </div>
 
 <IMG STYLE="position:absolute; TOP:220px; LEFT:570px; WIDTH:500px; HEIGHT:375px" SRC="images/plantnitro.png">
+
+## Nitrogen cycle: the basics
+<hr>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/nitrogencycle2.png">
 
 ## Global change will alter most parts of the nitrogen cycle
 <hr>
@@ -130,24 +221,44 @@ output:
 
 <IMG STYLE="position:absolute; TOP:215px; LEFT:125px; WIDTH:850px; HEIGHT:450px" SRC="images/reactivenitro.jpg">
 
-## Got Nitrate?
+## The state of nitrogen cycling in Appalachian ecosystems
 <hr>
-**https://earthobservatory.nasa.gov/images/44677/aquatic-dead-zones**
-<IMG STYLE="position:absolute; TOP:220px; LEFT:10px; WIDTH:550px; HEIGHT:350px" SRC="images/gulf2.jpg">
+<br/>
+<br/>
+<br/>
+<br/>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:580px; WIDTH:550px; HEIGHT:400px" SRC="images/deadzone.jpg">
+<div style="float: left; width: 63%;">
 
-## Energy and matter movement are goverened by global cycles
+* **Appalachian ecosystems are no longer under peak nitrogen stress thanks to air quality improvements (Clean Air Act 1990)**
+
+<br/>
+
+* **Legacies of past deposition, slow soil recovery, and climate-driven mobilization mean nitrogen cycling remains disrupted**
+    + especially in high-elevation forests and sensitive headwater streams
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:700px; WIDTH:350px; HEIGHT:500px" SRC="images/nitrogendeposit.png">
+
+## The state of nitrogen cycling in Appalachian ecosystems
 <hr>
-<span style="color:purple">**CARBON**</span>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/carbonbiogeo.png">
+<div style="float: left; width: 49%;">
 
-<!-- ## Energy and matter movement are goverened by global cycles -->
-<!-- <hr> -->
-<!-- <span style="color:purple">**CARBON**</span> -->
 
-<!-- <IMG STYLE="position:absolute; TOP:180px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/carbonworld.png"> -->
+* **Appalachian agriculture creates a leaky nitrogen cycle (like most agriculture)**
+    + farmland releases more nitrogen than natural mountain ecosystems
+    + agriculture is a main driver of nitrogen pollution regionally and downstream
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:500px; WIDTH:550px; HEIGHT:500px" SRC="images/nitrogenag.png">
 
 ## Why care about carbon?
 <hr>
@@ -158,13 +269,12 @@ output:
 
 <br/>
 
-- **Carbon is stored deep earth, plants and oceans for potentially long time scales**
+- **Carbon is stored deep earth, vegetation and oceans for potentially long time scales**
     + keeps carbon out of atmosphere
  
 <br/>
  
-- **Humans are (1) removing carbon from storage pools and (2) preventing carbon from entering storage pools**
-    + adds carbon to atmophere
+- **Human activities (burning fossil fuels, deforestation, agriculture) have added more carbon to the atmosphere than ecosystems can re-absorb**
 
 <br/>
 
@@ -174,40 +284,62 @@ output:
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:575px; WIDTH:525px; HEIGHT:450px" SRC="images/carbonfootprint.jpg">
 
+## Carbon cycle: the basics
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/carboncycle.png">
+
 ## Global change will alter most parts of the carbon cycle
 <hr>
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/presentcarbon.jpg">
 
-<!-- ## Energy and matter movement are goverened by global cycles -->
-<!-- <hr> -->
-
-<!-- <IMG STYLE="position:absolute; TOP:180px; LEFT:20px; WIDTH:450px; HEIGHT:450px" SRC="images/sulfur2.jpg"> -->
-
-<!-- <IMG STYLE="position:absolute; TOP:180px; LEFT:530px; WIDTH:600px; HEIGHT:400px" SRC="images/phosnatural.jpg"> -->
-
-<!-- ## Global change alters these cycles too -->
-<!-- <hr> -->
-
-<!-- <IMG STYLE="position:absolute; TOP:180px; LEFT:50px; WIDTH:450px; HEIGHT:450px" SRC="images/sulfur.jpg"> -->
-
-<!-- <IMG STYLE="position:absolute; TOP:180px; LEFT:550px; WIDTH:450px; HEIGHT:450px" SRC="images/phoshuman.png"> -->
-
-## Why does global biogeochemistry matter?
+## The state of carbon cycling in Appalachian ecosystems
 <hr>
-<br/>
-<br/>
+<div style="float: left; width: 52%;">
+
+**<span style="color:purple">Forests as Carbon Sinks</span>: Appalachian forests are key carbon 'sinks', pulling CO₂ from the air and storing it in wood**
+
 <br/>
 
-<div style="float: left; width: 50%;">
+**<span style="color:purple">Soil Carbon</span>: Cool, moist mountain soils store large pools of organic matter, but warming could accelerate decomposition and release carbon**
 
-**Biochemical cycles interact to regulate the biosphere, including climate &#8594;**
+<br/>
+
+**<span style="color:purple">Disturbance Impacts</span>: Past logging, mining, and land use change have reduced carbon stocks in some areas, though reforestation has helped recovery**
+
+<br/>
+
+**<span style="color:purple">Agriculture & Development</span>: Expanding agriculture and urban areas are net carbon 'sources', emitting more than they store**
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:550px; WIDTH:500px; HEIGHT:450px" SRC="images/biogeo.jpg">
+<IMG STYLE="position:absolute; TOP:180px; LEFT:600px; WIDTH:475px; HEIGHT:450px" SRC="images/carbontree.png">
 
-## Why does global biogeochemistry matter?
+## Mountain ecosystems: Carbon storage
+<hr>
+
+<div style="float: left; width: 52%;">
+
+**<span style="color:purple">Forests as Carbon Sinks</span>: Appalachian forests are key carbon 'sinks', pulling CO₂ from the air and storing it in wood**
+
+<br/>
+
+**<span style="color:purple">Soil Carbon</span>: Cool, moist mountain soils store large pools of organic matter, but warming could accelerate decomposition and release carbon**
+
+<br/>
+
+**<span style="color:purple">Disturbance Impacts</span>: Past logging, mining, and land use change have reduced carbon stocks in some areas, though reforestation has helped recovery**
+
+<br/>
+
+**<span style="color:purple">Agriculture & Development</span>: Expanding agriculture and urban areas are net carbon 'sources', emitting more than they store**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:600px; WIDTH:425px; HEIGHT:450px" SRC="images/sinkssouces.png">
+
+
+## Why does nutrient cycles matter, globally?
 <hr>
 <br/>
 <br/>
@@ -230,18 +362,3 @@ output:
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:550px; HEIGHT:400px" SRC="images/biomes.png">
 
-## Biogeochemical provinces in oceans shift...
-<hr>
-<span style="color:red">**Biogeochemical provinces are dynamic entities that change their spatial extent and position with climate and are expected to be perturbated in the near future by global change**</span>
-
-<IMG STYLE="position:absolute; TOP:210px; LEFT:150px; WIDTH:800px; HEIGHT:450px" SRC="images/oceanprovince.jpg">
-
-## Are foundations of biomes changing?
-<hr>
-
-<IMG STYLE="position:absolute; TOP:160px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/surface.jpg">
-
-## Does shifts in large scale systems impact humans?
-<hr>
-
-<IMG STYLE="position:absolute; TOP:160px; LEFT:225px; WIDTH:650px; HEIGHT:500px" SRC="images/soils.jpg">
