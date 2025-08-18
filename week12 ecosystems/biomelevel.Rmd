@@ -338,7 +338,6 @@ output:
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:600px; WIDTH:425px; HEIGHT:450px" SRC="images/sinkssouces.png">
 
-
 ## Why does nutrient cycles matter, globally?
 <hr>
 <br/>
@@ -358,7 +357,6 @@ output:
 **Ecosystems are the interactions with the biotic and abiotic within those regions**
 
 </div>
-
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:550px; HEIGHT:400px" SRC="images/biomes.png">
 
