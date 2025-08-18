@@ -90,6 +90,18 @@ output:
 ## Feedbacks: when a process/system is modified by its own effects
 <hr>
 <br/>
+
+**<span style="color:red">Positive feedback loops</span>: <span style="color:darkorange">Abiotic</span> and biotic feedbacks are possible**
+
+<br/>
+
+**Ecoystem functioning can then be hijacked by positive feedbacks from global change factors**
+
+<IMG STYLE="position:absolute; TOP:380px; LEFT:0px; WIDTH:1100px; HEIGHT:200px" SRC="images/fireeffect.png"> 
+
+## Feedbacks: when a process/system is modified by its own effects
+<hr>
+<br/>
 <br/>
 <br/>
 <br/>
@@ -111,8 +123,7 @@ output:
 <hr>
 <br/>
 <br/>
-<br/>
-<br/>
+
 
 <div style="float: left; width: 49%;">
 
@@ -122,6 +133,10 @@ output:
 <br/>
 
 **Common and lead to amplification of climate change and biodiversity loss**
+
+<br/>
+
+**Southern Appalachia (NC) has seen a dramatic reduction of peat bogs from 5000 to 500 acres. It takes 1000s of year to make a peat bog, so that carbon in no longer kept out of the atmosphere as a greenhouse gas.**
 
 </div>
 
@@ -137,26 +152,15 @@ output:
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
 
 **Deforestation releases carbon sequestered in trees contributing to global warming. In turn…**
 
+<br/>
+
+**Even if Appalachian deforestation is smaller in magnitude (compared to rain forest) the carbon that enters the atmosphere contributes to global effects**
 </div>
 
 <IMG STYLE="position:absolute; TOP:240px; LEFT:50px; WIDTH:500px; HEIGHT:350px" SRC="images/remove.jpg"> 
-
-## Feedbacks: when a process/system is modified by its own effects
-<hr>
-<br/>
-
-**<span style="color:red">Positive feedback loops</span>: <span style="color:darkorange">Abiotic</span> and biotic feedbacks from deforestation**
-
-<br/>
-
-**Ecoystem functioning can then be hijacked by positive feedbacks from global change factors**
-
-<IMG STYLE="position:absolute; TOP:380px; LEFT:0px; WIDTH:1100px; HEIGHT:200px" SRC="images/fireeffect.png"> 
 
 ## Feedbacks: when a process/system is modified by its own effects
 <hr>
@@ -207,28 +211,72 @@ output:
 **<span style="color:red">Positive feedbacks and cascading effects can lead to tipping points and ecosystem collapse</span>**
 
 <br/>
+
 **Which can be reversible, partially reversible, or irreversible**
 
-<IMG STYLE="position:absolute; TOP:260px; LEFT:250px; WIDTH:600px; HEIGHT:440px" SRC="images/tipping.png">
+<br/>
+
+<div style="float: right; width: 46%;">
+
+<br/>
+
+**In forest ecosystems, this includes sudden die-offs from pests or fire regimes shifting beyond recovery thresholds**
+
+<br/>
+
+**In aquatic systems, thresholds may involve rapid dominance of algae or invasive species that crash biodiversity**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:280px; LEFT:0px; WIDTH:550px; HEIGHT:375px" SRC="images/tipping.png">
 
 ## Threshold effects
 <hr>
+<br/>
 
-**<span style="color:red">Threshold effects can occur at many levels from…</span>**
+**<span style="color:red">Passing threshold can occur at any level, across individuals, communities, or ecosystems</span>**
 
 <IMG STYLE="position:absolute; TOP:240px; LEFT:100px; WIDTH:900px; HEIGHT:400px" SRC="images/threshold.png">
+
+## Vulnerability to tipping points in mountains rank relatively high
+<hr>
+<br/>
+<br/>
+
+<div style="float: left; width: 49%;">
+
+* **THE GOOD**
+  + Mountain systems contain patchworks of habitats, making whole collapse less likely
+  + Many micro-climates may allow species to find refuge over short distances
+  + Long term persistence of Appalachian mtn species (ice age refugia) suggests resilience
+  + Mountains are cooler with more moisture, slowing feedbacks
+  + Direct human footprint is more clustered
+
+</div>
+
+
+<div style="float: right; width: 49%;">
+
+* **THE BAD**
+  + Species can only migrate upslope until they “run out of mountain”
+  + Endemic species usual have small, isolated populations
+  + Fragmentation of habitats can be high
+  + Stressors are often *synergistic*
+  + Species are often quite specialized
+
+</div>
 
 ## Tipping points are generally unknown, making restoration hard
 <hr>
 
-**<span style="color:red">Restoration always involves addressing the prior threats </span>**
+**<span style="color:red">Consequently, restoration always involves addressing the prior threats </span>**
 
 <IMG STYLE="position:absolute; TOP:240px; LEFT:200px; WIDTH:700px; HEIGHT:400px" SRC="images/cod.png">
 
 ## Resilience and restoration
 <hr>
 
-**<span style="color:blue">Many factors contribute to resilience and potential for restoration </span>(use Taking a Closer Look as a study guide and remember the hammer and nail analogy)**
+**<span style="color:blue">Many factors contribute to resilience and potential for restoration </span>**
 
 
 <IMG STYLE="position:absolute; TOP:240px; LEFT:150px; WIDTH:800px; HEIGHT:400px" SRC="images/resilence.jpg">
@@ -257,7 +305,7 @@ output:
 
 * **<span style="color:darkred">Sensitivity</span>: Degree the system will be impacted by a given stressor**
     + Is the system fragile or robust?
-    + Are there highly specialized species or obligate interactions?
+    + Are there highly specialized species or obligate mutualisms?
 
 <br/>
 
@@ -334,6 +382,11 @@ output:
 <br/>
 
 **Resulting from deep  symbiosis + co-evolution**
+
+<br/>
+
+**The current Appalachian narrative reflects all of this, biologically and culturally**
+
 </div>
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:625px; WIDTH:400px; HEIGHT:450px" SRC="images/lungs.jpg">
@@ -343,25 +396,25 @@ output:
 
 <!-- <IMG STYLE="position:absolute; TOP:160px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/nest2.jpg"> -->
 
-## Open disccussion: Is there a solution for our disconnectedness?
-<hr>
-<br/>
+<!-- ## Open disccussion: Is there a solution for our disconnectedness? -->
+<!-- <hr> -->
+<!-- <br/> -->
 
-<div style="float: left; width: 60%;">
+<!-- <div style="float: left; width: 60%;"> -->
 
-**What would an alternate model be for <span style="color:darkred">resilience</span> and <span style="color:darkred">restoration</span>?**
+<!-- **What would an alternate model be for <span style="color:darkred">resilience</span> and <span style="color:darkred">restoration</span>?** -->
 
-<br/>
+<!-- <br/> -->
 
-**How could we create a new system (on both visionary and practical levels) that prioritizes the values and approaches that we will need to create a more life-sustaining society?**
+<!-- **How could we create a new system (on both visionary and practical levels) that prioritizes the values and approaches that we will need to create a more life-sustaining society?** -->
 
-<br/>
+<!-- <br/> -->
 
-**How could models like these inform our work in other contexts?**
+<!-- **How could models like these inform our work in other contexts?** -->
 
-<br/>
+<!-- <br/> -->
 
-**Find an article or come up with a solution, post to Brightspace**
-</div>
+<!-- **Find an article or come up with a solution, post to Brightspace** -->
+<!-- </div> -->
 
-<IMG STYLE="position:absolute; TOP:220px; LEFT:650px; WIDTH:350px; HEIGHT:350px" SRC="images/world.jpg">
+<!-- <IMG STYLE="position:absolute; TOP:220px; LEFT:650px; WIDTH:350px; HEIGHT:350px" SRC="images/world.jpg"> -->
