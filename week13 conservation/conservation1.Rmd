@@ -85,17 +85,23 @@ output:
 
 ## Appalachian conservation case studies
 <hr>
+<br/>
 
-https://tacf.org/
+<div style="float: left; width: 60%;">
 
+**The American Chestnut Foundation (https://tacf.org/) has several key strategies for chestnut conservation...**
 
-To develop American chestnut trees with sufficient resistance to two deadly diseases so they may be restored to their native range.
+<br/>
 
-To characterize, preserve, and utilize the genetic diversity of existing American chestnut trees for research and to ensure that the developed disease resistance is incorporated into environmentally-adaptable, diverse populations.
+**1. To develop American chestnut trees with *sufficient resistance* to two deadly diseases so they may be restored to their native range.**
 
-To promote forest plantings of genetically diverse and disease-resistant American chestnuts capable of sustained population growth and expansion across the broad and ever-changing landscape of our Eastern hardwood forests.
+**2. To characterize, *preserve, and utilize the genetic diversity* of existing American chestnut trees for research and to ensure that the developed disease resistance is incorporated into environmentally-adaptable, diverse populations.**
 
-<IMG STYLE="position:absolute; TOP:340px; LEFT:790px; WIDTH:300px; HEIGHT:350px" SRC="images/acf.png">
+**3. To promote forest plantings of genetically diverse and disease-resistant American chestnuts capable of sustained population growth and expansion *across the broad and ever-changing landscape* of our Eastern hardwood forests.**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:700px; WIDTH:350px; HEIGHT:500px" SRC="images/chestnut.jpg">
 
 
 ## Defining priorities for conservation (hard choices ahead)

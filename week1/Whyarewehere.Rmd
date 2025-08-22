@@ -55,6 +55,25 @@ output:
 <hr>
 <br/>
 <font size="5">*Because...the very limiting stories we have told*</font>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+<span style="color:red">**Terrestrial vertebrate (animal with backbones) species exists for typically 1-3 million years, according to the fossil record. *Homo sapeins* have existed for ~300,ooo years**</span>
 
 <IMG STYLE="position:absolute; TOP:250px; LEFT:20px; WIDTH:500px; HEIGHT:250px" SRC="images/screwedup.png">
 
