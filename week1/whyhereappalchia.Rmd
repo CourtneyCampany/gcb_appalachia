@@ -258,6 +258,10 @@ output:
     + In 2023, nearly 41,000 people left West Virginia
     + What happens if we don’t act?
 
+<br/>
+
+- **West Virginia's overall population growth is negative, continuing a long-term trend of population decline**
+
 </div>
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:75px; WIDTH:400px; HEIGHT:500px" SRC="images/popgrowth.jpeg">
@@ -278,7 +282,7 @@ output:
 <IMG STYLE="position:absolute; TOP:360px; LEFT:250px; WIDTH:600px; HEIGHT:300px" SRC="images/firefly.jpg">
 
 
-##  Why are we here? Telling a new hero'sstory
+##  Why are we here? Telling a new hero's story
 <hr>
 <br/>
 
@@ -393,26 +397,6 @@ output:
 
 <IMG STYLE="position:absolute; TOP:350px; LEFT:300px; WIDTH:600px; HEIGHT:300px" SRC="images/youmtns.jpg">
 
-
-## Lab Today: Build your Appalachian caricature
-<hr>
-<br/>
-<br/>
-<br/>
-<br/>
-
-- **Why are you here—in this class, on this campus, in this region?**
-
-<br/>
-
-- **What do you hope to give and receive during your time in Appalachia?**
-
-<br/>
-
-- **Try to use AI (let me help) to build a caricature of your Appalachian self**
-
-<IMG STYLE="position:absolute; TOP:180px; LEFT:775px; WIDTH:275px; HEIGHT:500px" SRC="images/ai_me.png">
-
 ## Friday Discussion Assignment (posted on Brightspace)
 <hr>
 <br/>
@@ -423,12 +407,7 @@ output:
 
 <br/>
 
-- **Check your group assignment (by last name) for Friday's group discussion**
+- **Submit your group's assignment on Brightspace for Friday's group discussion**
     + Submit short answers to the questions (min 1/2 page, max 1 page)
-    + Submit a link/pdf to at least one article that relates to your group questions
     
-<br/>
-
-* **Work on this while you complete your caricature**
-    + be ready to present both on Friday
 
