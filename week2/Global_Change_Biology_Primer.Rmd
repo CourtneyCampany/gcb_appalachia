@@ -14,7 +14,7 @@ output:
 
 <div style="float: right; width: 50%;">
 
-- **1970s: "Inadvertent Climate Modification" (NAS, 1971)**
+- **1970s: "Inadvertent Climate Modification"**
 
 <br/>
 
@@ -37,7 +37,7 @@ output:
 <br/>
 <br/>
 
-<div style="float: right; width: 60%;">
+<div style="float: right; width: 58%;">
 
 - **Study of how global environmental changes affect biological systems**
 
@@ -60,7 +60,7 @@ output:
 
 <div style="float: left; width: 50%;">
 
-- **Current period where human activities are the dominant force shaping the Earth's geology and ecosystems**
+- **Period where human activities are the dominant force shaping the Earth's geology and ecosystems**
      + appears in scientific and social discourse
      
 <br/>
@@ -82,6 +82,8 @@ output:
 <hr>
 <br/>
 
+<div style="float: left; width: 45%;">
+
 - **Climate change**
 
 <br/>
@@ -100,7 +102,9 @@ output:
 
 - **Introduction of species outside their native ranges**
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:480px; WIDTH:550px; HEIGHT:450px" SRC="images/connections.png">
+ </div>
+ 
+<IMG STYLE="position:absolute; TOP:200px; LEFT:495px; WIDTH:550px; HEIGHT:450px" SRC="images/connections.png">
 
 ## Key drivers: Climate Change – Causes
 <hr>
@@ -130,18 +134,19 @@ output:
  
 <IMG STYLE="position:absolute; TOP:430px; LEFT:100px; WIDTH:900px; HEIGHT:300px" SRC="images/atmosphere.png">
 
-## Earth's Temperature is a Balancing Act
+## Earth's temperature is an energy balancing act
 <hr>
+**Determined by the balance between incoming solar radiation, the surface, and the atmosphere**
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:1000px; HEIGHT:450px" SRC="images/radbudget2.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/radbudget2.jpg">
 
 ## The Greenhouse Gas Effect is a natural process
 <hr>
-**GHG's play a critical role in maintaining Earth’s habitable temperature. Without GHG's, Earth would likely plunge into an ice age, as heat would escape back into space.**
+**GHG's play a critical role in maintaining Earth’s habitable temperature. Without GHG's, Earth would likely plunge into an ice age, as too much heat would escape back into space.**
 
 <IMG STYLE="position:absolute; TOP:220px; LEFT:50px; WIDTH:1000px; HEIGHT:450px" SRC="images/gge2.png">
 
-## Human have Modified the Existing Greenhouse Gas Effect
+## Human have modified the existing greenhouse gas effect
 <hr>
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/ggereview.png">
@@ -176,26 +181,26 @@ output:
 ## Land Transformation by Humans is a Global Phenonmenon
 <hr>
 
-- **Agriculture: Conversion of forests, grasslands, and wetlands into croplands and pastures**
+- **<span style="color: blue;">Agriculture</span>: Conversion of forests, grasslands, and wetlands into croplands and pastures**
 
 <br/>
 
-- **Urbanization: Expansion of cities, roads, and infrastructure fragments natural habitats**
+- **<span style="color: blue;">Urbanization</span>: Expansion of cities, roads, and infrastructure fragments natural habitats**
     + Increases impervious surfaces, disrupting water flow, urban heat islands, and pollution
 
 <br/>
 
-- **Deforestation: Logging for timber, agriculture, and fuel**
+- **<span style="color: blue;">Deforestation</span>: Logging for timber, agriculture, and fuel**
     + removes carbon sinks, causes soil erosion, and loss of biodiversity
 
 <br/>
 
-- **Infrastructure Development: Construction of dams, highways, and mining operations**
+- **<span style="color: blue;">Infrastructure Development</span>: Construction of dams, highways, and mining operations**
     + modifies/removes habitats, interrupts animal migration routes and river flows.
 
 <br/>
 
-- **Land Drainage: Conversion of wetlands, estuaries, and mangroves for development**
+- **<span style="color: blue;">Land Drainage</span>: Conversion of wetlands, estuaries, and mangroves for development**
     + Loss of ecosystems that buffer storms and filter pollutants.
 
 ## Land Transformation: Habitat Loss
@@ -205,6 +210,8 @@ output:
 
 ## Land Transformation: Biodiversity
 <hr>
+**Biodiversity hotspots intersect with the boundaries of land transformation**
+
 <IMG STYLE="position:absolute; TOP:180px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/biodiversity_usa.jpg">
 
 
@@ -214,10 +221,14 @@ output:
 
 ## Land Transformation: Expansion of Human-Wildland Interface
 <hr>
-<IMG STYLE="position:absolute; TOP:180px; LEFT:100px; WIDTH:900px; HEIGHT:400px" SRC="images/interface.png">
+**Increases the exposure of humans and the environment to each other**
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:900px; HEIGHT:400px" SRC="images/interface.png">
 
 ## Land Transformation: Removal of Historic Fire Regimes
 <hr>
+**Most terrestrial ecosystems are evolved to burn through time...**
+
 <IMG STYLE="position:absolute; TOP:180px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/fire.jpg">
 
 ## Land Transformation: Creation of Urban Heat Islands
@@ -256,18 +267,17 @@ output:
 ## Ocean Acidification from CO~2~ emissions
 <hr>
 
-**Oceans absorb CO~2~. When CO~2~ dissolves in seawater, it forms carbonic acid, releasing hydrogen ions and increases ocean acidity. More acidification makes it harder for organisms to build/maintain shells**
+**Oceans absorb CO~2~. When CO~2~ dissolves in seawater, it an acid (carbonic acid), increasing ocean acidity. More acidification makes it harder for organisms to build/maintain shells**
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:200px; WIDTH:800px; HEIGHT:460px" SRC="images/acid.png">
-
 
 ## Pollution from Humans is Vast
 <hr>
 <br/>
 
 - **Industrial Activities (factories) emit air pollutants**
-    + Chemical waste and heavy metals often contaminate soil and water.
-    + Plastic manufacturing also contributes to microplastic pollution.
+    + Chemical waste and heavy metals often contaminate soil and water
+    + Plastic manufacturing also contributes to microplastic pollution
 
 <br/>
 
@@ -282,7 +292,7 @@ output:
 <br/>
 
 - **Residential and Urban Waste includes household chemicals, plastic, and electronic waste** 
-    + dssege and wastewater discharge pollutes aquatic ecosystems
+    + wastewater discharge pollutes aquatic ecosystems
 
 <br/>
 
@@ -294,7 +304,7 @@ output:
 <br/>
 <br/>
 
-<div style="float: left; width: 49%;">
+<div style="float: left; width: 35%;">
 
 - **Reproductive decline**
 
@@ -312,24 +322,29 @@ output:
 
  </div>
  
- <IMG STYLE="position:absolute; TOP:180px; LEFT:450px; WIDTH:400px; HEIGHT:500px" SRC="images/bioaccum.jpg">
+ <IMG STYLE="position:absolute; TOP:180px; LEFT:340px; WIDTH:400px; HEIGHT:500px" SRC="images/bioaccum.jpg">
  
+ <div style="float: right; width: 28%;">
+ 
+ In a recent field study, microplastics were detected in all tissues—muscle, liver, digestive tract, gonads, and kidney—of 15 edible marine species, including fish, shrimp, crabs, and squid.
+
+</div>
 
 ## Species Introductions – Why?
 <hr>
 
-- **An introduced species is a species that has been brough by human activity to an area where it does not naturally occur**
+- **An introduced species is a species that has been brought by human activity to an area where it does not naturally occur**
 
 <br/>
 
 <div style="float: left; width: 40%;">
-- **If specices becomes harmful to the environment = invasive**
+- **If species becomes harmful to the environment = invasive**
 
 <br/>
 
 - **Intentional: agriculture, pets**
     + many crop species = non-native
-    + species are sometimes introduced to fight an invasice species = biocontrol
+    + species are sometimes introduced to fight an invasive species = biocontrol
     
 <br/>
 
@@ -374,18 +389,18 @@ bleaching and potentially death of the corals**
  
  <IMG STYLE="position:absolute; TOP:180px; LEFT:500px; WIDTH:500px; HEIGHT:500px" SRC="images/coralstress.png">
  
-## Quick Discussion
-<hr>
-<br/>
+<!-- ## Quick Discussion -->
+<!-- <hr> -->
+<!-- <br/> -->
 
-**What are the controversies/unknowns/misconceptions/exaggerations related to global change that you know of?**
+<!-- **What are the controversies/unknowns/misconceptions/exaggerations related to global change that you know of?** -->
 
-<br/>
+<!-- <br/> -->
 
-**Do you believe that Appalachia, including its people, are more or less vulnerable to environmental change**
+<!-- **Do you believe that Appalachia, including its people, are more or less vulnerable to environmental change** -->
 
-<br/>
+<!-- <br/> -->
 
-**Can you come up with an analogy, in plain language, that could help someone better grasp a vastly changing environmental landscape?**
+<!-- **Can you come up with an analogy, in plain language, that could help someone better grasp a vastly changing environmental landscape?** -->
 
 
