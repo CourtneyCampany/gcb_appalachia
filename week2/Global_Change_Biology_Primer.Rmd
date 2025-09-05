@@ -318,7 +318,7 @@ output:
 
 <br/>
 
-- **Bioaccumulation**
+- **Bio accumulation**
 
  </div>
  

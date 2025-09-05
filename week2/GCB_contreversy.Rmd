@@ -62,6 +62,7 @@ output:
 * **Shrinking ice sheets and glaciers**
     + Greenland lost an average of 279 billion tons of ice per year between 1993 and 2019, while Antarctica lost about 148 billion tons of ice per year.
     + Glaciers are retreating almost everywhere around the world, including in the Alps, Himalayas, Andes, Rockies, Alaska and Africa
+    + https://ed-hawkins.github.io/climate-visuals/SPIRALS/arctic-ice-volume-2024.gif
 
 <br/>
 
@@ -82,8 +83,7 @@ output:
 ## How warm has is gotten?
 <hr>
 
-https://ed-hawkins.github.io/climate-visuals/SPIRALS/global_temperature_spiral_2024_large.gif
-
+https://ed-hawkins.github.io/climate-visuals/SPIRALS/global_temperature_spiral_latest_large.gif
 
 <IMG STYLE="position:absolute; TOP:220px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/totalwarming.png">
 
@@ -98,7 +98,7 @@ https://ed-hawkins.github.io/climate-visuals/SPIRALS/global_temperature_spiral_2
 
 <br/>
 
-* **Climate is the average pattern of weather for a particular region and time period, using scientific data collected over decades. The terms global warming and climate change refer to a broad temperature shift across the entire earth's surface over the course of years and decades.**
+* **Climate is the average pattern of weather for a particular region and time period, using scientific data collected over decades. The terms global warming and climate change refer to a broad temperature shift across the entire earth's surface over the course of decades.**
 
 <br/>
 
@@ -138,8 +138,9 @@ https://ed-hawkins.github.io/climate-visuals/SPIRALS/global_temperature_spiral_2
 <IMG STYLE="position:absolute; TOP:180px; LEFT:655px; WIDTH:390px; HEIGHT:450px" SRC="images/sink.jpg">
 
 ## 
+**If trees could balance the CO~2~, what would the Mauna Loa graph really look like?**
 
-<IMG STYLE="position:absolute; TOP:0px; LEFT:50px; WIDTH:1000px; HEIGHT:700px" SRC="images/ggereview.png">
+<IMG STYLE="position:absolute; TOP:110px; LEFT:200px; WIDTH:700px; HEIGHT:600px" SRC="images/co2_data_mlo.png">
 
 ## Greenhouse gases (ice cores) correlate to warming trends
 <hr>
@@ -161,8 +162,9 @@ https://ed-hawkins.github.io/climate-visuals/SPIRALS/global_temperature_spiral_2
 
 ## Myth 4 = NO: Natural factors cannot explain change alone
 <hr>
+**It took 12 years for the world population to grow from 7 to 8 billion (2010-2022)**
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:35px; WIDTH:1000px; HEIGHT:500px" SRC="images/humanpop.png">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:960px; HEIGHT:480px" SRC="images/humanpop.png">
 
 ## Human population trends align with rapid change
 <hr>
@@ -180,7 +182,7 @@ https://ed-hawkins.github.io/climate-visuals/SPIRALS/global_temperature_spiral_2
 <br/>
 
 <div style="float: right; width: 60%;">
-* **One of those rare scientific terms that has entered the public consciousness, which is ironic, given that geologists have not yet fully defined it**
+* **One of those rare scientific terms that has entered the public consciousness, which is ironic, given that geologists have rejected it**
 
 <br/>
 
@@ -191,7 +193,7 @@ https://ed-hawkins.github.io/climate-visuals/SPIRALS/global_temperature_spiral_2
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:10px; WIDTH:450px; HEIGHT:480px" SRC="images/timesprial.jpg">
+<IMG STYLE="position:absolute; TOP:220px; LEFT:20px; WIDTH:420px; HEIGHT:450px" SRC="images/timesprial.jpg">
 
 ## Myth 5 = NO: Sun's energy output minimally changed
 <hr>
@@ -253,4 +255,4 @@ https://ed-hawkins.github.io/climate-visuals/SPIRALS/global_temperature_spiral_2
     + at the same time, we are not here to avoid the worst news.
 </div>
 
-<IMG STYLE="position:absolute; TOP:225px; LEFT:10px; WIDTH:400px; HEIGHT:350px" SRC="images/doom.jpg">
+<IMG STYLE="position:absolute; TOP:245px; LEFT:10px; WIDTH:380px; HEIGHT:340px" SRC="images/doom.jpg">
