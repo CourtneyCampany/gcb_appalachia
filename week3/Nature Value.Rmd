@@ -144,7 +144,7 @@ output:
 <div style="float: left; width: 55%;">
 
 - **Environmental sentinels **
-    + skin used to drink and breath makes then susceptible to chemicals
+    + skin used to breath makes then susceptible to chemicals
     
 <br/>
 
@@ -162,7 +162,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:220px; LEFT:600px; WIDTH:510px; HEIGHT:425px" SRC="images/atrazine.png">
     
-## The Value of Biological Diversity: frogs case study
+## The value of biological diversity: frogs case study
 <hr>
 <br/>
 
@@ -177,14 +177,14 @@ output:
     
 <br/>
 
-- **In other cultures frogs and toads have been despised and regarded as evils**
+- **In other cultures, frogs and toads have been despised and regarded as evils**
     + https://museumsvictoria.com.au/childrens-week/look-and-listen/tiddalik-the-frog/
 
 </div>
 
 <IMG STYLE="position:absolute; TOP:220px; LEFT:615px; WIDTH:450px; HEIGHT:425px" SRC="images/coolfrog.png">
 
-## Value of Nature = assigning importance
+## Value of nature = Assigning importance
 <hr>
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:200px; WIDTH:700px; HEIGHT:500px" SRC="images/valueadded.png">
@@ -195,18 +195,18 @@ output:
 <br/>
 <br/>
 
-- *Ecosystem services* = varied benefits to humans provided by the natural environment from healthy ecosystems
+* **Ecosystem services = varied benefits to humans provided by the natural environment from healthy ecosystems**
 
 <br/>
 
-- Healthy ecosystems provide benefits for all life on earth, but valuing them for what the provide humans is a key management and policy tool (*especially for global change*)
+* **Healthy ecosystems provide benefits for all life on earth, but valuing them for what the provide humans is a key management and policy tool (*especially for global change*)**
     + which ones are the most vulnerable?
     + which ones are the most essential to humans?
     + globally? regionally? locally? culturally?
     
 <br/>
 
-**<span style="color:purple">What’s your best guess as to the annual value in US dollars per year of global ecosystem services?</span>**
+* **<span style="color:purple">What’s your best guess as to the annual value in US dollars per year of global ecosystem services?</span>**
 
 ## The value of biological diversity
 <hr>
@@ -251,8 +251,8 @@ output:
 
 - **Total monetary or market value of all the finished goods and services produced (GDP) in 2020 was $85 trillion.**
     - What does this comparison mean to you?
-    - Look up the GDP of major countries
-    - What is the worth of the largest companies?
+    - In 2025, the top 15 countries in GDP would add to $85 trillion
+    - In 2025, that is the worth of the top ~730 most valuable companies
     
 </div>
 
@@ -268,7 +268,7 @@ output:
 
 <br/>
 
-- **What is the connection between biodiversity and biome value**
+- **What is the connection between biodiversity and biome value?**
 
 <br/>
 
@@ -290,7 +290,7 @@ output:
 
 <br/>
 
-- **Without the environment there would be no economy.**
+- **Without the environment there would be no economy**
 
 <br/>
 
@@ -343,4 +343,23 @@ output:
     
 <IMG STYLE="position:absolute; TOP:480px; LEFT:200px; WIDTH:700px; HEIGHT:200px" SRC="images/pressrelease.png">
     
+## Ecosystem services sometimes have the governments attention...
+<hr>
+
+<div style="float: left; width: 55%;">
+
+* **Now the: MABA**
+    + https://www.whitehouse.gov/presidential-actions/2025/07/establishing-the-presidents-make-america-beautiful-again-commission/
+
+<br/>
+
+* **Two July 3, 2025 executive orders. One creates the “Make America Beautiful Again” Commission (chaired by Interior) to advise on conservation; the other raises national-park fees for foreign visitors to fund improvements.**
+    + expand access to public lands and waters (hunting, fishing, recreation)
+
+<br/>
+
+* **Some argue this is 'greenwashing': marketed as environmentally friendly without real, material environmental benefits**
+</div>
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:625px; WIDTH:400px; HEIGHT:400px" SRC="images/maba.jpg">
 
