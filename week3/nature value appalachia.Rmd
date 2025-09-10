@@ -38,8 +38,7 @@ output:
 
 <br/>
 
-- **Economically tied to natural resources—forests, streams, wildlife**
-    + are coal/timber industries a 'resource curse'?
+- **Economically tied to natural resources—forests, streams, wildlife, and geology**
 
 <IMG STYLE="position:absolute; TOP:425px; LEFT:200px; WIDTH:700px; HEIGHT:250px" SRC="images/sala.jpg">
 
@@ -50,7 +49,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:145px; LEFT:100px; WIDTH:850px; HEIGHT:60px" SRC="images/takealook.png">
 
-- **Scientific Value**: Factors that lead to gain or loss of species
+- **Scientific Value**: Factors that lead to gain or loss of species that inform management/use
 
 <br/>
 
@@ -59,7 +58,7 @@ output:
 <br/>
 
 - **Economic Value**: Biodiversity has infinite commercial value
-
+ 
 <br/>
 
 - **Cultural Value**: Natural world anchors human culture
@@ -70,14 +69,12 @@ output:
 
 <br/>
 
-- **Intrinsic Value**: Value of life
+- **Intrinsic Value**: Value of life matters
 
 
 ## Scientific Value in Appalachia
 <hr>
 <br/>
-
-<div style="float: left; width: 50%;">
 
 - **One of the most biodiverse temperate regions on Earth**
     + ~50% of salamander species are endemic!
@@ -85,8 +82,10 @@ output:
     
 <br/>
 
+<div style="float: left; width: 50%;">
+
 - **Important research site for studying climate impacts and species resilience**
-    + Appalachian mountains are a *climate refuges*
+    + Appalachian mountains are a *climate refuge*
     
 <br/>
 
@@ -95,7 +94,7 @@ output:
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:230px; LEFT:550px; WIDTH:520px; HEIGHT:390px" SRC="images/hotspots.jpg">
+<IMG STYLE="position:absolute; TOP:300px; LEFT:550px; WIDTH:480px; HEIGHT:340px" SRC="images/hotspots.jpg">
 
 ## NEON and other monitoring sites in funding peril???
 <hr>
@@ -140,7 +139,7 @@ output:
     + climate change
     + housing developement
 
-<IMG STYLE="position:absolute; TOP:240px; LEFT:600px; WIDTH:400px; HEIGHT:400px" SRC="images/ginsengmap.png">
+<IMG STYLE="position:absolute; TOP:240px; LEFT:500px; WIDTH:400px; HEIGHT:400px" SRC="images/ginsengmap.png">
 
 ## Air quality laws vs Deforestation
 <hr>
@@ -176,7 +175,7 @@ output:
 <br/>
 <br/>
 
-<div style="float: left; width: 50%;">
+<div style="float: left; width: 55%;">
 
 - **Cultural and economic reliance on hunting, fishing, and foraging**
 
@@ -186,11 +185,11 @@ output:
 
 <br/>
 
-- **Wildlife declines impact local food security and livelihoods**
+- **Wildlife declines impact hyper local food security and livelihoods**
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:170px; LEFT:500px; WIDTH:575px; HEIGHT:500px" SRC="images/trout2.jpg">
+<IMG STYLE="position:absolute; TOP:170px; LEFT:600px; WIDTH:575px; HEIGHT:500px" SRC="images/trout2.jpg">
 
 ## Appalachia Economic Value – Foraging & Ginseng
 <hr>
@@ -222,7 +221,7 @@ output:
 ## Ethical Value of Appalachia
 <hr>
 
-- **Stewardship rooted in faith and folklore (e.g., “God’s creation” ethics)**
+- **Stewardship rooted in faith and folklore (e.g., “Almost Heaven” ethics)**
 
 <br/>
 
@@ -259,12 +258,14 @@ output:
 <hr>
 <br/>
 
-<div style="float: left; width: 55%;">
+
 
 - **Appalachians: Salamander capital of the world**
     +  cool high-elevation environments represent ideal habitats
 
 <br/>
+
+<div style="float: left; width: 50%;">
 
 - **Keystone species in forest ecosystems**
     + both predator and prey
@@ -277,7 +278,7 @@ output:
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:240px; LEFT:600px; WIDTH:460px; HEIGHT:400px" SRC="images/sala2.jpg">
+<IMG STYLE="position:absolute; TOP:260px; LEFT:600px; WIDTH:460px; HEIGHT:400px" SRC="images/sala2.jpg">
 
 ## Appalachian salamanders - Scientific Value
 <hr>
@@ -294,7 +295,7 @@ output:
 
 <br/>
 
-- **Model Organisms: Some species, like the Eastern red-backed salamander, are model organisms for studying territoriality, behavior, and microhabitat use**
+- **Model Organisms: Some species, like the Eastern red-backed salamander, are used to study territoriality, behavior, and microhabitat use**
 
 </div>
 
@@ -304,8 +305,6 @@ output:
 <hr>
 <br/>
 
-
-
 - **Medical Research: Salamanders possess regenerative abilities (e.g., limb regeneration), which are being studied for advances in human medicine and tissue regeneration**
     + *bioprospecting*
 
@@ -314,7 +313,7 @@ output:
 <div style="float: left; width: 58%;">
 
 - **Environmental Health Indicators: Salamanders are bioindicators of ecosystem health because of their sensitivity to pollution, pH changes, and toxins**
-    + Monitoring them helps predict threats to water quality that affect human populations.
+    + Monitoring them helps predict threats to water quality that affect humans
     + e.g., Atrazine found in water sources—impacts amphibians and possibly humans
 </div>
 
@@ -339,11 +338,12 @@ output:
 <hr>
 <br/>
 
-<div style="float: left; width: 55%;">
-
 - **Regional Identity: In the Appalachians, salamanders are featured in school/team mascots, art, and regional folklore**
 
 <br/>
+
+
+<div style="float: left; width: 52%;">
 
 - **Storytelling and Education: Salamanders are used in environmental education as symbols of hidden biodiversity and conservation success**
 
@@ -353,7 +353,11 @@ output:
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:230px; LEFT:600px; WIDTH:450px; HEIGHT:400px" SRC="images/hellbender2.jpg">
+<IMG STYLE="position:absolute; TOP:250px; LEFT:610px; WIDTH:450px; HEIGHT:400px" SRC="images/hellbender2.jpg">
+
+## 
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:50px; WIDTH:1000px; HEIGHT:600px" SRC="images/snototters.png">
 
 ## Appalachian salamanders - Ethical and Intrinsic Value
 <hr>
