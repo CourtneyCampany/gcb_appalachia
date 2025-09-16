@@ -37,9 +37,9 @@ output:
 
 <br/>
 
-- **<span style="color:darkred">Perspective matters: Understanding the history of biodiversity and critical landmarks in life on Earth help us analyze current changes on Earth</span>**
+- **<span style="color:darkred">Perspective matters: Understanding the history of biodiversity and critical landmarks in life on Earth help us analyze the rate of current changes on Earth</span>**
 
-## The Earth is old...and it took a while for life to form.
+## The Earth is old...and it took a while for life to form
 <hr>
 <br/>
 <br/>
@@ -59,7 +59,8 @@ output:
 <br/>
 
 - **Lots of inorganic molecules but few organic molecules**
-    + organic = carbon based compounds (basic building blocks of life)
+    + organic = carbon based compounds
+        + basic building blocks of life
     
 </div>
 
@@ -73,7 +74,7 @@ output:
 <div style="float: left; width: 60%;">
 
 - **Background: In the 1950s, scientists were curious about how life began on Earth**
-    +  Miller and Urey (University of Chicago) wanted to test if life's building blocks could form naturally.
+    +  Miller and Urey (University of Chicago) wanted to test if life's building blocks could form naturally
 
 <br/>
 
@@ -82,7 +83,7 @@ output:
 
 <br/>
 
-- **Goal: To see if simple chemicals could turn into more complex molecules needed for life**
+- **Goal: To see if simple chemicals could turn into more complex molecules needed for cellular life**
 
 </div>
 
@@ -97,7 +98,7 @@ output:
 <br/>
 
 - **Why It Matters: Showed that organic molecules (like those in living things) can form naturally from simple chemicals**
-    + the first step of creating life from non-living matter IS possible
+    + the first step of creating life from non-living matter **IS** possible
 
 <br/>
 
@@ -110,7 +111,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:370px; LEFT:550px; WIDTH:500px; HEIGHT:300px" SRC="images/volcano_amino.jpg">
 
-## Origin of heredity was key for contempoary life
+## Origin of heredity was key for life on Earth 
 <hr>
 
 * **RNA World Hypothesis: Suggests RNA was the first hereditary molecule, capable of both storing information and catalyzing reactions**
@@ -155,10 +156,10 @@ output:
 <br/>
 <br/>
 
-- **LUCA: the Last Universal Common Ancestor — the most recent common ancestor of all current life on Earth.**
-    + formed shortly after stable oceans form, likely near a deep sea vent
+- **LUCA: the Last Universal Common Ancestor — the common ancestor of all current life on Earth**
+    + created shortly after stable oceans form, likely near a deep sea vent
     + ~3.5-3.8 bya
-    + first organism was a prokaryote - single-celled with no organelles
+    + first organism was a prokaryote - single-celled with no organelles (unique cell factories)
     
 <!-- <IMG STYLE="position:absolute; TOP:170px; LEFT:650px; WIDTH:400px; HEIGHT:470px" SRC="images/endo.png"> -->
 
@@ -169,8 +170,9 @@ output:
 <IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/singlecell.png">
 
 ## Early animal life and the Cambrain Explosion
+<hr>
 
-<IMG STYLE="position:absolute; TOP:50px; LEFT:150px; WIDTH:800px; HEIGHT:600px" SRC="images/cambrian.jpg">
+<IMG STYLE="position:absolute; TOP:160px; LEFT:150px; WIDTH:800px; HEIGHT:520px" SRC="images/cambrian.jpg">
 
 ## Why did the Cambrian period explode? (*still marine life*)
 <hr>
@@ -179,7 +181,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:525px; WIDTH:500px; HEIGHT:400px" SRC="images/cambrian4.jpg">
 
-## All major phyla exist by Cambrian (530 million years ago)
+## All major aquatic groups of living things exist by Cambrian
 <hr>
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:150px; WIDTH:775px; HEIGHT:500px" SRC="images/cambrian2.jpg">
@@ -213,8 +215,9 @@ output:
 
 ## The role of evolution in the tree of life...
 <hr>
+**KEY CONCEPT from Darwin: "The struggle for existence"**
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:50px; WIDTH:1000px; HEIGHT:400px" SRC="images/natselect.png">
+<IMG STYLE="position:absolute; TOP:210px; LEFT:50px; WIDTH:1000px; HEIGHT:450px" SRC="images/natselect.png">
 
 ## The diversity of life on earth is shaped by creation and removal
 <hr>
@@ -242,7 +245,7 @@ output:
 
 - **During ice ages and extinction events, they sheltered species that would later repopulate the continent.**
     + the last ice age, which covered much of North America, pushed many species southward
-    + Even today, they host relict species like the spruce-fir forests and lungless salamanders—living from that period
+    + Even today, they host relic species like the spruce-fir forests and lungless salamanders—living from that period
 
 <br/>
 
@@ -293,7 +296,8 @@ output:
 
 ## In a period of rapid change,  your identity matters
 <hr>
+**The Appalachian mountains remind us that while humans may be new, the story of life is old. And it’s still unfolding—right beneath our feet.**
 
 **<span style="color:darkred">Identity as...</span>**
 
-<IMG STYLE="position:absolute; TOP:220px; LEFT:300px; WIDTH:500px; HEIGHT:400px" SRC="images/circle6.png">
+<IMG STYLE="position:absolute; TOP:250px; LEFT:300px; WIDTH:500px; HEIGHT:400px" SRC="images/circle6.png">
