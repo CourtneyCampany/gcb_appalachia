@@ -85,7 +85,11 @@ output:
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:0px; WIDTH:1100px; HEIGHT:500px" SRC="images/dna.png">
 
-## Change is the only constant
+## 
+
+<IMG STYLE="position:absolute; TOP:0px; LEFT:250px; WIDTH:600px; HEIGHT:700px" SRC="images/banana.jpg">
+
+## Change is the only constant for biological diversity
 <hr>
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:0px; WIDTH:1100px; HEIGHT:500px" SRC="images/dna2.png">
@@ -177,7 +181,6 @@ output:
 
 <IMG STYLE="position:absolute; TOP:240px; LEFT:600px; WIDTH:550px; HEIGHT:350px" SRC="images/desert.jpg">
 
-
 ## Natural selection in the wild
 <hr>
 <br/>
@@ -207,24 +210,28 @@ output:
 <IMG STYLE="position:absolute; TOP:240px; LEFT:50px; WIDTH:1000px; HEIGHT:400px" SRC="images/gametes.png">
 
 
-## Genetic drift
+## Genetic drift through basic reproduction
 <hr>
-**Random sampling gametes can change the genetic composition of a population over time**
+**Just random sampling gametes can change the genetic composition of a population over time**
 
 <IMG STYLE="position:absolute; TOP:220px; LEFT:250px; WIDTH:600px; HEIGHT:400px" SRC="images/gametes2.png">
 
 ## Genetic drift can have rapid effects during a “bottleneck"
 <hr>
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/bottle.png">
+<IMG STYLE="position:absolute; TOP:180px; LEFT:50px; WIDTH:1000px; HEIGHT:500px" SRC="images/bottle2.png">
 
 ## Genetic drift in the wild
 <hr>
 
-<IMG STYLE="position:absolute; TOP:160px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/bison.png">
+<IMG STYLE="position:absolute; TOP:180px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/bison.png">
 
+## Founder's Effect
+<hr>
 
-## Selection and Drift
+<IMG STYLE="position:absolute; TOP:180px; LEFT:0px; WIDTH:1100px; HEIGHT:500px" SRC="images/founder.png">
+
+## Natural Selection and Drift
 <hr>
 <br/>
 <br/>
@@ -245,7 +252,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:250px; LEFT:580px; WIDTH:340px; HEIGHT:200px" SRC="images/versus.jpg">
 
-## Selection and Speciation
+## Evolution and Speciation
 <hr>
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/lizards.png">
