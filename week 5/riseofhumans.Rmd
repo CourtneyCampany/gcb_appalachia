@@ -11,7 +11,7 @@ output:
 <hr>
 <br/>
 
-**The meaning of the term "humanism" has changed according to the successive intellectual movements that have identified with it. Generally, the term refers to a focus on human well-being and advocates for human freedom, autonomy, and progress. It views humanity as responsible for the promotion and development of individuals, espouses the equal and inherent dignity of all human beings, and <span style="color:blue">emphasizes a concern for humans in relation to the world.</span>**
+**The meaning of the term "humanism" has changed across successive intellectual movements that have identified with it. Generally, the term refers to a focus on human well-being and advocates for human freedom, autonomy, and progress. It views humanity as responsible for the promotion and development of individuals, espouses the equal and inherent dignity of all human beings, and <span style="color:blue">emphasizes a concern for humans in relation to the world.</span>**
 
 <br/>
 
@@ -27,19 +27,19 @@ output:
 
 <br/>
 
-**Does your perspective on the Anthropocene change after reading this chapter?**
+**Does your perspective on the Anthropocene influence your views on 'humanism'?**
 
 ##
 
-**What are (at least three) key reasons this cartoon lacks accuracy and is deeply problematic?**
+**What are a few reasons this cartoon depicting human evolution lacks accuracy and is problematic?**
 
-<IMG STYLE="position:absolute; TOP:120px; LEFT:150px; WIDTH:900px; HEIGHT:500px" SRC="images/humanevolv.png">
+<IMG STYLE="position:absolute; TOP:140px; LEFT:150px; WIDTH:900px; HEIGHT:500px" SRC="images/humanevolv.png">
 
 ## Misconceptions about human evolution
 <hr>
 <br/>
 
-**Humans did not evolve from chimps, we both evolved from a common ancestor**
+**Humans did not evolve from chimps, we both descended from a common ancestor**
 
 <br/>
 
@@ -79,7 +79,7 @@ output:
 <br/>
 <br/>
 
-**<span style="color:red">Is egocentrism at the root of the environmental crisis? </span>**
+**<span style="color:red">Is egocentrism at the root of environmental issues? </span>**
 
 <IMG STYLE="position:absolute; TOP:255px; LEFT:375px; WIDTH:350px; HEIGHT:350px" SRC="images/eco.png">
 
@@ -87,7 +87,7 @@ output:
 <hr>
 
 - **Humans are a part of the tree of life, not above it**
-    + Aristotle and Scala Natura
+    + Aristotle and Scala Natura is wrong
     
   <br/>
  
@@ -105,17 +105,15 @@ output:
 
  <br/>
 
-- **Why does this matter now?**
+- **Why does this matter now, especially in Appalachia?**
     + societies/cultures create false hierarchies based on ladder approach
     
 <IMG STYLE="position:absolute; TOP:160px; LEFT:770px; WIDTH:250px; HEIGHT:500px" SRC="images/eye.jpg">
 
 ## Dangers of false hierarchies
 <hr>
-<br/>
-<br/>
 
-<div style="float: left; width: 65%;">
+<div style="float: left; width: 61%;">
 
 **Manufactured tiers within human species based on the ladder approach to evolution**
 
@@ -131,6 +129,9 @@ output:
 
 **Used to create eugenics programs**
 
+<br/>
+
+**Generate negative, oversimplified and misleading characterizations of Appalachian people: uneducated, resistant to change, isolated, reliant of assistance, etc...**
 </div>
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:700px; WIDTH:300px; HEIGHT:500px" SRC="images/eugenics.jpg">
@@ -171,11 +172,11 @@ output:
 
 - **Our genus (*Homo*) shares a common ancestor with chimps (*Pan*)**
     + early 'humans' and *Pan* diverged 6-8mya
-    + the split did not create our species
+    + the split did not create *our* species
 
 <br/>
 
-- **Our species (*Homo sapien*) evolutionary history is BRIEF**
+- **Homo sapien's evolutionary history is BRIEF**
 </div>
 
 
@@ -218,7 +219,7 @@ output:
 ## *Homo sapiens* are the last 'humans' standing
 <hr>
 
-- **Homo habilis was probably first (most primitive) >2 mya**
+- **Homo habilis was probably first (most primitive) member of our genus (>2 mya)  **
 
 <br/>
 
@@ -341,7 +342,7 @@ output:
  
  <br/>
  
-- **Humans not the only reason**
+- **Humans not the only reason big animals disappear...**
     + related to big climate shifts
 
 </div>

@@ -31,7 +31,7 @@ output:
 
 <br/>
 
-- **It reinforces misleading (racists/ablesit) hierarchies from primitive to advanced humans**
+- **It reinforces misleading hierarchies from primitive to advanced humans**
 
 </div>
 
@@ -62,8 +62,8 @@ output:
 <br/>
 
 - **<span style="color:blue">Example 1: your microbiome</span>**
-    + >10,000 species occupy human body
-    + 80-100 genera
+    + 1,000 - 10,000 species in human body
+    + ~80-100 genera
 
 <br/>
 
@@ -89,19 +89,19 @@ output:
 <br/>
 <br/>
 
-<IMG STYLE="position:absolute; TOP:220px; LEFT:50px; WIDTH:400px; HEIGHT:400px" SRC="images/virus.jpg">
+<IMG STYLE="position:absolute; TOP:220px; LEFT:70px; WIDTH:400px; HEIGHT:400px" SRC="images/virus.jpg">
 
-<div style="float: right; width: 55%;">
+<div style="float: right; width: 52%;">
 
 - **<span style="color:blue">Example 2: (barely) hidden in your DNA</span>**
 
 <br/>
 
-- **~8% of human genome is viral DNA**
+- **~8% of human genome ancient *viral* insertions inherited in our DNA**
 
 <br/>
 
-- **~40% human genome is repetitive DNA which also likely has a viral origin**
+- **~30-40% of the human genome is repetitive DNA which may also have viral origins**
 
 <br/>
 
@@ -123,12 +123,12 @@ output:
 
 <br/>
 
-- **Most humans have 2% Neanderthal DNA**
+- **Most humans have 1-2% Neanderthal DNA**
     + remember - both species co-existed and sometimes mated 
 
 <br/>
 
-- **Neanderthal allele variants range in diverse expression of skin and hair color to immune function and neuropsychiatric disease**
+- **Neanderthal gene variants range in expression from skin and hair color to immune function and neuropsychiatric disease**
     + may have left us prone to allergies!
     + may have caused some to have higher risks from Covid!
     + possible genetic links to depression and addiction
@@ -149,7 +149,7 @@ output:
 
 - **Denisovans left genetic traces in oceanic and Asian regions**
     + genomes of Australian aborigines, New Guineans and Pacific Islanders ~5% Denisovan
-    + East and South Asians up to .5%
+    + East and South Asians up to 0.5%
 
 <br/>
 
@@ -160,7 +160,7 @@ output:
  
  </div>
  
-## Review: We are not 'independent' because we persisted
+## What does it mean to be *Homo sapiens*?
 <hr>
 <br/>
 <br/>
@@ -178,7 +178,7 @@ output:
 
 </div>
 
-## Why did humans win the survival race?
+## Why did *Homo sapiens* win the survival race?
 <hr>
 <div style="float: left; width: 55%;">
 - **Was it key 'human' traits?**
@@ -196,7 +196,7 @@ output:
 
 <br/>
 
-- **Was is related to social aspects**
+- **Was is related to social aspects?**
     + survival of the friendliest
 
 <br/>
@@ -220,7 +220,7 @@ output:
  
 <IMG STYLE="position:absolute; TOP:250px; LEFT:600px; WIDTH:500px; HEIGHT:430px" SRC="images/race.jpg">
 
-## Independent or not, *Homo sapiens" have left our mark...
+## Independent or not, *Homo sapiens* have left our mark...
 <hr>
 <br/>
 
@@ -228,7 +228,7 @@ output:
 
 <br/>
 
-<div style="float: left; width: 55%;">
+<div style="float: left; width: 50%;">
 
 - **What are the key milestones in human impact on Earth**
     + how far back do you think we need to go?
@@ -236,13 +236,13 @@ output:
 <br/>
 
 - **When did humans start impacting Appalachian ecosystems?**    
-    + early indigenous agriculture, coal mining era, ecological restoration efforts
+    + early indigenous agriculture, coal mining era, ecological restoration efforts...
 
 </div>
 
 <IMG STYLE="position:absolute; TOP:230px; LEFT:600px; WIDTH:400px; HEIGHT:450px" SRC="images/impact.jpg">
 
-## Human impacts: The beginning (review)
+## *Homo sapiens* impacts: The beginning (review)
 <hr>
 <br/>
 
@@ -273,11 +273,11 @@ output:
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:150px; WIDTH:800px; HEIGHT:500px" SRC="images/migrate.png">
 
-## Human migration and megafauna impact
+## *Homo sapiens* migration and megafauna impact
 <hr>
 <br/>
 
-- **Human expansion linked to extinction of large mammals**
+- ***Homo sapiens* expansion linked to extinction of large mammals**
     + During migration, >150 megafauna went extinct
     + sheep to mammoth sized
     + America's and Australia most notable
@@ -303,7 +303,7 @@ output:
 <IMG STYLE="position:absolute; TOP:50px; LEFT:50px; WIDTH:1000px; HEIGHT:600px" SRC="images/mega.jpg">
 
 
-## The agricultural revolution was a game changer..
+## The agricultural revolution was a game changer...
 <hr>
 <br/>
 
@@ -374,7 +374,7 @@ output:
 <br/>
 
 - **Spread to Europe and North America in the 1800s, transforming economies and landscapes**
-    + shift to fossil fules (coal)
+    + shift to fossil fuels (coal)
     + Led to urbanization, exponential growth in energy use, and mass production
 
 <br/>
@@ -416,7 +416,7 @@ output:
 <br/>
 
 - **Soil degradation from deforestation, erosion, and chemical farming**
-    + reduce fertility and biodiversity.
+    + reduces soil health and biodiversity.
 
 <br/>
 
