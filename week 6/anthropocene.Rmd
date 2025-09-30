@@ -1,5 +1,5 @@
 ---
-title: "The Anthropocene and the Great Acceleration"
+title: "The Holocee to the Anthropocene"
 output: 
   ioslides_presentation:
     css: custom.css
@@ -81,15 +81,15 @@ output:
 
 ## Appalachian Mountains During the Pleistocene 
 <hr>
-- **Laurentide Ice Sheet covered much of North America but did not extend into the southern Appalachians**
+- **Laurentide Ice Sheet covered the Ohio river valley but did not extend into the southern Appalachians**
 
 <br/>
 
 <div style="float: right; width: 55%;">
 
 - **Mountains were a major climatic refuge for species displaced by glaciers**
-    + preserved ancient lineages of *temperature* plants and animals
-    + endemic specie of Appalachia survived this period
+    + preserved ancient lineages of *temperate* plants and animals
+    + endemic species of Appalachia survived this period
 
 <br/>
 
@@ -115,7 +115,7 @@ output:
 
 - **Begins after last glacial period, including glacial retreat**
     + Earth experienced a warming trend
-    + Perhaps why biodiversity is comparably high
+    + perhaps why biodiversity is comparably high
     
 <br/>
 
@@ -154,7 +154,7 @@ output:
 
 <br/>
 
-- **Development of agricultural crucial human landmark**
+- **Development of agriculture = key human landmark**
     + plant cultivation and animal domestication
     + irrigation in areas with insufficient rainfall
     + spread from several centers of origin
@@ -173,15 +173,17 @@ output:
 
 ## Neolithic period: Urbanization and Population growth 
 <hr>
+**Humans persisted in larger and larger populations by manipulating the environment**
 
-<IMG STYLE="position:absolute; TOP:160px; LEFT:5px; WIDTH:600px; HEIGHT:500px" SRC="images/humanpop.jpg">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:5px; WIDTH:600px; HEIGHT:500px" SRC="images/humanpop.jpg">
 
-<IMG STYLE="position:absolute; TOP:220px; LEFT:620px; WIDTH:450px; HEIGHT:350px" SRC="images/rome.jpg">
+<IMG STYLE="position:absolute; TOP:240px; LEFT:620px; WIDTH:450px; HEIGHT:350px" SRC="images/rome.jpg">
 
 ## Health consequences of agriculture...
 <hr>
+**Simplifications of our diets also led to a broad simplification of our microbiome (nutrient deficiencies, disease). Archaeological studies reveal nutritional stress in ancient Appalachian populations**
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/microbiome.png">
+<IMG STYLE="position:absolute; TOP:220px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/microbiome.png">
 
 ## Appalachian Mountains During the Holocene/Neolithic 
 <hr>
@@ -235,7 +237,7 @@ output:
     
 <br/>
 
-- **Replacement of hand tools with power-driven machines**
+- **Replacement of hand tools with machines**
     + power loom, steam engine, iron making
 
 <br/>
@@ -254,7 +256,7 @@ output:
 
 <div style="float: left; width: 45%;">
 
-- **Every aspect of daily life was influenced in some way**
+- **Every aspect of daily human life was influenced in some way**
 
 <br/>
 
@@ -275,7 +277,7 @@ output:
 <hr>
 
 - **Period of rapid socio-economic and environmental following World War II (>1950)**
-    + Coincided with the Atomic Age and the Cold War tech race
+    + Coincided with the Atomic Age and the Cold War technology race
     + non-official start of the Anthropocene
 
 <br/>
@@ -300,7 +302,7 @@ output:
 <div style="float: left; width: 50%;">
 
 - **New geologic era?**
-    + proposal submitted
+    + proposal recently rejected
     + would mark end of the Holocene
     
 <br/>
@@ -358,7 +360,7 @@ output:
  
 <IMG STYLE="position:absolute; TOP:180px; LEFT:600px; WIDTH:550px; HEIGHT:450px" SRC="images/box.png">
 
-## What happended? Haber Bosch happened!
+## What happened? Haber Bosch happened!
 <hr>
 <br/>
 
@@ -397,9 +399,9 @@ output:
 
  </div>
     
-<IMG STYLE="position:absolute; TOP:200px; LEFT:525px; WIDTH:500px; HEIGHT:450px" SRC="images/mining.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:545px; WIDTH:500px; HEIGHT:450px" SRC="images/mining.jpg">
 
-## Appalachia in the Anthropocene: Soceital
+## Appalachia in the Anthropocene: Socieital
 <hr>
 <br/>
 
@@ -424,5 +426,5 @@ output:
     
  </div>
     
-<IMG STYLE="position:absolute; TOP:200px; LEFT:600px; WIDTH:450px; HEIGHT:450px" SRC="images/stopremoval.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:610px; WIDTH:450px; HEIGHT:450px" SRC="images/stopremoval.jpg">
     
