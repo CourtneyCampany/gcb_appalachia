@@ -109,7 +109,7 @@ output:
 
 - **Point Sources:**
     + Coal mines = acid mine drainage
-    + Wastewater discharge from pulp/sewage/chemical plants
+    + Waste water discharge from pulp/sewage/chemical plants
     + Industrial sites → heavy metals
 
 <br/>
@@ -117,13 +117,13 @@ output:
 - **Diffuse (Non-Point) Sources:**
     + Agricultural runoff → nitrogen, phosphorus
     + Logging roads → sedimentation in streams
-    + Urban stormwater → oil, trash, nutrients
+    + Urban storm water → oil, trash, nutrients
 
 <br/>
 
-- **Many headwater streams, vital for biodiversity and clean water, are degraded**
+- **Many headwaters streams, vital for biodiversity and clean water, are degraded**
     + mussels, brook trout, and salamanders are particularly affected.
-    + Contaminants pose risks to rural drinking water supplies
+    + Contaminants pose risks to rural drinking water
 
 </div>
 
@@ -133,6 +133,10 @@ output:
 <hr>
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:100px; WIDTH:900px; HEIGHT:600px" SRC="images/emissons3.jpeg">
+
+##
+
+<IMG STYLE="position:absolute; TOP:0px; LEFT:0px; WIDTH:1100px; HEIGHT:700px" SRC="images/co2now.jpg">
 
 ## Human activities create contaminants: Other greenhouse gases
 <hr>
@@ -208,7 +212,7 @@ output:
 <div style="float: left; width: 60%;">
 
 - **Global competition in coal and timber industries led to economic decline.**
-    + twns built around single-resource economies (coal in WV, textiles in NC, etc.) suffered mass layoffs as industries moved overseas.
+    + single-resource economies (coal in WV, textiles in NC, etc.) suffered mass layoffs as industries moved overseas.
     + high unemployment, poverty, and population loss, especially among young people.
 
 <br/>
@@ -229,7 +233,7 @@ output:
 
 - **<span style="color:darkred">Synergy</span>: when the total effect is *more* than the sum of the individual effects**
     + loss of sea ice from warming exposes more dark surface which absorb even more heat
-    + canopy gaps created by emerald ash borers killing ash trees allows invasion by Japanese stiltgrass, tree-of-heaven.
+    + canopy gaps created by emerald ash borers killing ash trees allows invasion by Japanese stiltgrass, tree-of-heaven (which attract spotted lantern fly).
 
 
 <IMG STYLE="position:absolute; TOP:290px; LEFT:0px; WIDTH:1100px; HEIGHT:400px" SRC="images/stress3.png">
@@ -251,34 +255,34 @@ output:
 
 <!-- <IMG STYLE="position:absolute; TOP:160px; LEFT:50px; WIDTH:1000px; HEIGHT:500px" SRC="images/match.png"> -->
 
-## Review: fossil fuel emissions alter greenhouse effect
-<hr>
+<!-- ## Review: fossil fuel emissions alter greenhouse effect -->
+<!-- <hr> -->
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:50px; WIDTH:1000px; HEIGHT:500px" SRC="images/greenhouse.png">
+<!-- <IMG STYLE="position:absolute; TOP:180px; LEFT:50px; WIDTH:1000px; HEIGHT:500px" SRC="images/greenhouse.png"> -->
 
-## If balance interupted, Earth warms or cools
-<hr>
-<br/>
+<!-- ## If balance interupted, Earth warms or cools -->
+<!-- <hr> -->
+<!-- <br/> -->
 
-<div style="float: left; width: 40%;">
+<!-- <div style="float: left; width: 40%;"> -->
 
-**Earth's energy balance can be perturbed by “forcings’**
+<!-- **Earth's energy balance can be perturbed by “forcings’** -->
 
-<br/>
+<!-- <br/> -->
 
-- **Each 'forcing' can alter:**
-    + incoming solar radiation (shortwave)
-    + solar radiation that is reflected
-    + *longwave radiation emitted from Earth*
+<!-- - **Each 'forcing' can alter:** -->
+<!--     + incoming solar radiation (shortwave) -->
+<!--     + solar radiation that is reflected -->
+<!--     + *longwave radiation emitted from Earth* -->
 
-<br/>
+<!-- <br/> -->
 
-- **Forcings largely a function of greenhouse gases**
-    + each gas absorbs longwave radiation
-    
-</div>
+<!-- - **Forcings largely a function of greenhouse gases** -->
+<!--     + each gas absorbs longwave radiation -->
 
-<IMG STYLE="position:absolute; TOP:190px; LEFT:490px; WIDTH:600px; HEIGHT:450px" SRC="images/absorb.png">
+<!-- </div> -->
+
+<!-- <IMG STYLE="position:absolute; TOP:190px; LEFT:490px; WIDTH:600px; HEIGHT:450px" SRC="images/absorb.png"> -->
 
 <!-- <IMG STYLE="position:absolute; TOP:180px; LEFT:10px; WIDTH:600px; HEIGHT:450px" SRC="images/gases.png"> -->
 
@@ -326,11 +330,7 @@ output:
 
 </div>
 
-##
-
-<IMG STYLE="position:absolute; TOP:0px; LEFT:0px; WIDTH:1100px; HEIGHT:700px" SRC="images/co2now.jpg">
-
-## Future climate change is inevitable
+## Future climate change IS inevitable
 <hr>
 <br/>
 <br/>
@@ -339,7 +339,7 @@ output:
 
 <div style="float: right; width: 50%;">
 
-- **Global mean surface temperature has risen ~ 1 degree C over the last 100 years**
+- **Roughly 0.7–0.8 °C in the last ~50 years, meaning surface warming is accelerating**
 
 <br/>
 
@@ -350,7 +350,7 @@ output:
 
 <br/>
 
-- **Reference: 5°C of “natural” warming took earth from an Ice Age to our modern interglacial world took 1600 years**
+- **Reference: 5°C of “natural” warming that took earth from an Ice Age to our modern interglacial world took 1600 years**
     + Contemporary climate change could reach the same 5°C change >10x faster
 
 </div>
@@ -360,7 +360,8 @@ output:
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:10px; WIDTH:550px; HEIGHT:450px" SRC="images/precip.png">
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:580px; WIDTH:500px; HEIGHT:400px" SRC="images/weather.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:580px; WIDTH:500px; HEIGHT:400px" SRC="images/hurricane.png
+">
 
 <!-- ## Next up: Exam Time -->
 <!-- <hr> -->
