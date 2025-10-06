@@ -110,7 +110,7 @@ output:
 
 <div style="float: left; width: 55%;">
 
-- **As human populations continue to rise, so do the pressures placed in natural systems**
+- **As human populations continue to rise, so do the pressures (hammer strikes) placed on natural systems**
     + no stop in sight
     
 <br/>
@@ -376,7 +376,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:650px; WIDTH:350px; HEIGHT:500px" SRC="images/distribution.png">
 
-## Move response: Immdediate
+## Move response: Immediate
 <hr>
 
 **Goal: Escape acute, short-lived stressors (e.g., heatwaves, fires, invasive predators)**
