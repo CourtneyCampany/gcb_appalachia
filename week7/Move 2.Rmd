@@ -201,11 +201,11 @@ output:
 
 <br/>
 
-- **Elevation limits reduce total available habitat and increase interspecies competition as other species move upslope**
+- **Elevation limits reduce total available habitat and increase competition as other species move upslope**
 
 <br/>
 
-- **Mountaintop endemics like the Appalachian grizzled skipper (Pyrgus centaureae wyandot) face extinction from competition** 
+- **Mountaintop endemics like the Appalachian grizzled skipper face extinction from competition** 
 
 <br/>
 
@@ -274,7 +274,7 @@ output:
 
 <br/>
 
-**<span style="color:red">Move</span>: movement away from natal territory (typically before or during reproduction - can be gametes not individuals)**
+**<span style="color:red">Dispersal</span>: movement away from natal territory (typically before or during reproduction - can be gametes not individuals)**
 
 <br/>
 
@@ -289,11 +289,12 @@ output:
 ## Range changes are usually slow
 <hr>
 
-**Many species are limited in a move response by gamete dispersal**
+* **Many species are limited in a move response by gamete dispersal**
     + Appalachian understory plants have limited seed dispersal
+    
 <br/>
 
-**Trees are excellent disperses across many generations, however..TIME MATTERS**
+* **Trees are excellent disperses across many generations, however..TIME MATTERS**
 
 
 <IMG STYLE="position:absolute; TOP:320px; LEFT:200px; WIDTH:650px; HEIGHT:350px" SRC="images/tree.jpg">
@@ -359,26 +360,26 @@ output:
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:0px; WIDTH:1100px; HEIGHT:400px" SRC="images/invasion.jpg">
 
-## Projecting the move response into the future...
-<hr>
-<br/>
-<br/>
-<br/>
+<!-- ## Projecting the move response into the future... -->
+<!-- <hr> -->
+<!-- <br/> -->
+<!-- <br/> -->
+<!-- <br/> -->
 
-<div style="float: left; width: 55%;">
+<!-- <div style="float: left; width: 55%;"> -->
 
-**Ultimately ability to “move” will be determined by an interaction between the species and the environment**
+<!-- **Ultimately ability to “move” will be determined by an interaction between the species and the environment** -->
 
-<br/>
+<!-- <br/> -->
 
-**100 years from now where could species survive and how could it get there?**
+<!-- **100 years from now where could species survive and how could it get there?** -->
 
-<br/>
+<!-- <br/> -->
 
-**Can it disperse far enough fast enough over a fragmented landscape?**
-</div>
+<!-- **Can it disperse far enough fast enough over a fragmented landscape?** -->
+<!-- </div> -->
 
-<IMG STYLE="position:absolute; TOP:160px; LEFT:650px; WIDTH:350px; HEIGHT:500px" SRC="images/pending.png">
+<!-- <IMG STYLE="position:absolute; TOP:160px; LEFT:650px; WIDTH:350px; HEIGHT:500px" SRC="images/pending.png"> -->
 
 <!-- ## Friday: Open discussion - Humans and the 'move response' -->
 <!-- <hr> -->
