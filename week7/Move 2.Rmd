@@ -145,13 +145,13 @@ output:
 - **Brook trout are highly adapted to cold, oxygen-rich streams**
     + high sensitivity to small thermal changes
 
-<div style="float: left; width: 50%;">
+<div style="float: left; width: 47%;">
 
 <br/>
 
-- **Warming temperatures reduce habitat suitability**
+- **Warming reduce habitat suitability**
 <br/>
-- **Drought lowers flows, which also makes water warmer**
+- **Drought lowers flows, making water warmer**
 
 <br/>
 
@@ -167,13 +167,13 @@ output:
 <hr>
 <br/>
 
-- **Range migration of hardwood trees (scarlet maple) is at the expense of conifer forests**
+- **Range migration of hardwood trees (scarlet oak) is at the expense of conifer forests**
 
 <br/>
 
-<div style="float: left; width: 60%;">
+<div style="float: left; width: 55%;">
 
-- **Northern flying squirrel depends on mature red spruce forests**
+- **Northern flying squirrel depends on these mature conifer forests**
     + thus, climate and logging threaten reduce their habitat
 
 <br/>
@@ -196,7 +196,7 @@ output:
 
 <div style="float: left; width: 60%;">
 
-- **High elevation Appalachian mountain tops are 'sky islands**
+- **High elevation Appalachian mountain tops are 'sky islands'**
     + glacial relic endemic species adapted to cold
 
 <br/>
@@ -227,9 +227,15 @@ output:
 
 ## Natural movement can also be disrupted: Monarch
 <hr>
-<IMG STYLE="position:absolute; TOP:180px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/monarch3.png">
+**Monarch southern migration triggered by cold temperatures cues...**
 
-## Appalachian Mountains as a Migratory Corridor
+<IMG STYLE="position:absolute; TOP:185px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/monarch3.png">
+
+##
+
+<IMG STYLE="position:absolute; TOP:0px; LEFT:0px; WIDTH:1100px; HEIGHT:800px" SRC="images/movementmap.jpg">
+
+## Appalachian Mountains as a migratory corridor
 <hr>
 
 - **Appalachian range provides a continuous forested pathway, rich in food and shelter**
@@ -241,9 +247,9 @@ output:
 <br/>
 **Monarch Butterfly uses the Appalachians during its long-distance migration**
 <br/>
-**Eastern Red Bat migrates along forested ridgelines**
+**Eastern Red Bat migrates along forested ridges**
 <br/>
-**Black-throated Green Warbler  depends on high-elevation spruce-fir forests as stop-overs**    
+**Black-throated Green Warbler depends on high-elevation spruce-fir forests as stop-overs**    
   
 <br/>
 
@@ -257,16 +263,12 @@ output:
 
 - **Invasive species like garlic mustard reduce the quality of understory stopover habitat**
 
-##
-
-<IMG STYLE="position:absolute; TOP:0px; LEFT:0px; WIDTH:1100px; HEIGHT:800px" SRC="images/movementmap.jpg">
-
-## In order to persist, species range changes are predictable
+## In order to persist, species range changes are likely
 <hr>
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:125px; WIDTH:850px; HEIGHT:500px" SRC="images/movementrate.jpg">
 
-## The 'Move Response' is limited
+## The 'Move' response is limited
 <hr>
 <br/>
 
@@ -274,7 +276,7 @@ output:
 
 <br/>
 
-**<span style="color:red">Dispersal</span>: movement away from natal territory (typically before or during reproduction - can be gametes not individuals)**
+**<span style="color:red">Dispersal</span>: movement away from natal territory (can also be the sperm/egg)**
 
 <br/>
 
@@ -289,7 +291,7 @@ output:
 ## Range changes are usually slow
 <hr>
 
-* **Many species are limited in a move response by gamete dispersal**
+* **Many species are limited in a move response by gamete (sex cell) dispersal**
     + Appalachian understory plants have limited seed dispersal
     
 <br/>
