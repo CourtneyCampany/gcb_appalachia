@@ -174,46 +174,71 @@ output:
 
 <IMG STYLE="position:absolute; TOP:500px; LEFT:50px; WIDTH:1000px; HEIGHT:150px" SRC="images/frog2.png">
 
-## Say we decide to prioritize a favorite species
+## Which Appalachian salamander(s) do we save?
 <hr>
-<span style="color:red">**Yellow-legged mountain frog: Several tracktable interventions but each is costly...**</span>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:225px; WIDTH:650px; HEIGHT:450px" SRC="images/savefrog.png">
+<br/>
 
-## Say we decide to prioritize a favorite species
-<hr>
+**Appalachian Mountains are considered a high-risk areas for invasive chytrid fungi, (Bd and Bsal), that can be lethal to salamanders**
+
+<br/>
 
 **Should we give more conservation attention to the more <span style="color:darkred">susceptible</span> (they need our help) or the more <span style="color:darkred">resistant</span> (they might actually survive) populations?** <span style="color:blue"> **What would you vote for?**</span>
 
-<IMG STYLE="position:absolute; TOP:250px; LEFT:100px; WIDTH:900px; HEIGHT:400px" SRC="images/frogcali.png">
+<br/>
 
-## Alternate strategies
+<div style="float: left; width: 55%;">
+
+**Appalachian criteria to consider: irreplaceability (endemism), vulnerability (trend), feasibility (tools exist?), and co-benefits (actions that help whole watersheds/communities).**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:380px; LEFT:550px; WIDTH:450px; HEIGHT:300px" SRC="images/salamander.jpg">
+
+
+## Which Appalachian salamander(s) do we save?
 <hr>
-<span style="color:red">**Many tractable interventions, but most very costly**</span>
-
-<br/>
-<br/>
 <br/>
 
-<span style="color:blue">**Saving the Yellow-legged mountain frog**</span>
-
-* **Captive breeding**
-<br/>
-* **Antifungal treatments**
-<br/>
-* **Probiotic treatments**
-<br/>
-* **Addressing the threat**
-<br/>
-* **Legislation**
+* **Cheat Mountain Salamander — WV endemic. Tiny, isolated spruce-relic populations; sensitive to microclimate shifts and disturbance**
+    + Threats: habitat fragmentation, climate warming, recreation pressure
 
 <br/>
 
-<span style="color:blue"> **What would you vote for?**</span>
+* **Green Salamander — rock-outcrop specialist. Patchy cliff microhabitats; highly site-faithful**
+    + Threats: quarrying, timber edge effects, drought, potential easy spread of  disease impacts
 
-<IMG STYLE="position:absolute; TOP:160px; LEFT:800px; WIDTH:250px; HEIGHT:500px" SRC="images/treatments.png">
+<br/>
 
-<IMG STYLE="position:absolute; TOP:350px; LEFT:360px; WIDTH:300px; HEIGHT:175px" SRC="images/savefrog2.jpg">
+* **Eastern Hellbender — giant stream salamander. Needs cold, clean, well-oxygenated rivers with slab cover**
+    + Threats: silt build up, dams/flow alteration, pollutants; disease via water-quality stress
+
+<br/>
+
+<span style="color:darkblue"> **Do you triage the imperiled micro-populations on the brink (high risk, low feasibility), OR the “resilient but stressed” sites where small investments could tip recovery (lower risk, higher feasibility)?**</span>
+
+<!-- <IMG STYLE="position:absolute; TOP:200px; LEFT:225px; WIDTH:650px; HEIGHT:450px" SRC="images/savefrog.png"> -->
+
+## Strategy: which conservation levers do you pull?
+<hr>
+
+* **Captive breeding: Buys a genetic/time “bank” for declining populations**
+    + Costs & trade-offs: Facilities, biosecurity, reintroduction challenges; diverting from habitat fixes.
+
+<br/>
+
+* **Conservation ambulances: Targeted antifungal or probiotics/microbiome pilot studies**
+    + Costs & trade-offs: Ethics, feasability, permitting
+
+<br/>
+
+* **Habitat restoration: Restoring freshwater streams, cliff faces, or other salamander habitats or targeting land protection to increase connectivity**
+    + Costs & trade-offs: Expense/coordination heavy, benefits take years, landowner complexity.
+
+<br/>
+
+* **Policy & prevention: Creating biosecurity norms and surveillance to prevent Bd/Bsal spread or create watershed specific policy for sediment caps, smart forestry and bridge/dam construction/removal**
+    + Costs & trade-offs: Slow to enact; enforcement/compliance issues; political capital required
 
 ## Defining priorities for conservation
 <hr>
@@ -223,7 +248,6 @@ output:
 <br/>
 
 **There are some explicit and data-driven ways to do this, for example…**
-
 
 ## Defining priorities for conservation
 <hr>
@@ -298,13 +322,14 @@ output:
 
 <div style="float: right; width: 52%;">
 
-**For example, like closing dive tourism in coral reefs during heavy storm seasons**
+**For example, closing dive tourism in coral reefs during heavy storm seasons**
 <br/>
 
 **vs**
 <br/>
 
 **Building wildlife corridors to cross highways**
+
 </div>
 
 <IMG STYLE="position:absolute; TOP:280px; LEFT:20px; WIDTH:450px; HEIGHT:300px" SRC="images/scuba.jpg">
@@ -350,7 +375,24 @@ output:
 
 <IMG STYLE="position:absolute; TOP:230px; LEFT:20px; WIDTH:400px; HEIGHT:400px" SRC="images/adaptive.png">
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:500px; WIDTH:650px; HEIGHT:450px" SRC="images/caribou.png">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:480px; WIDTH:600px; HEIGHT:425px" SRC="images/elk.jpg">
+
+## Flexibilities and complexities
+<hr>
+<br/>
+<br/>
+<br/>
+<br/>
+
+**<span style="color:blue">Adaptive management</span>: Learning-by-doing**
+
+<IMG STYLE="position:absolute; TOP:230px; LEFT:20px; WIDTH:400px; HEIGHT:400px" SRC="images/adaptive.png">
+
+<div style="float: right; width: 52%;">
+
+**After the 2001–2008 release of Elk, the Great Smokeys National Park adopted a Preferred “Adaptive Management” alternative: population is monitored (e.g., collars on adult females and calves), responses are adjusted over time (e.g., scale back collars, change responses to conflicts, coordinate outside the park, test removal of black bears), and actions are revised based on measured outcomes.**
+
+</div>
 
 ## Flexibilities and complexities
 <hr>

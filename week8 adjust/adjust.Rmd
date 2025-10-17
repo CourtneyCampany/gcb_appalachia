@@ -191,6 +191,7 @@ output:
 * **Behavior has long been considered the 'most plastic' phenotypic trait** 
     + quickest response to temporal changes 
     + e.g., bird song frequency in urban environments
+    
 </div>
 
 <IMG STYLE="position:absolute; TOP:210px; LEFT:625px; WIDTH:400px; HEIGHT:450px" SRC="images/behavior.png">
@@ -203,6 +204,7 @@ output:
 ## What is phenotypic plasticity?
 <hr>
 <br/>
+
 <span style="color:blue">**When a single genotype can produce multiple phenotypes depending on environmental conditions**</span>
 
 <br/>
@@ -224,6 +226,32 @@ output:
 ##
 
 <IMG STYLE="position:absolute; TOP:50px; LEFT:125px; WIDTH:850px; HEIGHT:600px" SRC="images/insectsthermal.jpg">
+
+## Plasticity in monarch butteflies: Migratory syndrome
+<hr>
+
+**There are 4 generations of monarch butterflies during the year, with the first 3 living short lives for the northward migration and the fourth, known as the "super generation"**
+
+<br/>
+
+<div style="float: left; width: 55%;">
+
+* **Environmental triggers (day length/cold) drigger the migratory state**
+    + development of reproductive organs is stopped
+    + ageing is suppressed
+    + accumulate more fat to fuel 
+
+<br/>
+
+**Migratory state triggers behavioral instinct to fly south**
+
+<br/>
+
+**In captivity, monarchs can lose these migratory traits (NO GxE)**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:625px; WIDTH:400px; HEIGHT:400px" SRC="images/monarchbreed.jpg">
 
 ## Are all traits plastic? 
 <hr>

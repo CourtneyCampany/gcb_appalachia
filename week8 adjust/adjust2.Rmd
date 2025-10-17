@@ -25,38 +25,38 @@ output:
 
 <br/>
 
-- **ADJUST response - responses withouth changing the genetic code**
+- **ADJUST response - responses without changing the genetic code**
     + existing genes contain the capacity to be expressed differently
 
 </div>
 
 <IMG STYLE="position:absolute; TOP:240px; LEFT:620px; WIDTH:400px; HEIGHT:350px" SRC="images/leaf.png">
 
-## Techincal details: How does phenotypic plasticity happen?
-<hr>
-<br/>
+<!-- ## Techincal details: How does phenotypic plasticity happen? -->
+<!-- <hr> -->
+<!-- <br/> -->
 
-<div style="float: left; width: 50%;">
+<!-- <div style="float: left; width: 50%;"> -->
 
-* **Instantaneous / instinctual responses**
-    + behavior or physiology
-    
-<br/>
+<!-- * **Instantaneous / instinctual responses** -->
+<!--     + behavior or physiology -->
 
-* **Gene expression responses**
-    + *process by which the information encoded in a gene is turned into a function*
-    + gene activation/repression
+<!-- <br/> -->
 
-<br/>
+<!-- * **Gene expression responses** -->
+<!--     + *process by which the information encoded in a gene is turned into a function* -->
+<!--     + gene activation/repression -->
 
-* **Epigenetic responses**
-    + *structural changes to DNA that change how your body reads a DNA sequence*
-    + can occur from environmental cues
-    + alters steps of gene expression
+<!-- <br/> -->
 
-</div>
+<!-- * **Epigenetic responses** -->
+<!--     + *structural changes to DNA that change how your body reads a DNA sequence* -->
+<!--     + can occur from environmental cues -->
+<!--     + alters steps of gene expression -->
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:620px; WIDTH:400px; HEIGHT:400px" SRC="images/puzzle.jpg">
+<!-- </div> -->
+
+<!-- <IMG STYLE="position:absolute; TOP:200px; LEFT:620px; WIDTH:400px; HEIGHT:400px" SRC="images/puzzle.jpg"> -->
 
 ## Why Plasticity Matters for Global Change
 <hr>
@@ -100,7 +100,7 @@ output:
 <br/>
 
 - **Environment may alter the expression of those genes (on, off, more, less) altering the production of proteins that have some key function**
-    + shifts in environmental cues (eg. temperature) detected by bodies/cells as a signal
+    + shifts in environmental cues (eg. temperature) detected by bodies/cells as a signal strength
 
 </div>
 
@@ -178,17 +178,6 @@ output:
 
 <IMG STYLE="position:absolute; TOP:390px; LEFT:0px; WIDTH:1100px; HEIGHT:250px" SRC="images/phenology.png">
 
-## Phenotypic plasticity in development
-<hr>
-<br/>
-
-**2003 meta-analyses found a broad developmental advancement of ~2.3 days per decade**
-<br/>
-
-**Remarkably consistent across groups (and that was >20 years ago!!!)**
-
-<IMG STYLE="position:absolute; TOP:280px; LEFT:125px; WIDTH:850px; HEIGHT:375px" SRC="images/phenology2.png">
-
 ## Phenotypic plasticity in development: Examples from insects
 <hr>
 <br/>
@@ -213,6 +202,17 @@ output:
 </div>
 
 <IMG STYLE="position:absolute; TOP:320px; LEFT:630px; WIDTH:450px; HEIGHT:300px" SRC="images/aphid.jpg">
+
+## Phenotypic plasticity in development
+<hr>
+<br/>
+
+**2003 meta-analyses found a broad developmental advancement of ~2.3 days per decade**
+<br/>
+
+**Remarkably consistent across groups (and that was >20 years ago!!!)**
+
+<IMG STYLE="position:absolute; TOP:280px; LEFT:125px; WIDTH:850px; HEIGHT:375px" SRC="images/phenology2.png">
 
 ## Phenotypic plasticity: Timing (phenology)
 <hr>
@@ -320,53 +320,53 @@ output:
 
 <IMG STYLE="position:absolute; TOP:300px; LEFT:25px; WIDTH:475px; HEIGHT:300px" SRC="images/leafcross.jpg">
 
-## Phenotypic plasticity: Epigenetic response
-<hr>
+<!-- ## Phenotypic plasticity: Epigenetic response -->
+<!-- <hr> -->
 
-<div style="float: left; width: 50%;">
+<!-- <div style="float: left; width: 50%;"> -->
 
-**Many 'ADJUST' responses to global change are going to be negative**
+<!-- **Many 'ADJUST' responses to global change are going to be negative** -->
 
-<br/>
+<!-- <br/> -->
 
-**Vinclozolin is a fungicide used by farmers to stop rot, mold and blight**
+<!-- **Vinclozolin is a fungicide used by farmers to stop rot, mold and blight** -->
 
-<br/>
+<!-- <br/> -->
 
-**Vinclozolin linked to great granddaughter's stress via epigenetic changes in mice**
+<!-- **Vinclozolin linked to great granddaughter's stress via epigenetic changes in mice** -->
 
-<br/>
-<br/>
+<!-- <br/> -->
+<!-- <br/> -->
 
-**DDT, the first modern pesticide, has been banned in USA since 1972**
+<!-- **DDT, the first modern pesticide, has been banned in USA since 1972** -->
 
-<br/>
+<!-- <br/> -->
 
-**When pregnant female mice were fed DDT, their female offspring were more obese**
+<!-- **When pregnant female mice were fed DDT, their female offspring were more obese** -->
 
-</div>
+<!-- </div> -->
 
-<IMG STYLE="position:absolute; TOP:220px; LEFT:580px; WIDTH:500px; HEIGHT:400px" SRC="images/mice.jpeg">
+<!-- <IMG STYLE="position:absolute; TOP:220px; LEFT:580px; WIDTH:500px; HEIGHT:400px" SRC="images/mice.jpeg"> -->
 
-## Phenotypic plasticity: Epigenetic response
-<hr>
+<!-- ## Phenotypic plasticity: Epigenetic response -->
+<!-- <hr> -->
 
-- **Agrochemicals, commonly used in Appalachian Christmas tree farms, orchards, and row crops, can act as environmental stressors—not just toxins**
+<!-- - **Agrochemicals, commonly used in Appalachian Christmas tree farms, orchards, and row crops, can act as environmental stressors—not just toxins** -->
 
-<br/>
+<!-- <br/> -->
 
-- **In frogs, bees, and small mammals pesticides can alter DNA without changing the genetic code—hallmarks of epigenetic regulation**
+<!-- - **In frogs, bees, and small mammals pesticides can alter DNA without changing the genetic code—hallmarks of epigenetic regulation** -->
 
-<br/>
+<!-- <br/> -->
 
-- **Could exposure in amphibians like the Eastern newt or pollinators like bumble bees trigger similar epigenetic changes affecting**
-    + Development?
-    + Immunity?
-    + Reproductive timing or behavior?
+<!-- - **Could exposure in amphibians like the Eastern newt or pollinators like bumble bees trigger similar epigenetic changes affecting** -->
+<!--     + Development? -->
+<!--     + Immunity? -->
+<!--     + Reproductive timing or behavior? -->
 
-<br/>
+<!-- <br/> -->
 
-**Raises concern about invisible effects of modern agriculture on Appalachian biodiversity.**
+<!-- **Raises concern about invisible effects of modern agriculture on Appalachian biodiversity.** -->
 
 ## Limits to the ADJUST adjacent possible
 <hr>
