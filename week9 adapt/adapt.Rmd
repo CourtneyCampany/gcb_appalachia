@@ -22,6 +22,7 @@ output:
 
 - **There is a *ying* and *yang* between the environment and evolution**
     + complementary forces that interact to form a dynamic system  
+    + this directly ties to climate/global change
 
 </div>
 
@@ -165,7 +166,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:200px; LEFT:150px; WIDTH:800px; HEIGHT:400px" SRC="images/harm.png">
 
-## Real world example: reivisting the white sands
+## Real world example: revisting the white sands
 <hr>
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/whitesands.png">
@@ -190,7 +191,7 @@ output:
 <hr>
 <br/>
 
-**Concealing coloration for predation avoidance**
+**Selection of concealing coloration for predator avoidance?**
 
 <IMG STYLE="position:absolute; TOP:250px; LEFT:20px; WIDTH:500px; HEIGHT:300px" SRC="images/lizards.jpg">
 
@@ -230,10 +231,10 @@ output:
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:25px; WIDTH:1100px; HEIGHT:450px" SRC="images/mutate.png">
 
-## Natural selection: measuring selection in genome
-<hr>
+<!-- ## Natural selection: measuring selection in genome -->
+<!-- <hr> -->
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:75px; WIDTH:900px; HEIGHT:450px" SRC="images/mutate2.png">
+<!-- <IMG STYLE="position:absolute; TOP:180px; LEFT:75px; WIDTH:900px; HEIGHT:450px" SRC="images/mutate2.png"> -->
 
 <!-- ## Natural selection: measuring selection in genome -->
 <!-- <hr> -->

@@ -267,7 +267,7 @@ output:
 
 <br/>
 
-- **Which adjacent possible to has occurred in urban popuations?**
+- **Which adjacent possible has occurred in urban populations?**
 
  </div> 
  
@@ -414,7 +414,7 @@ output:
 
 - **Appalachian Brook Trout may need to adapt thermal tolerance, disease resistance, altered spawning timing**
     + Even if variation exists for one trait, adaptation can fail if other traits can’t respond
-    + iolated headwater populations tend to have low genetic variation
+    + isolated headwater populations tend to have low genetic variation
 
  </div>  
 
@@ -432,7 +432,7 @@ output:
 
 <br/>
 
-- **But only works if populations are connected (via corridors, dispersal, etc.)**
+- **But only works if populations are connected**
 
 <br/>
 
@@ -466,7 +466,6 @@ output:
  </div> 
  
  <IMG STYLE="position:absolute; TOP:370px; LEFT:550px; WIDTH:450px; HEIGHT:300px" SRC="images/drift2.png">
- 
  
 ## Genetic drift can interfere with natural selection
 <hr>
