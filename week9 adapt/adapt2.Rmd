@@ -11,7 +11,7 @@ output:
 <hr>
 
 - **Animals are altering their morphology—especially body size and extremity proportions—as a response to climate change.**
-  + This phenomenon is consistent with two complementary ecogeographical rules:**
+  + This phenomenon is consistent with two complementary ecogeographical rules:
 
 <br/>
 
@@ -33,12 +33,12 @@ output:
 
 **These changes may represent phenotypic plasticity, evolutionary adaptation, or both**
 
-<IMG STYLE="position:absolute; TOP:350px; LEFT:150px; WIDTH:800px; HEIGHT:300px" SRC="images/shapeshift.png">
+<IMG STYLE="position:absolute; TOP:350px; LEFT:150px; WIDTH:800px; HEIGHT:290px" SRC="images/shapeshift.png">
 
 ## Bergmann’s Rule and body size
 <hr>
 
-- **Bergmann’s Rule = individuals of a species tend to be larger in colder environments and smaller in warmer environments**
+- **Bergmann’s rule = individuals of a species tend to be larger in colder environments and smaller in warmer environments**
 
 <br/>
 
@@ -89,22 +89,22 @@ output:
 <hr>
 <br/>
 
-<div style="float: right; width: 59%;">
+<div style="float: right; width: 63%;">
 
-**Some plants have shifted leaf size, shape, thickness for water conservation**
+* **Some plants have shifted leaf size, shape, or thickness for water conservation**
     + shifts in leaf traits has long evolutionary history
     
 <br/>
 
-**Some plants have altered root distributions and branching in response to drought/flooding**
+* **Some plants have altered root distributions and branching in response to drought/flooding**
 
 <br/>
 
-**Cell size for bacteria/protists (single-celled organisms) reduced with ↑ temperatures**
+* **Cell size for bacteria/protists (single-celled organisms) reduced with climate warming**
 
 <br/>
 
-**These changes also may represent phenotypic plasticity, evolutionary adaptation, or both**
+* **These changes may represent phenotypic plasticity, evolutionary adaptation, or both**
 
  </div> 
  
@@ -134,8 +134,6 @@ output:
 ## Evolution can be fast (but not usually)
 <hr>
 <br/>
-<br/>
-<br/>
 
 <div style="float: left; width: 55%;">
 
@@ -143,6 +141,7 @@ output:
     + Color morphs (red-backed vs. lead-backed) show variation across elevation, forest cover, and temperature gradients
     + Lead-backed morph more frequent in warmer, fragmented forests
     + Could be natural selection favoring heat-tolerant morphs as forests warm
+    + shifts have occurred over the past several decades (fast)
 
 <br/>
 
@@ -165,7 +164,7 @@ output:
     
  <br/>
  
-- **Some females are born without tusks, likely due to mutations on several genes**
+- **Some females are born without tusks, due to mutations on several genes**
     + similar genes to teeth traits in humans
 
 <br/>
@@ -244,7 +243,7 @@ output:
 <br/>
 <br/>
 
-**Conclusion: Thermal tolerance in *Daphnia* can evolve over short time scales in response to global warming**
+**Conclusion: Thermal tolerance in *Daphnia* can evolve over short time scales in response to warming**
 
 <IMG STYLE="position:absolute; TOP:225px; LEFT:200px; WIDTH:600px; HEIGHT:400px" SRC="images/daphniabar2.png">
 
@@ -253,7 +252,7 @@ output:
 <br/>
 <br/>
 
-<div style="float: left; width: 68%;">
+<div style="float: left; width: 60%;">
 
 - **White-footed mouse thrive in both Appalachian forests and urban areas in the eastern US**
 
@@ -267,11 +266,11 @@ output:
 
 <br/>
 
-- **Which adjacent possible has occurred in urban populations?**
+- **Test yourself: Which adjacent possible has occurred in urban populations?**
 
  </div> 
  
-<IMG STYLE="position:absolute; TOP:180px; LEFT:750px; WIDTH:250px; HEIGHT:500px" SRC="images/mice.jpg">
+<IMG STYLE="position:absolute; TOP:180px; LEFT:720px; WIDTH:250px; HEIGHT:500px" SRC="images/mice.jpg">
 
 ## Measure it: Urban eolution in real time?
 <hr>
@@ -306,7 +305,7 @@ output:
 <hr>
 <br/>
 
-* **<span style="color:blue">Evolutionary rescue = process by which a population—that would have gone extinct in the absence of evolution—persists due to natural selection</span>**
+* **<span style="color:blue">Evolutionary rescue = process by which a population—that would have gone extinct in the absence of evolution—persist due to natural selection</span>**
 
 <br/>
 
