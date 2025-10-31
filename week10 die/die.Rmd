@@ -21,11 +21,11 @@ output:
 
 <br/>
 
-**The die 'response' is more a a failure to move, adjust or adapt**
+**The die 'response' is more a failure to move, adjust or adapt**
 
 <br/>
 
-**But patterns of extinction are so important (Since Industraial Revolution)that we need to treat it as a core category**
+**But patterns of extinction are so important (since Industrial Revolution) that we need to treat it as a core category**
 
 <br/>
 
@@ -46,11 +46,11 @@ output:
 
 <br/>
 
-**For example: Formation of mountain ranges (Appalachia) over geologic time are significant drivers of speciation due to their ability to isolate populations and create unique environmental pressures (elevation and climate gradients, diverse habitats)**
+**For example: Formation of mountain ranges (Appalachia) over geologic time are significant drivers of speciation due to their ability to isolate populations and create unique environmental pressures (elevation and climate gradients, diverse habitats) that drive *macroevoluation***
 
 <br/>
 
-**The fossil record shows us that the creation of species (via evolution) occurs at different rates through time**
+**The fossil record indicates that the creation of species (via evolution) occurs at different rates through time**
 </div>
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:20px; WIDTH:450px; HEIGHT:500px" SRC="images/treelife.png">
@@ -599,23 +599,23 @@ output:
 
 **Over 1,800 species are currently classified as endangered, threatened or rare in the Appalachian region**
 
-## Next Time: Sixth Mass Extinction Open Discussion
-<hr>
-<br/>
+<!-- ## Next Time: Sixth Mass Extinction Open Discussion -->
+<!-- <hr> -->
+<!-- <br/> -->
 
-* **FACT, FICTION or SPECULATION?**
+<!-- * **FACT, FICTION or SPECULATION?** -->
 
-<br/>
+<!-- <br/> -->
 
-* **Do some digging and pick a side**
-    + provide evidence of your choice
-    + be ready to argue your point/s
+<!-- * **Do some digging and pick a side** -->
+<!--     + provide evidence of your choice -->
+<!--     + be ready to argue your point/s -->
 
-<br/>   
+<!-- <br/>    -->
 
-* **Create a list of the complexities that make any of the choices not straightforward**
+<!-- * **Create a list of the complexities that make any of the choices not straightforward** -->
 
-<br/>
+<!-- <br/> -->
 
-* **Submit you findings on Brightspace**
-    
+<!-- * **Submit you findings on Brightspace** -->
+
