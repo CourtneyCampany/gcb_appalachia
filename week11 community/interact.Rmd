@@ -7,11 +7,6 @@ output:
     smaller: true
 ---
 
-## Course Roadmap
-<hr>
-
-<IMG STYLE="position:absolute; TOP:160px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/course.png">
-
 ## Organismal response to global change
 <hr>
 <br/>
@@ -90,9 +85,11 @@ output:
 ## Or organisms can move but then not successfully establish.
 <hr>
 
+**Assisted migration (e.g., koala) does not guarantee survival. Moving likely also brings new challenges (polar bears moving off ice now compete with other predators)**
+
 <IMG STYLE="position:absolute; TOP:220px; LEFT:25px; WIDTH:500px; HEIGHT:350px" SRC="images/koala.jpg">
 
-<IMG STYLE="position:absolute; TOP:180px; LEFT:550px; WIDTH:500px; HEIGHT:450px" SRC="images/polar.jpg">
+<IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:500px; HEIGHT:450px" SRC="images/polar.jpg">
 
 ## Moving organisms may adapt or adjust to new conditions
 <hr>
@@ -110,7 +107,7 @@ output:
 
 <br/>
 
-**Scientists found 3 genes in the mitochondria that code for proteins that help use oxygen to generate chemical energy for the body**
+**Scientists found 3 genes that code for proteins that help use oxygen to generate chemical energy for the body**
 
 <br/>
 
@@ -120,11 +117,11 @@ output:
 
 <!-- <IMG STYLE="position:absolute; TOP:350px; LEFT:700px; WIDTH:400px; HEIGHT:400px" SRC="images/moveadapt.png"> -->
 
-## Natural selection is always a moving target...
+## Adaptation is most often a moving target...
 <hr>
 <br/>
 
-**<span style="color:blue">Strong natural selection can actually reduce genetic variation in a population, making it more vulnerable to future changes (if the environment shifts in another direction - or has multiple stressors).</span>**
+**<span style="color:blue">Strong natural selection can actually reduce standing variation in a population, making it more vulnerable to future changes (if the environment shifts again - or multiple stressors exist).</span>**
 
 <!-- <IMG STYLE="position:absolute; TOP:160px; LEFT:700px; WIDTH:400px; HEIGHT:400px" SRC="images/adaptdie.png"> -->
 
@@ -152,7 +149,7 @@ output:
 ## A single response can be influenced by plasticity & adaptation
 <hr>
 
-Breeding dates are changing for Arctic squirrels. Most of this response (>60%) is explained by phenotypic plasticity but some of the response (~10%) appears to be caused by a genetic shift 
+**Breeding dates are changing for Arctic squirrels. Most of this response (>60%) is explained by phenotypic plasticity but some of the response (~10%) appears to be caused by a genetic shift**
 
 <!-- <IMG STYLE="position:absolute; TOP:160px; LEFT:700px; WIDTH:400px; HEIGHT:400px" SRC="images/adaptadjust.png"> -->
 
@@ -180,7 +177,7 @@ Breeding dates are changing for Arctic squirrels. Most of this response (>60%) i
 
 <br/>
 
-**Gain points by matching response traits on the game board!**
+**Matching response traits on the game board!**
 
 <br/>
 
