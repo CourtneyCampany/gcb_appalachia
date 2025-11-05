@@ -177,7 +177,7 @@ output:
 
 <br/>
 
-**Matching response traits on the game board!**
+**Match response traits on the game board!**
 
 <br/>
 
@@ -220,7 +220,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:50px; LEFT:50px; WIDTH:1000px; HEIGHT:600px" SRC="images/board2.png">
 
-## Species interactions ripple through biological communities
-<hr>
+<!-- ## Species interactions ripple through biological communities -->
+<!-- <hr> -->
 
-<IMG STYLE="position:absolute; TOP:160px; LEFT:175px; WIDTH:750px; HEIGHT:500px" SRC="images/interaction2.jpg">
+<!-- <IMG STYLE="position:absolute; TOP:160px; LEFT:175px; WIDTH:750px; HEIGHT:500px" SRC="images/interaction2.jpg"> -->
