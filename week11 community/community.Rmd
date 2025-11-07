@@ -58,12 +58,18 @@ output:
 
 <br/>
 
-* **Many species (including Appalachian) co-evolve (obligate = require each other)**
+* **Many species (including Appalachian) co-evolve**
+    + obligate vs facultative
     + Trillium species ←→ Ants (Aphaenogaster genus)
     + Paw Paw tree ←→ carion (rotting flesh) feeding insects
     + Beech drop (parasitic plant) ←→ American Beech
     
 </div>
+
+##
+
+<IMG STYLE="position:absolute; TOP:150px; LEFT:50px; WIDTH:1000px; HEIGHT:400px" SRC="images/mutual.png">
+
 
 ## Global change stresses affect biological interactions
 <hr>
@@ -225,7 +231,11 @@ output:
 
 <br/>
 
-**Human agency in shaping community structure is a philosophical question.  Are we just regular members of a community or are we responsible for managing communities because of our impacts?**
+**Human agency in shaping community structure is a philosophical question**
+
+<br/>
+
+**Are we just regular members of a community or are we responsible for managing communities because of our impacts?**
 
 </div>
 
