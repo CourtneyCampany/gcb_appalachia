@@ -1,15 +1,15 @@
 ---
-title: "Ecosystem and Biome-Level Responses II"
+title: "Ecosystem Responses in Appalachia"
 output: 
   ioslides_presentation:
-    css: custom2.css
+    css: custom.css
     widescreen: true
     smaller: true
 ---
 
-## Large-scale earth system impacts
+## Global change factors impact how ecosystems work
 <hr>
-**<span style="color:red">Changes across levels are all happening at the same time</span>**
+**<span style="color:red">Change impacts biotic and abiotic ecosystem components</span>**
 
 <br/>
 
@@ -17,10 +17,9 @@ output:
 
 <IMG STYLE="position:absolute; TOP:260px; LEFT:100px; WIDTH:900px; HEIGHT:400px" SRC="images/structure.jpeg">
 
-## Large-scale earth system impacts
+## Global change factors impact how ecosystems work
 <hr>
-
-**<span style="color:red">Changes across levels are all happening at the same time</span>**
+**<span style="color:red">Change impacts biotic and abiotic ecosystem components</span>**
 
 <br/>
 
@@ -39,9 +38,54 @@ output:
 <br/>
 
 **Ecosystem services are maximized by properly functioning ecosystems**
+
 </div>
 
 <IMG STYLE="position:absolute; TOP:300px; LEFT:560px; WIDTH:550px; HEIGHT:300px" SRC="images/functions.png">
+
+## Key ecosystem functions of Appalachia
+<hr>
+<br/>
+
+* **Biodiversity support & refugia**
+    + ~160 tree species and huge diversity of salamanders, invertebrates, and understory plants 
+    + complex topography and microclimates make the region a long-term refugium for many species can co-exist
+
+<br/>
+
+<div style="float: left; width: 50%;">
+
+* **Carbon storage & climate regulation**
+    + Appalachian forests are carbon-dense
+    + mixed hardwood and spruce-fir forests store large amounts of carbon 
+    + buffers local climates (cooler, moister forest interiors)
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:300px; LEFT:560px; WIDTH:500px; HEIGHT:400px" SRC="images/hotspots.png">
+
+##
+
+<IMG STYLE="position:absolute; TOP:50px; LEFT:0px; WIDTH:1100px; HEIGHT:600px" SRC="images/forestcarbon.jpg">
+
+## Key ecosystem functions of Appalachia
+<hr>
+<br/>
+
+* **Water regulation, headwater protection & water quality**
+    + Forested slopes, wetlands, and riparian zones slow runoff, stabilize soils, and filter sediments and nutrients before they reach streams**
+    
+<br/>
+
+* **Nutrient cycling & soil formation**
+    + thick forest floors drive decomposition and nutrient recycling (C, N, P), feeding the next generation of plants
+
+<br/>
+
+* **Habitat connectivity & wildlife movement**
+    + long, continuous Appalachian corridor functions as a north–south migration route and climate-change “escape ramp” for species
+    + large intact habitats support wide-ranging species like black bear and forest birds
+
 
 ## Feedbacks: when a process/system is modified by its own effects
 <hr>
