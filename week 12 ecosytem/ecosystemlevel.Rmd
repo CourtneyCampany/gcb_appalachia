@@ -57,8 +57,13 @@ output:
 
 * **Carbon storage & climate regulation**
     + Appalachian forests are carbon-dense
-    + mixed hardwood and spruce-fir forests store large amounts of carbon 
+    + mixed hardwood and spruce-fir forests store large amounts of carbon for decades/centuries
     + buffers local climates (cooler, moister forest interiors)
+    
+<br/>
+
+https://www.nasa.gov/wp-content/uploads/2021/02/forests-global-net-carbon-flux-wri.png
+
 
 <!-- </div> -->
 
@@ -73,12 +78,12 @@ output:
 <br/>
 
 * **Water regulation, headwater protection & water quality**
-    + Forested slopes, wetlands, and riparian zones slow runoff, stabilize soils, and filter sediments and nutrients before they reach streams**
+    + Forested slopes, wetlands, and riparian zones slow runoff, stabilize soils, and filter sediments and nutrients before they reach streams
     
 <br/>
 
 * **Nutrient cycling & soil formation**
-    + thick forest floors drive decomposition and nutrient recycling (C, N, P), feeding the next generation of plants
+    + thick forest floors drive decomposition and nutrient recycling (C, N, P), feeding the next generation of plants (food web)
 
 <br/>
 
@@ -89,6 +94,8 @@ output:
 
 ## Ecosystem services in the Appalachian mountains
 <hr>
+<span style="color: red;">Know the types of services, with examples</span>
+<br/>
 <br/>
 
 <div style="float: left; width: 50%;">
@@ -118,10 +125,10 @@ output:
 * **Cultural services: non-material benefits**
     + Sense of place, recreation, and ecotourism
     + Spiritual, artistic, and cultural identity
-
+ 
 </div>
 
-## Humans as Dominant Ecosystem Engineers in Appalachia
+## Humans as dominant ecosystem engineers in Appalachia
 <hr>
 <br/>
 
@@ -170,25 +177,25 @@ output:
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:550px; WIDTH:500px; HEIGHT:500px" SRC="images/feedback.png"> 
 
-## Feedbacks: when a process/system is modified by its own effects
-<hr>
-<br/>
-<br/>
-<br/>
-<br/>
+<!-- ## Feedbacks: when a process/system is modified by its own effects -->
+<!-- <hr> -->
+<!-- <br/> -->
+<!-- <br/> -->
+<!-- <br/> -->
+<!-- <br/> -->
 
-<div style="float: left; width: 49%;">
+<!-- <div style="float: left; width: 49%;"> -->
 
-**<span style="color:red">Positive feedback loops</span>= where response increases  stimulus** 
+<!-- **<span style="color:red">Positive feedback loops</span>= where response increases  stimulus**  -->
 
-<br/>
-<br/>
+<!-- <br/> -->
+<!-- <br/> -->
 
-**Common and lead to amplification of climate change and biodiversity loss**
+<!-- **Common and lead to amplification of climate change and biodiversity loss** -->
 
-</div>
+<!-- </div> -->
 
-<IMG STYLE="position:absolute; TOP:160px; LEFT:550px; WIDTH:500px; HEIGHT:500px" SRC="images/artic.png"> 
+<!-- <IMG STYLE="position:absolute; TOP:160px; LEFT:550px; WIDTH:500px; HEIGHT:500px" SRC="images/artic.png">  -->
 
 ## Feedbacks: when a process/system is modified by its own effects
 <hr>
@@ -238,7 +245,7 @@ output:
 
 <br/>
 
-**This CO~2~ which should be stored, is now a greenhouse gas, making the climate warmer**
+**This carbon is now a greenhouse gas (CO~2~), making the climate warmer**
 
 <br/>
 
@@ -278,7 +285,7 @@ output:
 
 <br/>
 
-**Creates more edges for deer to browse native vegetation**
+**Creates more space for edge-loving species (deer) to browse native vegetation**
 
 <br/>
 
@@ -338,13 +345,14 @@ output:
 
 **Mountain systems do not rank as high is certain places like coral reefs or tropical forests for potential risk of tipping points. However, they still are vulnerable.**
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:100px; WIDTH:900px; HEIGHT:400px" SRC="images/threshold.png">
+<IMG STYLE="position:absolute; TOP:190px; LEFT:100px; WIDTH:900px; HEIGHT:400px" SRC="images/threshold.png">
 
 ## Tipping points are generally unknown, making restoration hard
 <hr>
 <br/>
+<br/>
 
-**At what points does the loss of hemlocks irreversibly change freshwater streams by removing deep shade?**
+**At what points does the loss of hemlocks irreversibly change freshwater streams by removing shade?**
 
 <br/>
 
@@ -358,19 +366,15 @@ output:
 
 **At what point do Spruce-fir sky islands become too warm to exist?**
 
-<br/>
-
-**At what point does the loss of hemlocks irreversibly change freshwater stream temperature by removing deep shade**
-
 ## Tipping points are generally unknown, making restoration hard
 <hr>
 <br/>
 
-**<span style="color:red">Restoration always involves addressing the prior threats...what will this mean for future Appalachian ecosystems </span>**
+**<span style="color:red">Restoration always involves addressing the prior threats...what will this mean for future Appalachian ecosystems? </span>**
 
 <IMG STYLE="position:absolute; TOP:260px; LEFT:200px; WIDTH:700px; HEIGHT:400px" SRC="images/cod.png">
 
-## Resilience and restoration
+## Resilience and restoration of ecosystems
 <hr>
 
 **<span style="color:blue">Many factors contribute to resilience and potential for restoration </span>(hammer and nail analogy)**
@@ -385,7 +389,7 @@ output:
 
 <!-- <IMG STYLE="position:absolute; TOP:240px; LEFT:250px; WIDTH:600px; HEIGHT:400px" SRC="images/vulnerable.png"> -->
 
-## Resilience and restoration
+## Resilience and restoration of Appalachian ecosystems
 <hr>
 
 **<span style="color:blue">Different elements of vulnerability</span>: The degree to which a species or system is susceptible to adverse effects of global change is a function of:**
@@ -417,9 +421,9 @@ output:
 <br/>
 
 - **<span style="color:darkred">Our</span> <span style="color:darkorange">systems</span> are out of balance**
-    + Earth systems at different scales
-    + Our own body systems
-    + Many of our socio-political-cultural systems
+    + different Earth systems at different scales
+    + our own body systems
+    + many of our socio-political-cultural systems
 
 <br/>
 <br/>
