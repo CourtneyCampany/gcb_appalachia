@@ -9,29 +9,28 @@ output:
 
 ## Major arguments against climate/global change
 <hr>
-<br/>
 
-* <span style="color:red">**Myth 1:</span> 'The climate has always been changing, this is no different'** 
-
-<br/>
-
-* <span style="color:red">**Myth 2:</span> 'It’s freezing outside – so much for global warming!'**
+* <span style="color:red">**Myth 1:</span> The climate has always been changing, this is no different** 
 
 <br/>
 
-* <span style="color:red">**Myth 3:</span> 'Carbon dioxide can’t be responsible for climate change – plants, crops and trees need CO~2~ to grow'**
+* <span style="color:red">**Myth 2:</span> It’s freezing outside – so much for global warming!**
 
 <br/>
 
-* <span style="color:red">**Myth 4:</span> 'There’s no way humans are responsible for climate change**
+* <span style="color:red">**Myth 3:</span> CO~2~ can’t be responsible for climate change – plants, crops, and trees remove CO~2~ to grow**
 
 <br/>
 
-* <span style="color:red">**Myth 5:</span> 'It’s solar changes that are causing the earth to warm, not us'**
+* <span style="color:red">**Myth 4:</span> There’s no way humans are responsible for climate change**
 
 <br/>
 
-* <span style="color:red">**Myth 6:</span> 'There’s no point doing anything – it’s all too late'**
+* <span style="color:red">**Myth 5:</span> It’s solar changes that are causing the earth to warm, not us**
+
+<br/>
+
+* <span style="color:red">**Myth 6:</span> There’s no point doing anything – it’s all too late**
 
 ## Myth 1 = NO: Current atmospheric change at unrivaled rates
 <hr>
@@ -43,12 +42,12 @@ output:
 <br/>
 
 * **Global temperature rise**
-    + The planet's average surface temperature has risen about 1.1 degrees Celsius (°C) – since the late 19th century. Mostly in the past 40 years.
+    + The planet's average surface temperature has risen 1.1 degrees Celsius (°C) – since the pre-industrial era. The rate of increase has doubled in the past 40 years. Last 10 years = warmest during this period.
 
 <br/>
 
 * **Warming oceans**
-    + Rising temperatures are causing glaciers and ice sheets to melt, adding more water to the oceans and causing the sea level to rise. Oceans absorb 90% of the extra heat from global warming with the top 100 meters of ocean showing warming of more than 0.33°C (0.6°F) since 1969. Buoys of the coast of Key West are now reaching 100°F in the summer. 
+    + Rising temperatures are causing glaciers and ice sheets to melt, adding more water to the oceans and causing the sea level to rise. Oceans absorb 90% of the extra heat from global warming with the top 100 meters of ocean showing warming of more than 0.33°C (0.6°F) since 1969. Buoys of the coast of Key West are now reaching +100°F in the summer. 
   
 <br/>
 
@@ -189,7 +188,7 @@ https://ed-hawkins.github.io/climate-visuals/SPIRALS/global_temperature_spiral_l
 * **Various phenomena associated with this new epoch** 
     + an increase in erosion and the movement of sediments associated with urbanization and agriculture
     + unprecedented new materials, such as concrete, fly ash (a coal combustion product) and plastics, are now part of the sedimentary record
-    + impact extends to ecosystem changes such as rampant deforestation and the biodiversity losses
+    + impact extends to ecosystem changes such as rampant deforestation and biodiversity loss
 
 </div>
 
