@@ -35,7 +35,7 @@ output:
 
 ## What is the grand conservation challenge?
 <hr>
-**https://conservationxlabs.com/grand-challenges**
+**https://conservationxlabs.com/**
 <br/>
 
 - **<span style="color:blue">Preserve biological diversity</span>**
@@ -159,7 +159,7 @@ output:
 
 <IMG STYLE="position:absolute; TOP:300px; LEFT:600px; WIDTH:350px; HEIGHT:250px" SRC="images/oprah.jpg">
 
-## Say we decide to prioritize a favorite species
+## Say we decide to prioritize a Appalachian amphibians..
 <hr>
 
 **Of the ~6,500 known amphibians more than 1/3 are threatened with extinction (IUCN Red List)**
@@ -168,7 +168,13 @@ output:
 <br/>
 <br/>
 
+<div style="float: left; width: 48%;">
+
 <span style="color:darkblue">**Which should we prioritize?**</span>
+<br/>
+**There are over a 100 species of native Appalachian salamander and ~60% are threatened with extinction**
+
+</div>
 
 <IMG STYLE="position:absolute; TOP:180px; LEFT:500px; WIDTH:450px; HEIGHT:300px" SRC="images/frogendanger.png">
 
@@ -322,7 +328,10 @@ output:
 
 <div style="float: right; width: 52%;">
 
-**For example, closing dive tourism in coral reefs during heavy storm seasons**
+**For example:**
+<br/>
+
+**Closing dive tourism in coral reefs during heavy storm seasons**
 <br/>
 
 **vs**
@@ -337,7 +346,15 @@ output:
 ## Flexibilities and complexities
 <hr>
 <br/>
-**There have been some captive breeding “success stories”**
+
+* **There have been *some* captive breeding “success stories”**
+
+<br/>
+
+* **There are lots of issues that do lend toward failure:**
+    + lower fertility, behavioral changes, genetic degradation
+    + lack of reintroduction
+    + lack of post-release support
 
 <IMG STYLE="position:absolute; TOP:540px; LEFT:50px; WIDTH:1000px; HEIGHT:150px" SRC="images/breeding.png">
 
@@ -362,7 +379,7 @@ output:
 ## Flexibilities and complexities
 <hr>
 <br/>
-**There have been some captive breeding “success stories” and other high profile attempts… but only effective when coupled with efforts to reduce threats**
+**There have been some captive breeding “success stories” and other high profile attempts… but only effective when coupled with efforts to reduce threats (fine + course filter)**
 
 <IMG STYLE="position:absolute; TOP:240px; LEFT:200px; WIDTH:700px; HEIGHT:400px" SRC="images/quote.png">
 
@@ -384,7 +401,6 @@ output:
 <br/>
 <br/>
 
-**<span style="color:blue">Adaptive management</span>: Learning-by-doing**
 
 <IMG STYLE="position:absolute; TOP:230px; LEFT:20px; WIDTH:400px; HEIGHT:400px" SRC="images/adaptive.png">
 
@@ -398,7 +414,7 @@ output:
 <hr>
 <br/>
 
-**<span style="color:blue">The law of unintended consequences (aka hubris)</span>: “intervention in a complex system tends to create unanticipated and often undesirable outcomes”**
+**<span style="color:blue">The law of unintended consequences </span>: “intervention in a complex system tends to create unanticipated and often undesirable outcomes”**
 
 <br/>
 <br/>
