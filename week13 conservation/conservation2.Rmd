@@ -69,7 +69,7 @@ output:
 
 <div style="float: left; width: 49%;">
 
-**Imagine that an ecologically important Appalachian species (e.g., a key predator or an ecosystem engineer) has very recently been lost from a local community. The loss is clearly caused by humans (e.g., over-hunting or over-harvest)**
+**Imagine that an ecologically important Appalachian species (e.g., a key predator or an ecosystem engineer) has very recently been lost from a local community (local population extinction). The loss is clearly caused by humans (e.g., over-hunting or over-harvest)**
 
 </div>
 
@@ -82,7 +82,7 @@ output:
 
 <div style="float: left; width: 49%;">
 
-**<span style="color:blue">All else being equal, should we reintroduce the ecologically important endemic Appalachian species that was recently extirpated if it is still found nearby?</span>** 
+**<span style="color:blue">All else being equal, should we reintroduce the ecologically important endemic Appalachian species that was recently extirpated if other populations are found nearby?</span>** 
 
 <br/>
 <br/>
@@ -263,11 +263,11 @@ output:
 
 <br/>
 
-**For example, is the Western elk species (already happened) and western mountain lion (could happen) appropirate?**
+**For example, is the Western elk species (already happened) and western mountain lion (could happen) appropirate in Appalachia?**
 
 <br/>
 
-**Are you willing to accept Chestnut conservation where the hybrids have >70% of their genomes from Chinese species to be blight resistant?**
+**Are you willing to accept Chestnut re-establishment where the hybrids have >70% of their genomes from Chinese species to be blight resistant?**
 
 <br/>
 
@@ -329,6 +329,11 @@ output:
 
 **If we can resurrect species, why don’t we just bring back the species that went extinct and not fuss about taxon substitutions**
 
+<br/>
+<br/>
+
+<span style="color:green">**Lost megafauna in Appalachia: American mastodon, wollly mammoth, woodland bison, eastern elk, ground sloth, helmeted musk-ox**</span>
+
 </div>
 
 <IMG STYLE="position:absolute; TOP:260px; LEFT:550px; WIDTH:450px; HEIGHT:300px" SRC="images/jpark2.jpg">
@@ -387,7 +392,7 @@ output:
 
 <br/>
 
-* **<span style="color:blue">Cloning</span> : grow new individual from genetic material of a single parent (transferred to modified egg cell)**
+* **<span style="color:blue">Cloning</span> : grow new individual from genetic material of a single parent (transferred to egg cell)**
 
 <br/>
 
@@ -395,7 +400,7 @@ output:
 
 ## From Dolly to De-extinction
 <hr>
-**“The researchers who brought back the bucardo stated that only two things stand between them and a whole herd of healthy de-extinct bucardo: time and money”**
+**“The researchers who brought back the bucardo stated that only two things stand between them and a whole herd of healthy de-extinct bucardo: time, money, and permission”**
 
 <IMG STYLE="position:absolute; TOP:220px; LEFT:0px; WIDTH:1100px; HEIGHT:450px" SRC="images/dolly.png">
 

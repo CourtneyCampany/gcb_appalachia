@@ -1,0 +1,454 @@
+---
+title: "Aligning Biodiversity and Human Needs: Policy"
+output: 
+  ioslides_presentation:
+    css: custom2.css
+    widescreen: true
+    smaller: true
+---
+
+## What is policy?
+<hr>
+<br/>
+
+**<span style="color:blue">“A course or method of action selected among alternatives that guides present and future decisions”</span>**
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+**“A decision coupled with the authority to act on it”**
+
+<IMG STYLE="position:absolute; TOP:240px; LEFT:150px; WIDTH:800px; HEIGHT:300px" SRC="images/policy.png">
+
+## What is policy?
+<hr>
+<br/>
+<br/>
+<br/>
+
+<div style="float: left; width: 48%;">
+
+**Policy actions can include:**
+<br/>
+
+**legislation**
+<br/>
+
+**regulation**
+<br/>
+
+**coordination**
+<br/>
+
+**motivation**
+
+<br/>
+<br/>
+
+**Ultimately, policies can provide incentives to align the interests of biodiversity and human societies**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:525px; WIDTH:500px; HEIGHT:400px" SRC="images/policy2.jpg">
+
+## What is policy?
+<hr>
+<br/>
+<br/>
+<br/>
+<br/>
+
+<div style="float: left; width: 49%;">
+
+**<span style="color:darkred">Incentive:</span> something that motivates or encourages particular behavior**
+
+<br/>
+
+*Make it easier for states to establish land as a preserve or make it harder for companies to pollute or emit CO~2~*
+
+<br/>
+
+**<span style="color:darkred">Perverse incentive:</span> unintended or undesirable results contrary to initial motivation**
+
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/perverse.jpg">
+
+## Classic examples of perverse incentives:
+<hr>
+<br/>
+
+**French colonial government in Honoi paying locals to exterminate rats &#8594;<span style="color:darkred">
+<br/>
+led to the farming of rats and increased rat problem</span>**
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+**Carbon credits grant nations the right to emit gases that contribute to global warming. Developed nations are able to earn carbon credits by investing in emissions-reduction projects &#8594;<span style="color:darkred"> 
+<br/>
+For greenhouse gases trifluoromethane and sulfur hexafluoride, the value of the credits obtained can exceed the cost of destroying these gases in the production process, creating a 'perverse' incentive to increase production so that credits can be claimed.</span>**
+
+
+<IMG STYLE="position:absolute; TOP:245px; LEFT:275px; WIDTH:500px; HEIGHT:200px" SRC="images/mouse2.png">
+
+## What is policy?
+<hr>
+<br/>
+
+**<span style="color:darkred">Let’s examine examples of policy to protect biodiversity and their incentive structures</span>**
+
+<IMG STYLE="position:absolute; TOP:240px; LEFT:175px; WIDTH:700px; HEIGHT:400px" SRC="images/policy3.png"> 
+
+## Endangered Species Act
+<hr>
+<br/>
+
+**One of the most important pieces of legislation on biodiversity in the US**
+
+<br/>
+
+**<span style="color:darkred">The Endangered Species Act (1973)</span>: “The purpose of the ESA is to protect and recover imperiled species and the ecosystems upon which they depend”**
+
+<IMG STYLE="position:absolute; TOP:490px; LEFT:75px; WIDTH:950px; HEIGHT:100px" SRC="images/epa.png"> 
+
+## Endangered Species Act
+<hr>
+<br/>
+
+**One of the most important pieces of legislation on biodiversity in the US**
+
+<br/>
+
+**The ESA also interfaces with the 175-nation agreement to prevent species extinctions due to international trade **
+
+<br/>
+
+<span style="color:darkred">**CITES:**</span>
+<br/>
+**C.onvention on **
+**I.nternational T.rade **
+<br/>
+**in E.ndangered S.pecies**
+<br/>
+**of Wild Fauna and Flora**
+
+<IMG STYLE="position:absolute; TOP:350px; LEFT:600px; WIDTH:350px; HEIGHT:200px" SRC="images/tusks.png">
+
+## Endangered Species Act
+<hr>
+<br/>
+
+**One of the most important pieces of legislation on biodiversity in the US**
+
+<br/>
+
+**There are > 2,200 species listed as endangered or threatened in the US **
+
+<br/>
+
+**In total there have been 94 species de-listed**
+<br/>
+**<span style="color:blue">62 due to recovery</span>**
+<br/>
+**<span style="color:blue">11 due to extinction</span>**
+<br/>
+**<span style="color:blue">21 due to “original data in error”</span>**
+
+<IMG STYLE="position:absolute; TOP:490px; LEFT:75px; WIDTH:950px; HEIGHT:100px" SRC="images/epa.png"> 
+
+## Endangered Species Act is powerful but complicated
+<hr>
+<br/>
+
+**<span style="color:blue">What incentive structure does the ESA establish?</span>**
+<br/>
+
+**<span style="color:darkred">What are some perverse incentives that the ESA might unintentionally establish?</span>**
+
+## Endangered Species Act is powerful but complicated
+<hr>
+<br/>
+
+**<span style="color:blue">What incentive structure does the ESA establish?</span>**
+<br/>
+
+**<span style="color:darkred">What are some perverse incentives that the ESA might unintentionally establish?</span>**
+<br/>
+
+* **Pre-emptive habitat destruction (to prevent endangered species from establishing, e.g., harvesting trees early so they don’t become old enough to become suitable habitat)**
+
+<br/>
+
+* **Direct removal of endangered species (to prevent government from imposing restrictions on the land, e.g., “shoot, shovel and shut up”)**
+
+<br/>
+
+* **Increased harvest of endangered species to make money off their rarity**
+
+<br/>
+
+* **Focus on individual species instead of ecosystem**
+
+## Beyond the Endangered Species Act
+<hr>
+<br/>
+
+**There is a perverse incentives structure implicit in much of our economic system**
+
+<br/>
+
+**<span style="color:darkred">In the extreme… perverse business ideas like:</span>**
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+**<span style="color:darkred">Even in less extreme examples, there is a perverse incentive simply because we do not pay for the actual value of the ecosystem services we use.</span>**
+
+<IMG STYLE="position:absolute; TOP:360px; LEFT:200px; WIDTH:700px; HEIGHT:200px" SRC="images/lastcatch.png">
+
+## Motivation
+<hr>
+<br/>
+
+**<span style="color:darkred">How can we motivate individuals, collectives, and policy makers to make more sustainable choices?</span> **
+
+<IMG STYLE="position:absolute; TOP:240px; LEFT:200px; WIDTH:600px; HEIGHT:400px" SRC="images/social.png">
+
+## Motivation - Policy consequences are more than just $$$
+<hr>
+<br/>
+
+**<span style="color:darkred">Externality:</span> A consequence (positive or negative) of an industrial or commercial activity that affects other parties without this being reflected in the cost of the goods or services involved.**
+
+<br/>
+<br/>
+<br/>
+
+<div style="float: left; width: 45%;">
+**Often discussed in financial terms, but also deep humanitarian and environmental justice concerns **
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:300px; LEFT:525px; WIDTH:550px; HEIGHT:350px" SRC="images/externals.jpg">
+
+<!-- ## Motivation - Policies are more than $$$ -->
+<!-- <hr> -->
+<!-- <br/> -->
+
+<!-- **<span style="color:darkred">Externality:</span> A consequence (positive or negative) of an industrial or commercial activity that affects other parties without this being reflected in the cost of the goods or services involved.** -->
+
+<!-- <br/> -->
+<!-- <br/> -->
+<!-- <br/> -->
+<!-- <br/> -->
+
+<!-- <div style="float: left; width: 50%;"> -->
+<!-- **Examples: Fossil fuel production, mining, water use, chemical contamination, etc.** -->
+
+<!-- </div> -->
+
+<!-- <IMG STYLE="position:absolute; TOP:340px; LEFT:550px; WIDTH:350px; HEIGHT:300px" SRC="images/smoke.jpg"> -->
+
+## Motivation - Increase community buy-in
+<hr>
+<br/>
+
+**<span style="color:darkred">Example, large West Virginia landowners get a monetary incentive for planning adjacent conservation easements</span>**
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:100px WIDTH:400px; HEIGHT:375px" SRC="images/easement.png">
+
+<IMG STYLE="position:absolute; TOP:250px; LEFT:600px; WIDTH:400px; HEIGHT:375px" SRC="images/easement2.png">
+
+## Motivation - Increase community buy-in
+<hr>
+<br/>
+
+<span style="color:darkred">**Another example: conservationists, scientists, rice farmers, and the public joining together to protect migratory shorebirds**</span>
+
+<IMG STYLE="position:absolute; TOP:300px; LEFT:50px; WIDTH:1000px; HEIGHT:250px" SRC="images/bird.png">
+
+## Bigger picture change
+<hr>
+<br/>
+
+**Many of the examples we have discussed so far assume a political-social-economic system that is similar to what we have today.**
+
+<br/>
+
+**But what if we (as individuals and societies) shifted some of the underlying assumptions?**
+
+<br/>
+
+<span style="color:darkred">**What might be possible then?**</span>
+
+## Bigger picture change: **Financial wealth**
+<hr>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/wealth.png">
+
+## Bigger picture change: **Financial wealth, wealth inequity**
+<hr>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/wealth2.png">
+
+## Financial wealth, wealth inequity, and impacts
+<hr>
+
+<IMG STYLE="position:absolute; TOP:160px; LEFT:100px; WIDTH:900px; HEIGHT:500px" SRC="images/wealth3.png">
+
+## Bigger picture change
+<hr>
+<span style="color:darkred">**Systemic commitment to ecological health…carbon neutrality**</span>
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:20px; WIDTH:500px; HEIGHT:400px" SRC="images/costarica.png">
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:550px; WIDTH:500px; HEIGHT:350px" SRC="images/costarica2.png">
+
+## Bigger picture change
+<hr>
+<span style="color:darkred">**Systemic commitment to health… reconciliation ecology**</span>
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+**Designing new habitats for other species in the midst of where people live and work...
+<br/>
+in the age of the Anthropocene**
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:25px; WIDTH:500px; HEIGHT:400px" SRC="images/urbanforests.jpg">
+
+<IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/urbanforests2.jpg">
+
+## Bigger picture change
+<hr>
+<span style="color:darkred">**Systemic commitment to ecological health… alternate measures of prosperity**</span>
+
+<br/>
+
+**1972 king of Bhutan: “Gross National Happiness is more important than Gross National Product”**
+
+<br/>
+
+**GNH instituted as the goal in the Constitution of Bhutan in 2008**
+
+<br/>
+<br/>
+
+<div style="float: left; width: 55%;">
+
+<span style="color:blue">**The concept implies that sustainable development should take a holistic approach towards notions of progress and give equal importance to non-economic aspects of wellbeing**</span>
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:320px; LEFT:680px; WIDTH:375px; HEIGHT:375px" SRC="images/gnh.png">
+
+## Closing: Environmental worldviews
+<hr>
+<br/>
+
+<span style="color:blue">**What if it’s not your job to save the world?**</span>
+ 
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+ 
+**We live inside of – and become - the stories we tell ourselves**
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:100px; WIDTH:800px; HEIGHT:350px" SRC="images/cartoon.png">
+
+## Closing: Let's avoid tired stories
+<hr>
+<br/>
+
+<div style="float: left; width: 55%;">
+
+**The environment is there to use for human gain...(sigh)**
+
+<br/>
+
+**Growth is good...(sigh)**
+
+<br/>
+
+**We can fix problems primarily with technology...(sigh)**
+
+</div>
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+<span style="color:blue">**New and creative responses are needed to promote a Life-Sustaining Society &#8594; action must come from a deeper cultural shift**</span>
+
+<br/>
+
+<span style="color:blue">**We are not separate or separable from each other, other life forms, and the Earth**</span>
+
+<IMG STYLE="position:absolute; TOP:180px; LEFT:620px; WIDTH:350px; HEIGHT:350px" SRC="images/world.jpg">
