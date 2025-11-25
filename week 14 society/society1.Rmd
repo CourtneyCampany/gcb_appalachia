@@ -10,7 +10,6 @@ output:
 ## Coupled human-natural systems
 <hr>
 <br/>
-<br/>
 
 <div style="float: left; width: 48%;">
 
@@ -19,13 +18,17 @@ output:
 <br/>
 
 **Human survival depends on thriving ecosystems and ecosystem health now depends on the choice humans make**
+
+<br/>
+
+<span style="color:purple;">**In Appalachia, clean headwater streams, intact forests, and stable mountain slopes literally protect towns from floods, landslides, and drinking-water crises**</span>
+
 </div>
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:550px; WIDTH:450px; HEIGHT:500px" SRC="images/interact.png">
 
 ## Coupled human-natural systems
 <hr>
-<br/>
 <br/>
 
 <div style="float: left; width: 48%;">
@@ -38,11 +41,10 @@ output:
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:160px; LEFT:550px; WIDTH:450px; HEIGHT:500px" SRC="images/interact.png">
+<IMG STYLE="position:absolute; TOP:160px; LEFT:550px; WIDTH:450px; HEIGHT:500px" SRC="images/mining1.png">
 
 ## Coupled human-natural systems
 <hr>
-<br/>
 <br/>
 
 <div style="float: left; width: 48%;">
@@ -57,22 +59,67 @@ output:
 
 <span style="color:blue">**And successful social reform and sustainable futures for humans will require biodiversity conservation**</span>
 
+<br/>
+
+<span style="color:red">**Example: Mountaintop-removal mining in Central Appalachia – high global demand for coal, local loss of forest, headwater streams, and community health**</span>
+
 </div>
 
-<IMG STYLE="position:absolute; TOP:160px; LEFT:550px; WIDTH:450px; HEIGHT:500px" SRC="images/interact.png">
+<IMG STYLE="position:absolute; TOP:160px; LEFT:550px; WIDTH:450px; HEIGHT:500px" SRC="images/mining2.png">
+
 
 ## Coupled human-natural systems
 <hr>
-**<span style="color:blue">So many creative solutions are possible</span>**
 <br/>
+
+<div style="float: left; width: 55%;">
+
+**Case Study: Are creative solutions possible with mountain**
+<br/>
+
+**“The fact that coal companies can blast away the tops of 500 of the oldest and most biodiverse mountains on the continent shows an utter disrespect for the communities that have to live with the destruction of their land, air and water,” said Matt Wasson, with Appalachian Voices.**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:220px; LEFT:600px; WIDTH:450px; HEIGHT:500px" SRC="images/miningchart.jpg">
+
+
+## Coupled human-natural systems
+<hr>
+<br/>
+
+<div style="float: left; width: 55%;">
+
+**Case Study: Are creative solutions possible with mountaintop removal?**
+
+<br/>
+
+<span style="color:blue">**In Appalachia, creative solutions might mean: red spruce restoration, mine-land solar, trail-based economies, floodplain buyouts, and stream restoration instead of more extraction**</span>
+
+</div>
 
 <IMG STYLE="position:absolute; TOP:220px; LEFT:100px; WIDTH:900px; HEIGHT:450px" SRC="images/treecity.png">
 
 ## Coupled human-natural systems
 <hr>
+<hr>
+<br/>
+
+<div style="float: left; width: 53%;">
+
 **<span style="color:blue">So many creative solutions are possible</span> but they require commitment from, interaction between, and honoring of...**
 
-<IMG STYLE="position:absolute; TOP:220px; LEFT:300px; WIDTH:450px; HEIGHT:450px" SRC="images/diagram.png">
+<br/>
+
+**The mining industry exploits a federal provision that exempts them from restoring the land to its “approximate original contour” if there is a plan to develop the land for “equal or better economic use” (e.g., industrial, residential or public use**
+
+<br/>
+
+**However, only ~4% of mountains in Kentucky and West Virginia, where 80 percent of the mining is occurring, had any post-mining economic activity**
+
+</div>
+
+<IMG STYLE="position:absolute; TOP:260px; LEFT:600px; WIDTH:450px; HEIGHT:400px" SRC="images/fail.jpg">
 
 ## How can people support biodiversity conservation?
 <hr>
@@ -102,7 +149,7 @@ output:
 * **Collectives, through:**
     + ecotourism
     + sustainable food production
-    + cradle-to-cradle manufacturing
+    + community solar projects
 
 </div>
 
@@ -110,7 +157,32 @@ output:
 
 ##
 
-<IMG STYLE="position:absolute; TOP:100px; LEFT:50px; WIDTH:950px; HEIGHT:500px" SRC="images/tolle.jpg">
+**In Appalachia, ‘frequency-holders’ hold a steady note of care for land and community—through art, activism, teaching, parenting, and everyday acts of showing up**
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+**Think of ‘frequency-holders’ in Appalachia as the quiet backbone: people who keep tending to mountains, rivers, and relationships, even when no one is watching**
+
+<IMG STYLE="position:absolute; TOP:110px; LEFT:50px; WIDTH:950px; HEIGHT:500px" SRC="images/tolle.jpg">
 
 ## How can people support biodiversity conservation?
 <hr>
@@ -119,13 +191,13 @@ output:
 <span style="color:blue">**Through …**</span>
 <br/>
 
-<span style="color:blue">**the things we do**</span>
+<span style="color:blue">**the things we do</span> (support trail systems, clean-ups, flood-relief)**
 <br/>
 
 <span style="color:blue">**and**</span>
 <br/>
 
-<span style="color:blue">**the ways we be**</span>
+<span style="color:blue">**the ways we be</span> (see yourself as a ‘watershed neighbor’ whose choices affect people downstream)**
 
 <IMG STYLE="position:absolute; TOP:380px; LEFT:40px; WIDTH:1000px; HEIGHT:300px" SRC="images/garfield.gif">
 
@@ -152,7 +224,7 @@ output:
 
 <!-- <IMG STYLE="position:absolute; TOP:400px; LEFT:0px; WIDTH:700px; HEIGHT:300px" SRC="images/tree.png"> -->
 
-## Extinction class sessions
+## Root causes: nature's decline
 <hr>
 
 <div style="float: left; width: 50%;">
@@ -175,14 +247,19 @@ output:
     + Feeling of lack
     + Feeling of separation
 
+<br/>
+
+* **<span style="color:darkred">What are the root causes in Appalachia?</span>**
+    + coal, gas, timber, and now data-centers
+    + ‘resource curse’ economies
+    + opioid crisis and health disparities
+
 </div>
 
-<IMG STYLE="position:absolute; TOP:400px; LEFT:0px; WIDTH:700px; HEIGHT:300px" SRC="images/tree.png">
+<IMG STYLE="position:absolute; TOP:400px; LEFT:0px; WIDTH:580px; HEIGHT:300px" SRC="images/tree.png">
 
-## Extinction class sessions
+## Root causes: nature's decline
 <hr>
-<br/>
-<br/>
 <br/>
 <br/>
 <br/>
@@ -192,6 +269,10 @@ output:
 <div style="float: right; width: 48%;">
 
 <span style="color:darkred">**What other effects do these root causes have?**</span>
+
+<br/>
+
+**Symptoms of these root causes are tangible and often have positive feedbacks to other planetary Earth systems, such as climate** 
 
 </div>
 
@@ -214,23 +295,26 @@ output:
 **The same extract and deplete mentality is impacting our planet, biosphere, social, emotional, and educational systems…**
 
 <br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+
+<span style="color:darkred">**Planet/thermometer: Record-breaking rain events and heat in WV/KY**</span>
+
 <br/>
 
-**This is painful....every one of us has a <span style="color:red">direct personal</span> relationship to at least one of these issues**
+<span style="color:darkred">**Extinction: “Hemlock woolly adelgid, chestnut blight, red spruce decline, brook trout habitat shrink**</span>
 
-<IMG STYLE="position:absolute; TOP:300px; LEFT:50px; WIDTH:1000px; HEIGHT:250px" SRC="images/people.png">
+<br/>
+
+<span style="color:darkred">**Hunger/poverty: “Food deserts and energy poverty in rural counties**</span>
+
+<br/>
+
+<span style="color:darkred">**Classroom: Under-funded rural schools; brain drain as students leave**</span>
+
+<br/>
+
+**This is painful....every one of us has likely a <span style="color:darkred">direct personal</span> relationship to at least one of these issues**
+
+<!-- <IMG STYLE="position:absolute; TOP:300px; LEFT:50px; WIDTH:1000px; HEIGHT:250px" SRC="images/people.png"> -->
 
 ## The world feels like it’s ablaze
 <hr>
@@ -255,7 +339,7 @@ output:
 <br/>
 <br/>
 
-**We don’t have 10,000 problems, we have a foundational problem with 10,000 faces**
+<span style="color:darkred">**Too hot to touch’ in Appalachian shows up as: back-to-back 100-year floods, unemployment after mines close, lack of FEMA assistance gaps for hurricane Helene, and political fights over energy transition**</span>
 
 <IMG STYLE="position:absolute; TOP:240px; LEFT:700px; WIDTH:300px; HEIGHT:300px" SRC="images/worldfire.jpg">
 
@@ -263,9 +347,12 @@ output:
 <hr>
 <br/>
 <br/>
-<br/>
 
 **So what is the medicine?**
+
+<br/>
+
+**Is what is needed in Appalachia fundamentally different than other areas?**
 
 <br/>
 <br/>
@@ -303,13 +390,15 @@ output:
 <hr>
 <br/>
 <br/>
-<br/>
 
 <div style="float: right; width: 45%;">
 
 <span style="color:blue">**Reinforce the truth:</span> that things wouldn’t be depressing if we didn’t care deeply**
 
 <br/>
+
+**<span style="color:darkred">Our caring is about the mountains and rivers we’d like future generations to inherit</span>**
+
 <br/>
 
 **Connecting to deep caring is totally different than a false “finding the silver lining”**
@@ -338,6 +427,14 @@ output:
 <br/>
 
 **Root causes affect everything....But now we constantly have real-time opportunities to practice this paradigm**
+
+</div>
+
+<br/>
+
+<div style="float: left; width: 99%;">
+
+**<span style="color:darkred">In WV, people may have been led to believe the only choices were more extraction or no jobs. What if our caring points to different actions – like restoration jobs, heritage tourism, small-scale farming, community solar?</span>**
 
 </div>
 
@@ -370,6 +467,14 @@ output:
 
 **And this action doesn’t have to be a fight against something**
 
+<br/>
+
+**This should be an opportunity to embrace new ideas**
+
+<br/>
+
+**Global change is global but can be tackled by any one or any group at any time**
+
 </div>
 
 <IMG STYLE="position:absolute; TOP:160px; LEFT:25px; WIDTH:525px; HEIGHT:500px" SRC="images/tree3.png">
@@ -396,7 +501,11 @@ output:
 
 <br/>
 
-**What could we ask Shepherd to do better everyday?**
+**What could we ask Shepherd University to do better everyday?**
+
+<br/>
+
+**How can Shepherd act as a model Appalachian campus?”**
 
 <IMG STYLE="position:absolute; TOP:400px; LEFT:650px; WIDTH:350px; HEIGHT:250px" SRC="images/solutions.png">
 
@@ -475,5 +584,5 @@ output:
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:220px; LEFT:250px; WIDTH:550px; HEIGHT:350px" SRC="images/greata.jpg">
+<IMG STYLE="position:absolute; TOP:220px; LEFT:250px; WIDTH:550px; HEIGHT:340px" SRC="images/greata.jpg">
 
