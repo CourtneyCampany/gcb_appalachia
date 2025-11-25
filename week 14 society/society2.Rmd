@@ -28,44 +28,44 @@ output:
 <br/>
 
 **“A decision coupled with the authority to act on it”**
+<br/>
+
+**E.g., A state decision to permit or deny a natural gas pipeline through a West Virginia county**
 
 <IMG STYLE="position:absolute; TOP:240px; LEFT:150px; WIDTH:800px; HEIGHT:300px" SRC="images/policy.png">
 
 ## What is policy?
 <hr>
 <br/>
-<br/>
-<br/>
 
 <div style="float: left; width: 48%;">
 
-**Policy actions can include:**
-<br/>
-
-**legislation**
-<br/>
-
-**regulation**
-<br/>
-
-**coordination**
-<br/>
-
-**motivation**
+* **Policy actions can include:**
+    + *legislation*
+        + WV Aboveground Storage Tank Act
+    + *regulation*
+        + rules on valley fills, acid mine drainage, and stream buffer zones
+    + *coordination*
+        + multi-state agreements for Ohio River/Chesapeake Bay watershed protection
+    + *motivation*
+        + tax credits for conservation easements
+</div>
 
 <br/>
+<br/>
+
+<div style="float: left; width: 99%;">
+
 <br/>
 
 **Ultimately, policies can provide incentives to align the interests of biodiversity and human societies**
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:525px; WIDTH:500px; HEIGHT:400px" SRC="images/policy2.jpg">
+<IMG STYLE="position:absolute; TOP:180px; LEFT:545px; WIDTH:500px; HEIGHT:400px" SRC="images/policy2.jpg">
 
 ## What is policy?
 <hr>
-<br/>
-<br/>
 <br/>
 <br/>
 
@@ -81,10 +81,21 @@ output:
 
 **<span style="color:darkred">Perverse incentive:</span> unintended or undesirable results contrary to initial motivation**
 
+</div>
+
+<br/>
+<br/>
+<br/>
+
+<div style="float: left; width: 99%;">
+
+<br/>
+
+**<span style="color:blue">How might flood-insurance policy or federal disaster aid create incentives (or perverse incentives) for rebuilding in flood-prone rural areas after Hurricane Helene?</span>**
 
 </div>
 
-<IMG STYLE="position:absolute; TOP:200px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/perverse.jpg">
+<IMG STYLE="position:absolute; TOP:170px; LEFT:550px; WIDTH:500px; HEIGHT:400px" SRC="images/perverse.jpg">
 
 ## Classic examples of perverse incentives:
 <hr>
@@ -113,11 +124,16 @@ For greenhouse gases trifluoromethane and sulfur hexafluoride, the value of the 
 
 ## What is policy?
 <hr>
-<br/>
 
 **<span style="color:darkred">Let’s examine examples of policy to protect biodiversity and their incentive structures</span>**
 
-<IMG STYLE="position:absolute; TOP:240px; LEFT:175px; WIDTH:700px; HEIGHT:400px" SRC="images/policy3.png"> 
+* **Appalachian parallels:**
+    + Water policy → Clean Water Act enforcement on mining companies
+    + Climate policy → State renewable portfolio standards
+    + Forest strategy → sustainable hardwood forestry
+    + Agricultural policy → Support for small farms, soil-health
+
+<IMG STYLE="position:absolute; TOP:370px; LEFT:300px; WIDTH:500px; HEIGHT:300px" SRC="images/policy3.png"> 
 
 ## Endangered Species Act
 <hr>
@@ -156,25 +172,24 @@ For greenhouse gases trifluoromethane and sulfur hexafluoride, the value of the 
 
 ## Endangered Species Act
 <hr>
-<br/>
-
-**One of the most important pieces of legislation on biodiversity in the US**
+**There are > 1600 native species listed as endangered or threatened in the US, including many in the Appalachian mountains**
 
 <br/>
 
-**There are > 2,200 species listed as endangered or threatened in the US **
+**Appalachian ESA species include: Indiana bat, Virginia big-eared bat, Cheat Mountain salamander, several freshwater mussels, and cool-water fish like the candy darter**
 
 <br/>
 
-**In total there have been 94 species de-listed**
+**In total there have been many species removed from the list**
 <br/>
-**<span style="color:blue">62 due to recovery</span>**
+**<span style="color:blue">54 due to recovery</span>**
 <br/>
-**<span style="color:blue">11 due to extinction</span>**
+**<span style="color:darkred">Roanake logperch (fish), Bald eagle, and Robbins' cinquefoil (alpine plant) in Appalachia</span>**
+**<span style="color:blue">56 downgraded to threatened</span>**
 <br/>
-**<span style="color:blue">21 due to “original data in error”</span>**
+**<span style="color:blue">32 due to extinction</span>**
 
-<IMG STYLE="position:absolute; TOP:490px; LEFT:75px; WIDTH:950px; HEIGHT:100px" SRC="images/epa.png"> 
+<IMG STYLE="position:absolute; TOP:550px; LEFT:75px; WIDTH:950px; HEIGHT:100px" SRC="images/epa.png"> 
 
 ## Endangered Species Act is powerful but complicated
 <hr>
@@ -184,6 +199,16 @@ For greenhouse gases trifluoromethane and sulfur hexafluoride, the value of the 
 <br/>
 
 **<span style="color:darkred">What are some perverse incentives that the ESA might unintentionally establish?</span>**
+
+<br/>
+<br/>
+
+**Imagine a landowner in WV who has a forest that might be used by an endangered bat. What incentives do they face as soon as ESA listing is mentioned?**
+
+<br/>
+<br/>
+
+**Tension: ESA protections for bats vs. pressure for new wind projects, pipelines, or timber harvests in Appalachian ridges**
 
 ## Endangered Species Act is powerful but complicated
 <hr>
@@ -217,7 +242,7 @@ For greenhouse gases trifluoromethane and sulfur hexafluoride, the value of the 
 
 <br/>
 
-**<span style="color:darkred">In the extreme… perverse business ideas like:</span>**
+**<span style="color:darkred"Who benefits from new gas pipelines, data centers, or renewable energy production in Appalachian regions? (remember the resource curse...)</span>**
 
 <br/>
 <br/>
@@ -255,6 +280,10 @@ For greenhouse gases trifluoromethane and sulfur hexafluoride, the value of the 
 
 <div style="float: left; width: 45%;">
 **Often discussed in financial terms, but also deep humanitarian and environmental justice concerns **
+
+<br/>
+
+**Acid mine drainage, flood risk from deforestation, black lung disease, and opioid addiction tied to boom-and-bust economies are all externalities that have shaped Appalachian communities**
 
 </div>
 
